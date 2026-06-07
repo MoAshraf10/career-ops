@@ -1,0 +1,400 @@
+# Portal Scanner Configuration — Mohamed Ashraf (Senior Data Engineer)
+# Customized for: Data Engineer, Data Platform Engineer, Analytics Engineer,
+# Data Analyst, Data Product Manager
+# Target markets: UAE, KSA, UK, Ireland, EU, Canada — remote or relocation
+
+title_filter:
+  positive:
+    # -- Data Engineering --
+    - "Data Engineer"
+    - "Data Platform"
+    - "Analytics Engineer"
+    - "Data Analyst"
+    - "Data Product"
+    - "Data Infrastructure"
+    - "Data Architect"
+    - "Data Operations"
+    - "DataOps"
+    - "MLOps"
+    - "ML Engineer"
+    - "Machine Learning Engineer"
+    # -- Specific tools (signal strong match) --
+    - "dbt"
+    - "Snowflake"
+    - "Databricks"
+    - "Airflow"
+    - "Dagster"
+    - "Spark"
+    - "PySpark"
+    # -- Platform & infra roles --
+    - "Platform Engineer"
+    - "Data Reliability"
+    - "BI Engineer"
+    - "Analytics Platform"
+  negative:
+    - "Junior"
+    - "Intern"
+    - "Graduate"
+    - "Entry Level"
+    - "iOS"
+    - "Android"
+    - "PHP"
+    - "Ruby"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "SAP "
+    - "COBOL"
+    - "Mainframe"
+    - "Cairo"
+    - "Egypt"
+  seniority_boost:
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+    - "Director"
+
+search_queries:
+  # -- Data engineering on major ATS --
+  - name: Greenhouse — Data Engineer UAE/KSA
+    query: 'site:job-boards.greenhouse.io "data engineer" OR "analytics engineer" Dubai OR "Abu Dhabi" OR Riyadh OR "Saudi Arabia" OR UAE OR KSA'
+    enabled: true
+
+  - name: Greenhouse — Data Engineer UK/IE
+    query: 'site:job-boards.greenhouse.io "data engineer" OR "analytics engineer" London OR Dublin OR "United Kingdom" OR Ireland remote'
+    enabled: true
+
+  - name: Greenhouse — Data Platform Engineer remote
+    query: 'site:job-boards.greenhouse.io "data platform engineer" OR "data infrastructure" OR "analytics engineer" remote'
+    enabled: true
+
+  - name: Ashby — Data Engineer remote
+    query: 'site:jobs.ashbyhq.com "data engineer" OR "analytics engineer" OR "data platform" remote'
+    enabled: true
+
+  - name: Ashby — Data Engineer EU/UK
+    query: 'site:jobs.ashbyhq.com "data engineer" OR "analytics engineer" London OR Dublin OR Berlin OR Amsterdam OR remote'
+    enabled: true
+
+  - name: Lever — Data Engineer remote
+    query: 'site:jobs.lever.co "data engineer" OR "analytics engineer" OR "data platform" remote'
+    enabled: true
+
+  - name: Lever — Data Engineer EU/UK/UAE
+    query: 'site:jobs.lever.co "data engineer" OR "analytics engineer" London OR Dubai OR Amsterdam OR remote'
+    enabled: true
+
+  - name: Greenhouse — dbt Snowflake Databricks
+    query: 'site:job-boards.greenhouse.io "dbt" OR "Snowflake" OR "Databricks" engineer remote UK OR Europe OR Canada'
+    enabled: true
+
+  - name: Greenhouse — Data Analyst senior
+    query: 'site:job-boards.greenhouse.io "senior data analyst" OR "staff data analyst" OR "lead data analyst" remote'
+    enabled: true
+
+  - name: Ashby — Data Analyst senior
+    query: 'site:jobs.ashbyhq.com "senior data analyst" OR "data analyst" remote'
+    enabled: true
+
+  - name: Greenhouse — Data Product Manager
+    query: 'site:job-boards.greenhouse.io "data product manager" OR "product manager data" remote'
+    enabled: true
+
+  - name: LinkedIn — Data Engineer UAE
+    query: '"data engineer" OR "analytics engineer" site:linkedin.com/jobs Dubai OR "Abu Dhabi" OR UAE OR Riyadh 2026'
+    enabled: true
+
+  - name: LinkedIn — Data Engineer UK/Ireland remote
+    query: '"senior data engineer" OR "analytics engineer" site:linkedin.com/jobs London OR Dublin OR UK OR Ireland remote 2026'
+    enabled: true
+
+  - name: LinkedIn — Data Engineer EU remote
+    query: '"senior data engineer" OR "data platform engineer" site:linkedin.com/jobs Amsterdam OR Berlin OR Toronto OR Canada remote 2026'
+    enabled: true
+
+  - name: Workable — Data Engineer
+    query: 'site:apply.workable.com "data engineer" OR "analytics engineer" remote OR "United Kingdom" OR UAE'
+    enabled: true
+
+tracked_companies:
+
+  # -- Data Platform & Tools --
+
+  - name: dbt Labs
+    careers_url: https://job-boards.greenhouse.io/dbtlabsinc
+    api: https://boards-api.greenhouse.io/v1/boards/dbtlabsinc/jobs
+    notes: "Remote-first. The dbt company. Data transformation platform."
+    enabled: true
+
+  - name: Databricks
+    careers_url: https://job-boards.greenhouse.io/databricks
+    api: https://boards-api.greenhouse.io/v1/boards/databricks/jobs
+    notes: "Remote global. Unified data+AI platform."
+    enabled: true
+
+  - name: Snowflake
+    careers_url: https://careers.snowflake.com
+    scan_method: websearch
+    scan_query: '"snowflake" "data engineer" OR "analytics engineer" OR "solutions engineer" site:job-boards.greenhouse.io OR site:careers.snowflake.com remote'
+    notes: "Remote global. Cloud data warehouse."
+    enabled: true
+
+  - name: Fivetran
+    careers_url: https://job-boards.greenhouse.io/fivetran
+    api: https://boards-api.greenhouse.io/v1/boards/fivetran/jobs
+    notes: "Remote global. Data movement / ELT platform."
+    enabled: true
+
+  - name: Airbyte
+    careers_url: https://jobs.ashbyhq.com/airbyte
+    notes: "Remote. Open-source data integration platform."
+    enabled: true
+
+  - name: Astronomer
+    careers_url: https://job-boards.greenhouse.io/astronomer
+    api: https://boards-api.greenhouse.io/v1/boards/astronomer/jobs
+    notes: "Remote. Managed Airflow (Astro platform)."
+    enabled: true
+
+  - name: Monte Carlo
+    careers_url: https://job-boards.greenhouse.io/montecarlodata
+    api: https://boards-api.greenhouse.io/v1/boards/montecarlodata/jobs
+    notes: "Remote. Data observability platform."
+    enabled: true
+
+  - name: Atlan
+    careers_url: https://jobs.lever.co/atlan
+    notes: "Remote. Data catalog / metadata management."
+    enabled: true
+
+  - name: Soda
+    careers_url: https://jobs.lever.co/soda
+    notes: "Remote EU. Data quality platform."
+    enabled: true
+
+  - name: Secoda
+    careers_url: https://jobs.ashbyhq.com/secoda
+    notes: "Remote. AI data catalog."
+    enabled: true
+
+  - name: Hightouch
+    careers_url: https://jobs.ashbyhq.com/hightouch
+    notes: "Remote. Reverse ETL / data activation."
+    enabled: true
+
+  - name: Coalesce
+    careers_url: https://jobs.lever.co/coalesce
+    notes: "Remote. Data transformation for Snowflake."
+    enabled: true
+
+  - name: Motherduck
+    careers_url: https://job-boards.greenhouse.io/motherduck
+    api: https://boards-api.greenhouse.io/v1/boards/motherduck/jobs
+    notes: "Remote. DuckDB cloud platform."
+    enabled: true
+
+  - name: Starburst
+    careers_url: https://job-boards.greenhouse.io/starburst
+    api: https://boards-api.greenhouse.io/v1/boards/starburst/jobs
+    notes: "Remote. Trino-based data lakehouse."
+    enabled: true
+
+  # -- MENA / UAE / KSA companies --
+
+  - name: Careem
+    careers_url: https://job-boards.greenhouse.io/careem
+    scan_method: websearch
+    scan_query: '"careem" "data engineer" OR "analytics engineer" OR "data platform" site:job-boards.greenhouse.io'
+    notes: "Dubai. Super-app. Large data org."
+    enabled: true
+
+  - name: Talabat
+    careers_url: https://talabat.com/uae/careers
+    scan_method: websearch
+    scan_query: '"talabat" "data engineer" OR "analytics engineer" Dubai OR UAE 2026'
+    notes: "Dubai. Food delivery platform (Delivery Hero subsidiary)."
+    enabled: true
+
+  - name: noon
+    careers_url: https://careers.noon.com
+    scan_method: websearch
+    scan_query: '"noon" careers "data engineer" OR "analytics engineer" Dubai OR UAE 2026'
+    notes: "Dubai. E-commerce platform."
+    enabled: true
+
+  - name: Tabby
+    careers_url: https://jobs.ashbyhq.com/tabby
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/tabby OR "tabby" "data" Dubai UAE 2026'
+    notes: "Dubai. BNPL fintech unicorn."
+    enabled: true
+
+  - name: Tamara
+    careers_url: https://jobs.lever.co/tamara
+    notes: "Riyadh. BNPL fintech. KSA market."
+    enabled: true
+
+  - name: Mambu
+    careers_url: https://job-boards.greenhouse.io/mambu
+    api: https://boards-api.greenhouse.io/v1/boards/mambu/jobs
+    notes: "Remote EU. Cloud banking platform, offices in Dubai."
+    enabled: true
+
+  - name: OKX
+    careers_url: https://job-boards.greenhouse.io/okx
+    api: https://boards-api.greenhouse.io/v1/boards/okx/jobs
+    notes: "Dubai. Crypto exchange — large data team."
+    enabled: true
+
+  # -- UK & Ireland --
+
+  - name: Monzo
+    careers_url: https://job-boards.greenhouse.io/monzo
+    api: https://boards-api.greenhouse.io/v1/boards/monzo/jobs
+    notes: "London. UK neobank, large data platform org."
+    enabled: true
+
+  - name: Revolut
+    careers_url: https://jobs.lever.co/revolut
+    notes: "London/Remote. Global fintech, strong data culture."
+    enabled: true
+
+  - name: Deliveroo
+    careers_url: https://jobs.lever.co/deliveroo
+    notes: "London UK. Food delivery, data platform team."
+    enabled: true
+
+  - name: Wise
+    careers_url: https://job-boards.greenhouse.io/wise
+    api: https://boards-api.greenhouse.io/v1/boards/wise/jobs
+    notes: "London/Tallinn. Fintech, strong data team."
+    enabled: true
+
+  - name: Checkout.com
+    careers_url: https://job-boards.greenhouse.io/checkoutcom
+    api: https://boards-api.greenhouse.io/v1/boards/checkoutcom/jobs
+    notes: "London/Dubai. Payments fintech, EU + MENA."
+    enabled: true
+
+  - name: Intercom
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    notes: "Dublin IE. Customer support AI, large data team."
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://job-boards.greenhouse.io/stripe
+    api: https://boards-api.greenhouse.io/v1/boards/stripe/jobs
+    notes: "Dublin/London/Remote. Payments infra, strong data culture."
+    enabled: true
+
+  - name: HubSpot
+    careers_url: https://job-boards.greenhouse.io/hubspot
+    api: https://boards-api.greenhouse.io/v1/boards/hubspot/jobs
+    notes: "Dublin IE. CRM platform, data platform team."
+    enabled: true
+
+  # -- EU & Canada --
+
+  - name: Adyen
+    careers_url: https://job-boards.greenhouse.io/adyen
+    api: https://boards-api.greenhouse.io/v1/boards/adyen/jobs
+    notes: "Amsterdam NL. Global payments platform."
+    enabled: true
+
+  - name: Booking.com
+    careers_url: https://jobs.lever.co/booking
+    notes: "Amsterdam NL. Large data org."
+    enabled: true
+
+  - name: Mollie
+    careers_url: https://job-boards.greenhouse.io/mollie
+    api: https://boards-api.greenhouse.io/v1/boards/mollie/jobs
+    notes: "Amsterdam NL. Payments fintech."
+    enabled: true
+
+  - name: N26
+    careers_url: https://job-boards.greenhouse.io/n26
+    api: https://boards-api.greenhouse.io/v1/boards/n26/jobs
+    notes: "Berlin DE. Mobile bank, data roles."
+    enabled: true
+
+  - name: Zalando
+    careers_url: https://jobs.lever.co/zalando
+    notes: "Berlin DE. Fashion e-commerce, large data platform."
+    enabled: true
+
+  - name: HelloFresh
+    careers_url: https://job-boards.greenhouse.io/hellofresh
+    api: https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs
+    notes: "Berlin DE. Large data/ML org."
+    enabled: true
+
+  - name: GetYourGuide
+    careers_url: https://job-boards.greenhouse.io/getyourguide
+    api: https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs
+    notes: "Berlin DE. Travel marketplace, data platform roles."
+    enabled: true
+
+  - name: Shopify
+    careers_url: https://job-boards.greenhouse.io/shopify
+    api: https://boards-api.greenhouse.io/v1/boards/shopify/jobs
+    notes: "Remote / Ottawa CA. E-commerce platform, large data team."
+    enabled: true
+
+  - name: Wealthsimple
+    careers_url: https://jobs.lever.co/wealthsimple
+    notes: "Toronto CA / Remote. Fintech, strong data team."
+    enabled: true
+
+  - name: Cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+    notes: "Toronto CA / Remote. AI/LLM provider, data infra roles."
+    enabled: true
+
+  - name: Celonis
+    careers_url: https://job-boards.greenhouse.io/celonis
+    api: https://boards-api.greenhouse.io/v1/boards/celonis/jobs
+    notes: "Munich DE / NYC. Process intelligence, data roles."
+    enabled: true
+
+  - name: Contentful
+    careers_url: https://job-boards.greenhouse.io/contentful
+    api: https://boards-api.greenhouse.io/v1/boards/contentful/jobs
+    notes: "Berlin DE. Headless CMS, data engineering roles."
+    enabled: true
+
+  - name: Trade Republic
+    careers_url: https://job-boards.greenhouse.io/traderepublicbank
+    api: https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs
+    notes: "Berlin/London. Neobroker, data platform roles."
+    enabled: true
+
+  - name: SumUp
+    careers_url: https://job-boards.greenhouse.io/sumup
+    api: https://boards-api.greenhouse.io/v1/boards/sumup/jobs
+    notes: "Berlin/London. Payments fintech, EU hiring."
+    enabled: true
+
+  - name: Qonto
+    careers_url: https://jobs.lever.co/qonto
+    notes: "Paris/Berlin/Barcelona/Milan. SMB neobank, analytics engineering roles."
+    enabled: true
+
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify
+    notes: "Stockholm SE / London / Remote. Audio platform, data engineering org."
+    enabled: true
+
+  - name: Mistral AI
+    careers_url: https://jobs.lever.co/mistral
+    notes: "Paris. European AI lab, data roles."
+    enabled: true
+
+  - name: Wayve
+    careers_url: https://job-boards.greenhouse.io/wayve
+    api: https://boards-api.greenhouse.io/v1/boards/wayve/jobs
+    notes: "London UK. Embodied AI, ML data pipeline roles."
+    enabled: true

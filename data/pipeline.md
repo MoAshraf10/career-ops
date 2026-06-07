@@ -1,0 +1,46 @@
+# Pipeline — Pending Evaluations
+
+## Pendientes
+
+- [ ] https://job-boards.greenhouse.io/careem/jobs/8075725002 | Careem | Staff Data Engineer I
+- [ ] https://job-boards.greenhouse.io/careem/jobs/7951734002 | Careem | Staff Software Engineer - Data Platform
+- [ ] https://job-boards.greenhouse.io/careem/jobs/8006547002 | Careem | Senior Data Warehouse Engineer I
+- [ ] https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7578076003 | Cobblestone Energy | DATA ENGINEER - Dubai, UAE
+- [ ] https://jobs.lever.co/jobgether/ceb053a8-e3fa-46aa-b8ff-7705d49817b4 | Jobgether | Data Engineer - UAE
+- [ ] https://jobs.lever.co/trendyol/7ebf3a7f-a557-49e5-97e3-b265c37046cf | Trendyol | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/6076740 | Monzo | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7873998 | Monzo | Lead Analytics Engineer, Borrowing
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7428548 | Monzo | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7555404 | Contentful | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7372771 | Contentful | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7859228 | Contentful | Analytical Engineer
+- [ ] https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/7859400 | Recursion | Sr. Data Platform Engineer
+- [ ] https://jobs.ashbyhq.com/immersivelabs/33146c51-193c-4793-adcd-562bfdfaf741 | Immersive Labs | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/acast/6c2f4f41-da8a-4dd4-a743-e60584229fff | Acast | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4118914009 | StackAdapt | Senior Big Data Engineer
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/6536972003 | Nearform | Senior Data Engineer - Ireland Remote
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6842872 | Intercom | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5973409004 | Dataiku | Data Engineer I
+- [ ] https://jobs.ashbyhq.com/sosafe/86d983aa-252a-41c6-8ef1-58b40cd6f23a | SoSafe | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/aircall/31cb45a5-31bb-4f4c-bcd7-ca78b9d615b7 | Aircall | Senior/Staff Data Engineer - Remote EMEA
+- [ ] https://jobs.lever.co/aircall/d9fc4c01-a12b-402e-94ee-9c3984a1fe79 | Aircall | Senior Data Engineer - Real-time Analytics
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/6077747 | Adyen | Data Engineer
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7559726 | Adyen | Data Engineer II
+- [ ] https://job-boards.greenhouse.io/fastspring/jobs/5836608004 | FastSpring | Staff Data Engineer
+- [ ] https://jobs.lever.co/qonto/f84c6c54-b8da-4651-afc5-6b77a4fe34e8 | Qonto | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/spotify/ca3766af-35b1-4d78-9e12-aab1ceca7ec3 | Spotify | Data Engineer - Business Strategy Insights Analytics
+- [ ] https://jobs.lever.co/mistral/6f28da96-76f9-44bb-9b85-4e3519fde6d4 | Mistral AI | Data Engineer
+- [ ] https://jobs.lever.co/yuno/0a1e498f-b0af-4955-bf94-e23b48faec00 | Yuno | Staff Engineer - Data Platform
+- [ ] https://jobs.lever.co/swapcard/ee499d3d-ffa5-439f-80cc-aedb92c24769 | Swapcard | Senior Data Engineer - Remote Europe
+- [ ] https://jobs.ashbyhq.com/onhires/f747b8e0-7135-4ea6-9749-b0c283f45b75 | OnHires | Lead Data Engineer - Remote Europe
+- [ ] https://jobs.ashbyhq.com/zoe/1f9b5b2d-69cf-4e64-bac1-14fb9b9312bb | ZOE | Commercial Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/6489864003 | Celonis | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/5978662004 | Xebia CEE | Data Platform Engineer
+- [ ] https://jobs.lever.co/360learning/aec0eeee-6c01-4afd-9dc6-e831e825c770 | 360Learning | Data Engineer
+- [ ] https://jobs.lever.co/zartis/a7d00c76-d0e5-4784-a0b2-3da0721493b8 | Zartis | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7775035 | Monzo | Senior Analytics Engineering Manager
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7483191003 | Nearform | Senior Data Engineer - Canada Remote
+- [ ] https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee | Cohere | Data Engineer, Data Foundations
+- [ ] https://jobs.lever.co/luxurypresence/718b0168-9197-40ca-b41d-a6ab53e8ea07 | Luxury Presence | Staff Analytics Engineer - Canada Remote
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4673224005 | dbt Labs | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5613711004 | Hightouch | Analytics Engineer
