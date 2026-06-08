@@ -44,3 +44,35 @@
 - [ ] https://jobs.lever.co/luxurypresence/718b0168-9197-40ca-b41d-a6ab53e8ea07 | Luxury Presence | Staff Analytics Engineer - Canada Remote
 - [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4673224005 | dbt Labs | Senior Data Engineer
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5613711004 | Hightouch | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/5094763 | Monzo | Analytics Engineering Lead, Borrowing
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/6582025 | Monzo | Data Analyst
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7660176003 | OKX | Data Engineer
+- [ ] https://job-boards.greenhouse.io/okx/jobs/6651092003 | OKX | Senior/Staff Engineer, Data Platform Development
+- [ ] https://job-boards.greenhouse.io/careem/jobs/8230063002 | Careem | Data Analyst I
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7686492 | Adyen | Compliance Data Analyst
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7204616 | Adyen | MLOps Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/6506212003 | Celonis | Data Engineer and Marketing Analytics Manager
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5651304004 | Dataiku | Senior Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5277297004 | Dataiku | Software Engineer - Data Platform (FR, UK, DE, NL)
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5836898004 | Dataiku | Data Engineer - Dataiku Cloud
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5810656004 | Grafana Labs | Senior Data Engineer - Canada Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5850010004 | Grafana Labs | Senior Analytics Engineer - Canada Remote
+- [ ] https://job-boards.greenhouse.io/tide/jobs/6039463003 | Tide | Lead Data Engineer (Snowflake/DBT)
+- [ ] https://job-boards.greenhouse.io/recordedfuture/jobs/8154898002 | Recorded Future | Senior Data Engineer - Remote UK
+- [ ] https://job-boards.greenhouse.io/theknotworldwide/jobs/5113420008 | The Knot Worldwide | Senior Data Engineer (Ireland/UK)
+- [ ] https://jobs.ashbyhq.com/MUBI/b80ac874-252a-4585-9108-bf3e0d2aa38b | MUBI | Data Engineer
+- [ ] https://jobs.ashbyhq.com/vanta/2a89eb83-9e4c-48e0-a967-2a5b33058f20 | Vanta | Staff Data Engineer
+- [ ] https://jobs.ashbyhq.com/sosafe/a4582aa2-71a6-4861-ad4b-82e880ed00fc | SoSafe | Senior Data Analytics Engineer
+- [ ] https://jobs.lever.co/pennylane/2d07c1ef-a246-4571-8f60-2c7e099d7c5f | Pennylane | Senior Data Engineer - Data Platform (EU Remote)
+- [ ] https://jobs.lever.co/jobgether/94ef52e1-7224-4583-83fe-4231ccbe6bc1 | Jobgether | Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/5219a11b-3a39-409c-a5ee-2d3d9f66d91c | Jobgether | Lead Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/d3c8ff03-c2e9-4052-9a42-1f8e6fb2b56b | Jobgether | Remote Analytics Data Engineer
+- [ ] https://jobs.lever.co/jobgether/5c0d88fe-dfef-49bc-8f4c-326423697f7f | Jobgether | Sr Data Platform Engineer - Remote
+- [ ] https://jobs.lever.co/jobgether/2054c73d-3367-4658-a474-1cba46d378e2 | Jobgether | Senior Analytics Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/56d69203-2480-43a2-92e0-534d2fbe3cf3 | Jobgether | Data Engineer (Remote from Netherlands)
+- [ ] https://jobs.lever.co/swordhealth/9d229a43-40ad-4311-b16f-5574a6ae17c6 | Sword Health | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/yuno/0bb7b2d1-d208-4cd0-b650-5b924b8e5c96 | Yuno | Engineering Manager - Data Platform
+- [ ] https://apply.workable.com/bayutdubizzle/j/307BBBE1F5/ | Bayut | dubizzle | Associate Data Engineer (UAE)
+- [ ] https://apply.workable.com/pricehubble/j/E7BFA73098/ | PriceHubble | Senior Data Engineer (Remote EU)
+- [ ] https://apply.workable.com/honu-ai/j/19519AD286/ | Honu.ai | Data Engineer (UK or Europe Remote)
+- [ ] https://apply.workable.com/dayshape/j/4982144025/ | Dayshape | Data Engineer (UK)
