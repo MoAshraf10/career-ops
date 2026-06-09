@@ -76,3 +76,19 @@
 - [ ] https://apply.workable.com/pricehubble/j/E7BFA73098/ | PriceHubble | Senior Data Engineer (Remote EU)
 - [ ] https://apply.workable.com/honu-ai/j/19519AD286/ | Honu.ai | Data Engineer (UK or Europe Remote)
 - [ ] https://apply.workable.com/dayshape/j/4982144025/ | Dayshape | Data Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4205510009 | CodeRoad | Data Engineer (AI/Data Platform)
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5729842004 | PlayStation Global | Senior Product Analytics Engineer (Dublin)
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4586411005 | dbt Labs | Data Engineer
+- [ ] https://job-boards.greenhouse.io/tide/jobs/6485656003 | Tide | Senior Data Engineer (DBT/Snowflake)
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/5978698004 | Xebia CEE | Data Platform Architect (Snowflake)
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/5865751004 | Xebia CEE | Flink Data Engineer
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7732200003 | Nearform | Senior Data Analyst (Contract, Poland Remote)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6644944003 | Remote.com | Senior Product Data Analyst
+- [ ] https://jobs.ashbyhq.com/roompricegenie/3ab30b29-b24e-419c-aa75-405e96a872d8 | RoomPriceGenie | Senior Python Data Engineer (Remote EU)
+- [ ] https://jobs.ashbyhq.com/roompricegenie/c0ac26aa-3a94-4ab6-8415-f00d3933b88d | RoomPriceGenie | Senior Data Engineer (Remote EU)
+- [ ] https://apply.workable.com/gsstech-group/j/0F3F4A1409/ | GSSTech Group | Informatica BDM Data Engineer (UAE)
+- [ ] https://apply.workable.com/learnworlds/j/1598E975DA/ | LearnWorlds | Analytics Engineer (Remote, Greece/Cyprus)
+- [ ] https://apply.workable.com/bbgc/j/16549C0E78/ | BBGC | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/e4a18d98-dfef-49dd-bf11-3dd01c3d13de | Jobgether | Remote Data Engineer - Senior Level
+- [ ] https://jobs.lever.co/jobgether/8940c0f3-ac2e-4d46-992c-0547aadd58de | Jobgether | Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/18b42526-c57c-4b70-85ca-735a121ec877 | Jobgether | Data Engineering Manager (Remote)
