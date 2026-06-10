@@ -92,3 +92,41 @@
 - [ ] https://jobs.lever.co/jobgether/e4a18d98-dfef-49dd-bf11-3dd01c3d13de | Jobgether | Remote Data Engineer - Senior Level
 - [ ] https://jobs.lever.co/jobgether/8940c0f3-ac2e-4d46-992c-0547aadd58de | Jobgether | Data Engineer (Remote)
 - [ ] https://jobs.lever.co/jobgether/18b42526-c57c-4b70-85ca-735a121ec877 | Jobgether | Data Engineering Manager (Remote)
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7693681003 | Nearform | Senior Data Engineer (Perm, Ireland, Hybrid)
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7693645003 | Nearform | Senior Data Engineer (Perm, UK, Hybrid)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7625953 | Adyen | Data Platform Engineer - OLAP
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7329711 | Adyen | Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7566665 | Adyen | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/6958325 | Adyen | Data Engineer II, Banking
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544101 | Contentful | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544099 | Contentful | Data Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7565088 | Contentful | Senior Data Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/recordedfuture/jobs/8002292002 | Recorded Future | Data Engineer II
+- [ ] https://job-boards.greenhouse.io/recordedfuture/jobs/8244893002 | Recorded Future | Data Engineering (Data Collection)
+- [ ] https://job-boards.greenhouse.io/recordedfuture/jobs/8289457002 | Recorded Future | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/okx/jobs/6228772003 | OKX | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7321116003 | OKX | Senior/Staff Data Engineer, Risk Data
+- [ ] https://job-boards.greenhouse.io/okx/jobs/6949968003 | OKX | Senior Data Analytics Engineer, Compliance
+- [ ] https://job-boards.greenhouse.io/capitalontap/jobs/8179089002 | Capital on Tap | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/cloudbeds/jobs/4577842005 | Cloudbeds | Senior Data Engineer (Remote - Europe/Canada)
+- [ ] https://jobs.lever.co/pennylane/d64cf943-2251-416e-a95f-0e67284f1138 | Pennylane | Senior Data Engineer (remote)
+- [ ] https://jobs.lever.co/pennylane/9e09585c-74c7-447c-9753-963f0ae0db60 | Pennylane | Senior Data Engineer - Analytics
+- [ ] https://jobs.lever.co/jobgether/6c3f6924-4877-43b6-b882-e6f1d8f0914e | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/979f10b6-3e0a-4208-aff6-b16a85ba4478 | Jobgether | Remote Data Engineering Specialist
+- [ ] https://jobs.lever.co/jobgether/6c3293f4-af56-448c-8fa2-2de2f20f7675 | Jobgether | Lead Remote Data Engineer
+- [ ] https://jobs.lever.co/jobgether/d31a43d2-b55a-4077-b99c-c668c62471cb | Jobgether | Senior Data Engineering Consultant - REMOTE
+- [ ] https://jobs.lever.co/jobgether/780ed438-5d16-4b01-b666-4b7176866353 | Jobgether | Sr. Data Engineer - Remote
+- [ ] https://jobs.lever.co/yuno/444ecd68-c998-4cb8-b08e-559010005a74 | Yuno | Data Engineer
+- [ ] https://jobs.lever.co/swapcard/5442292e-cea2-4d5d-8add-4c6ba0274486 | Swapcard | Staff Data Engineer
+- [ ] https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9 | Spotify | Backend Engineer - Data Infrastructure
+- [ ] https://jobs.ashbyhq.com/vanta/06cfc36b-8761-4bbd-b23e-59c3129d0c63 | Vanta | Senior Analytics Engineer, GTM Analytics
+- [ ] https://jobs.ashbyhq.com/vanta/df693b42-b206-47c4-aa8e-c64f07b0cefa | Vanta | Staff Analytics Engineer, Data Warehouse Architect
+- [ ] https://jobs.ashbyhq.com/sosafe/58fc59dd-1454-4751-9607-2fd50500cf4f | SoSafe | Senior Data Engineer (m/f/d) Remote
+- [ ] https://jobs.ashbyhq.com/immersivelabs/c5e46997-7f84-4345-9131-d7fba9ecb1e2 | Immersive Labs | Senior Data Engineer - Remote, UK
+- [ ] https://jobs.ashbyhq.com/synthesia/46650970-494a-4d4b-ab4b-75c2a3b06daf | Synthesia | Senior Data Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/c11f83bc-46db-4c7b-a2ea-38f2ace507ba | Synthesia | Senior Analytics Engineer
+- [ ] https://apply.workable.com/360dialog-gmbh/j/6B32C99C02 | 360dialog | Senior Data Architect/Analytics Engineer (Remote)
+- [ ] https://apply.workable.com/modash/j/AA0F9628B4 | Modash | Senior Data Engineer (remote, Europe)
+- [ ] https://apply.workable.com/seon-technologies-1/j/B39C30F823 | SEON Technologies | Data Engineer (Europe Hybrid/Remote)
+- [ ] https://apply.workable.com/posthog/j/F01772B948 | PostHog | Senior Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/hudl/jobs/7212118 | Hudl | Senior MLOps Engineer - Football Metrics (London/Remote)
