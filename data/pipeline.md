@@ -130,3 +130,25 @@
 - [ ] https://apply.workable.com/seon-technologies-1/j/B39C30F823 | SEON Technologies | Data Engineer (Europe Hybrid/Remote)
 - [ ] https://apply.workable.com/posthog/j/F01772B948 | PostHog | Senior Data Engineer (Remote)
 - [ ] https://job-boards.greenhouse.io/hudl/jobs/7212118 | Hudl | Senior MLOps Engineer - Football Metrics (London/Remote)
+- [ ] https://jobs.lever.co/spotify/a811c313-21f6-4578-ae60-eb14a0cb259e | Spotify | Analytics Engineer - Business Strategy & Insights
+- [ ] https://jobs.lever.co/spotify/3ee8ae28-3709-4556-be70-671158ac9c0f | Spotify | Data Engineer - Content Analytics
+- [ ] https://jobs.lever.co/spotify/4a9f7741-1561-4092-8d0d-0b1d09f78563 | Spotify | Data Analytics Engineer, Content Analytics
+- [ ] https://jobs.lever.co/spotify/9db5b4ce-c9a3-4fea-abc7-9f40035665dd | Spotify | Analytics Engineer - Ads Insights
+- [ ] https://jobs.lever.co/spotify/64a0c8b8-b610-42d2-b224-ef2520cfe723 | Spotify | Analytics Engineer
+- [ ] https://jobs.lever.co/spotify/4418feec-977a-4bb4-956a-09f0bfac8566 | Spotify | Senior Data Engineer - Partner & Platform Experience
+- [ ] https://jobs.lever.co/spotify/db6450c7-5017-4aa5-8a64-52e39f1ed525 | Spotify | Backend Engineer - Data Platform
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7241965 | Intercom | Data Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/stripe/jobs/7921649 | Stripe | Staff Data Analyst
+- [ ] https://job-boards.greenhouse.io/stripe/jobs/7794729 | Stripe | Data Analyst
+- [ ] https://jobs.lever.co/qonto/f2602376-f5ca-465d-9128-24c2e6e11976 | Qonto | Staff Data Analyst - AI Tooling
+- [ ] https://jobs.lever.co/jobgether/c026efd0-c6af-4677-ba7e-fc8004b4d717 | Jobgether | Lead Data Engineer - REMOTE
+- [ ] https://jobs.lever.co/jobgether/a8c9672a-1c7f-44d8-ae35-96ef3e88f8e0 | Jobgether | Senior Data Engineer - REMOTE
+- [ ] https://job-boards.greenhouse.io/keebo/jobs/4770626008 | Keebo | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/clarityai/jobs/4783604101 | Clarity AI | Software/Data Engineer - EU Taxonomy Team
+- [ ] https://jobs.lever.co/aircall/d83dbd40-991d-46d9-b1cf-021d9091fe6c | Aircall | Data Engineer/Senior Data Engineer
+- [ ] https://jobs.lever.co/moonpay/3b6c5aec-a17c-474c-96b6-7326f21088df | MoonPay | Data Platform Engineer
+- [ ] https://jobs.ashbyhq.com/roompricegenie/5deab1aa-f950-4424-b247-65a4a067f221 | RoomPriceGenie | Mid Data Engineer (Remote EU)
+- [ ] https://jobs.lever.co/mistral/37f53ee5-dd88-43e3-be6a-70e3db159c8f | Mistral AI | Research Engineer, Data Infrastructure
+- [ ] https://job-boards.greenhouse.io/okx/jobs/6225586003 | OKX | Senior Data Analyst, Trading Product (AI-Native)
+- [ ] https://jobs.ashbyhq.com/deel/b90e7a5f-4d6f-4f36-ae60-facda81a7db2 | Deel | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/deel/c5821928-76aa-482a-abb9-a8cb2a487fca | Deel | Data Engineer
