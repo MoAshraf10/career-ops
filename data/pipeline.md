@@ -152,3 +152,21 @@
 - [ ] https://job-boards.greenhouse.io/okx/jobs/6225586003 | OKX | Senior Data Analyst, Trading Product (AI-Native)
 - [ ] https://jobs.ashbyhq.com/deel/b90e7a5f-4d6f-4f36-ae60-facda81a7db2 | Deel | Analytics Engineer
 - [ ] https://jobs.ashbyhq.com/deel/c5821928-76aa-482a-abb9-a8cb2a487fca | Deel | Data Engineer
+- [ ] https://jobs.ashbyhq.com/M-KOPA/f80faf2d-aca8-43f7-a90c-7503830a6ebf | M-KOPA | Senior Analytics & MLOps Platform Engineer
+- [ ] https://jobs.ashbyhq.com/M-KOPA/4a95747c-693c-49d6-86ec-620c36283ee4 | M-KOPA | Senior Analytics Engineer - Financial Inclusion at Scale
+- [ ] https://jobs.ashbyhq.com/kraken.com/ef0e826c-5639-4e2c-8bd7-5b9b679bc7da | Kraken | Data Engineer - Data Platform
+- [ ] https://jobs.ashbyhq.com/kraken.com/46a912bd-9dbb-4275-9597-cedcee923211 | Kraken | Data Engineer
+- [ ] https://jobs.ashbyhq.com/deel/52387a60-4487-4ba8-ab50-b7e6391845a2 | Deel | Analytics Engineer (Marketing)
+- [ ] https://jobs.ashbyhq.com/checkout.com/ab0d89f2-8b35-474b-bbf5-3761f53a0bbd | Checkout.com | Senior Data Analyst - Payment Success
+- [ ] https://jobs.lever.co/aircall/944528a4-a3b7-42b8-a044-b0f653ee6f63 | Aircall | Senior Data Engineer - Real time analytics
+- [ ] https://apply.workable.com/iceye/j/9AA51BC277/ | ICEYE | Senior Data Engineer
+- [ ] https://apply.workable.com/opensignal-limited/j/8C01939A89/ | Opensignal | Senior Data Engineer
+- [ ] https://apply.workable.com/ember-1/j/F36A31E4C4 | Ember | Data Engineer (Edinburgh, UK Remote)
+- [ ] https://job-boards.greenhouse.io/wpp/jobs/7530561002 | WPP | Data Engineer
+- [ ] https://job-boards.greenhouse.io/wpp/jobs/7715766002 | WPP | Data Engineer (Contract)
+- [ ] https://job-boards.greenhouse.io/wpp/jobs/8174653002 | WPP | Data Engineer (Contract 6 months)
+- [ ] https://job-boards.greenhouse.io/wppmedia/jobs/5024431008 | WPP Media | Data Engineer
+- [ ] https://job-boards.greenhouse.io/wpp/jobs/8516442002 | WPP | Data Engineer (Databricks)
+- [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/5988401004 | Spaulding Ridge | Data Engineer (Europe)
+- [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/5852522004 | Spaulding Ridge | Data Engineer (Spain Remote)
+- [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/5620654004 | Spaulding Ridge | Data Architect (Snowflake/dbt)
