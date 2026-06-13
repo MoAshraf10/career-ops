@@ -170,3 +170,19 @@
 - [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/5988401004 | Spaulding Ridge | Data Engineer (Europe)
 - [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/5852522004 | Spaulding Ridge | Data Engineer (Spain Remote)
 - [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/5620654004 | Spaulding Ridge | Data Architect (Snowflake/dbt)
+- [ ] https://jobs.lever.co/veeva/71fcade2-d6c8-446b-beb7-ffd6875598b6 | Veeva Systems | Analytics Engineer - OpenData EMEA (Remote)
+- [ ] https://jobs.lever.co/wealthsimple/881f7bab-41bb-4dcc-9d41-02c99d697ea6 | Wealthsimple | Senior Software Developer, Data Platform
+- [ ] https://jobs.lever.co/jobgether/d5d96717-9636-4fad-a571-f36e9f881629 | Jobgether | Analytics Engineer
+- [ ] https://jobs.lever.co/moonpay/41efc4cd-56dc-4dbe-8164-1a5eac3b8b95 | MoonPay | Analytics Engineer - Crypto and Payments
+- [ ] https://apply.workable.com/tetrascience/j/0922A13F26/ | TetraScience | Scientific Data Engineer - EMEA
+- [ ] https://apply.workable.com/exscientia/j/7AB47FD1B0 | Exscientia | Data Engineer
+- [ ] https://apply.workable.com/exscientia/j/FD419D0681/ | Exscientia | Data Platform Architect
+- [ ] https://job-boards.greenhouse.io/prolific/jobs/4571081101 | Prolific | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/prolific/jobs/4550190101 | Prolific | Data Engineer
+- [ ] https://jobs.ashbyhq.com/plain/71874633-5f69-4b13-aac4-33b505f9305a | Plain | Founding Data Engineer
+- [ ] https://jobs.lever.co/fullscript/9e5b41ae-7b2d-48de-85e6-04f3e45bfc31 | Fullscript | Senior Data Analytics Engineer
+- [ ] https://jobs.lever.co/fullscript/0a4ca34a-828b-41a5-943d-cb95750d1580 | Fullscript | Senior Analytics Engineer, Analytics Enablement
+- [ ] https://jobs.lever.co/fullscript/c87ab1ad-c860-418e-bce1-47ffeeb47d68 | Fullscript | Senior Analytics Engineer (Operations & Distribution)
+- [ ] https://jobs.lever.co/fullscript/5bb48021-f4a4-4069-9185-79205a83f52c | Fullscript | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/n26/jobs/7522593 | N26 | Senior Marketing Data Analyst
+- [ ] https://jobs.ashbyhq.com/subsets/e1ea3b6c-d03c-4e82-9f58-4b3fb60c58c0 | Subsets | Analytics Engineer
