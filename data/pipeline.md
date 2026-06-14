@@ -186,3 +186,21 @@
 - [ ] https://jobs.lever.co/fullscript/5bb48021-f4a4-4069-9185-79205a83f52c | Fullscript | Senior Data Engineer
 - [ ] https://job-boards.greenhouse.io/n26/jobs/7522593 | N26 | Senior Marketing Data Analyst
 - [ ] https://jobs.ashbyhq.com/subsets/e1ea3b6c-d03c-4e82-9f58-4b3fb60c58c0 | Subsets | Analytics Engineer
+- [ ] https://jobs.lever.co/zopa/acf89e89-e2ec-444c-816a-c1e4527deb0b | Zopa | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/zopa/e4e8694d-ce16-4dd1-a83e-d2befb2a76e5 | Zopa | Analytics Engineer
+- [ ] https://jobs.lever.co/zopa/f982a521-66c8-4636-b5c8-d2683665e919 | Zopa | Data Engineer
+- [ ] https://jobs.lever.co/zopa/4d112894-42fe-4ac2-a709-34a5d294bf48 | Zopa | Senior Data Analyst - Fraud & Financial Crime
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4587113005 | dbt Labs | Senior Data Engineer II
+- [ ] https://job-boards.greenhouse.io/tide/jobs/6356894003 | Tide | Lead Data Engineer (Snowflake/DBT) — Serbia
+- [ ] https://job-boards.greenhouse.io/tide/jobs/7604775003 | Tide | Senior Analytics Engineer (Snowflake/DBT) — Serbia
+- [ ] https://job-boards.eu.greenhouse.io/ziina/jobs/4846996101 | Ziina | Senior Data Platform Engineer (Dubai, UAE)
+- [ ] https://jobs.lever.co/airalo/987a8199-5ab9-43f9-9667-9b779df29963 | Airalo | Senior Analytics Engineer (Remote)
+- [ ] https://jobs.lever.co/airalo/7f8d89ed-7013-4511-a31d-aded6b80fc6f | Airalo | Senior Analytics Engineer, Pricing (Remote)
+- [ ] https://jobs.ashbyhq.com/goodlord/c5cf9516-3d06-4030-ad9d-6c84ceca81e4 | Goodlord | Senior Data Analyst (London)
+- [ ] https://jobs.ashbyhq.com/n8n/48bc9f74-5ec3-41f9-bfdf-ade6b3be7ecc | n8n | Data Analyst PLG (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/n8n/da0d3b3a-71d9-460e-856d-0d5a52c07dc6 | n8n | Sr Customer Data Analyst (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/mexdigital/49c381b2-0ff6-4391-a50f-da9bc03f1d17 | Multibank Group | AI Data Engineer (UAE/Dubai)
+- [ ] https://job-boards.greenhouse.io/octopusmoney/jobs/5697566004 | Octopus Money | Senior Data Product Manager (London)
+- [ ] https://job-boards.greenhouse.io/globalwebindex/jobs/8121447002 | GWI | Principal Product Manager – Data Foundations (London)
+- [ ] https://job-boards.greenhouse.io/precisionaq/jobs/5796264004 | Precision AQ | Data Product Manager (UK/Netherlands)
+- [ ] https://job-boards.greenhouse.io/dforeferrals/jobs/5811937004 | Dalio Family Office | Senior Data Engineer (Abu Dhabi)
