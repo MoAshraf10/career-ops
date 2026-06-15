@@ -204,3 +204,18 @@
 - [ ] https://job-boards.greenhouse.io/globalwebindex/jobs/8121447002 | GWI | Principal Product Manager – Data Foundations (London)
 - [ ] https://job-boards.greenhouse.io/precisionaq/jobs/5796264004 | Precision AQ | Data Product Manager (UK/Netherlands)
 - [ ] https://job-boards.greenhouse.io/dforeferrals/jobs/5811937004 | Dalio Family Office | Senior Data Engineer (Abu Dhabi)
+- [ ] https://job-boards.greenhouse.io/artefact/jobs/7880581002 | Artefact | Data Engineer (Dubai)
+- [ ] https://job-boards.eu.greenhouse.io/huspy/jobs/4550284101 | Huspy | Senior Data Analyst (Dubai)
+- [ ] https://job-boards.eu.greenhouse.io/huspy/jobs/4633321101 | Huspy | Data Analyst (Dubai)
+- [ ] https://job-boards.eu.greenhouse.io/nextenergygroup/jobs/4852955101 | NextEnergy Group | Senior Data Analyst, Geospatial (Abu Dhabi)
+- [ ] https://jobs.lever.co/moo/93c904aa-2b13-4ce0-976d-b2c77f62252a | MOO | Data Engineer II (London)
+- [ ] https://jobs.ashbyhq.com/roompricegenie/c72eaef9-f3e6-4a95-9856-a5b989446309 | RoomPriceGenie | Hands-On Data Engineering Manager (Remote EU)
+- [ ] https://jobs.lever.co/zopa/e845b207-9d76-4ad3-8f3f-7ca6cba17226 | Zopa | Data Engineer (London)
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7659465003 | OKX | Big Data Platform Engineer, AI Agent Platform (Dubai)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/6720006 | Adyen | Data Engineer (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7607495 | Adyen | Senior Business Data Analyst (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7571869 | Adyen | Optimization Data Analyst (Amsterdam)
+- [ ] https://jobs.ashbyhq.com/checkout.com/c4a8848c-d7bc-420f-af8a-623f4730ce78 | Checkout.com | Data Analyst, Financial Crime Compliance
+- [ ] https://jobs.ashbyhq.com/checkout.com/3f20c6dc-051f-4830-92d7-fbc321e54505 | Checkout.com | Risk Data Analyst
+- [ ] https://jobs.ashbyhq.com/checkout.com/a41db937-affe-4a4d-803a-a0377f54ae9a | Checkout.com | Fraud Data Analyst
+- [ ] https://jobs.ashbyhq.com/checkout.com/9bf673a0-8e9e-41f2-87c2-00494b72e915 | Checkout.com | Fraud Data Analyst - Merchant Facing
