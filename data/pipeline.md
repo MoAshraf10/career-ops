@@ -219,3 +219,22 @@
 - [ ] https://jobs.ashbyhq.com/checkout.com/3f20c6dc-051f-4830-92d7-fbc321e54505 | Checkout.com | Risk Data Analyst
 - [ ] https://jobs.ashbyhq.com/checkout.com/a41db937-affe-4a4d-803a-a0377f54ae9a | Checkout.com | Fraud Data Analyst
 - [ ] https://jobs.ashbyhq.com/checkout.com/9bf673a0-8e9e-41f2-87c2-00494b72e915 | Checkout.com | Fraud Data Analyst - Merchant Facing
+- [ ] https://job-boards.greenhouse.io/cognite/jobs/4855952101 | Cognite | Senior Data Engineer (Oslo/EU)
+- [ ] https://jobs.lever.co/jobgether/fe08ef4a-d718-4b28-85be-b07e5fe89e7a | Jobgether | Senior Data Engineer - Remote
+- [ ] https://apply.workable.com/midnite/j/B29B20EB70 | Midnite | Senior Data Analyst (UK)
+- [ ] https://careers.deliveroo.co.uk/role/senior-data-engineer-a285818f2612/ | Deliveroo | Senior Data Engineer (London)
+- [ ] https://careers.deliveroo.co.uk/role/senior-analytics-platform-engineer-89fedd1753f0/ | Deliveroo | Senior Analytics Platform Engineer (London)
+- [ ] https://careers.deliveroo.co.uk/role/analytics-platform-engineer-fb9fede85297/ | Deliveroo | Analytics Platform Engineer (London)
+- [ ] https://careers.deliveroo.co.uk/role/analytics-platform-engineer-bi-930bfe359004/ | Deliveroo | Analytics Platform Engineer (BI) (London)
+- [ ] https://careers.deliveroo.co.uk/role/analytics-engineer-ef9e00b8c211/ | Deliveroo | Analytics Engineer (London)
+- [ ] https://jobs.zalando.com/en/jobs/2715126-Data-Engineer---Customer-Analytics-(all-genders) | Zalando | Data Engineer - Customer Analytics (Berlin)
+- [ ] https://lifeatspotify.com/jobs/senior-data-engineer-financial-data-platform | Spotify | Senior Data Engineer - Financial Data Platform
+- [ ] https://www.lifeatspotify.com/jobs/data-engineer-platform | Spotify | Data Engineer - Platform
+- [ ] https://jobs.lever.co/mistral/edd9f582-15b4-4ddb-9624-c3721ad648b8 | Mistral AI | Data Analyst (Paris)
+- [ ] https://atlan.com/careers/product-and-engineering/engineering-manager-data-engineering/d74cfc2b-b954-47a3-b3e1-36e55d1e783f/ | Atlan | Engineering Manager - Data Engineering (Remote)
+- [ ] https://atlan.com/careers/product-and-engineering/data-engineer-cx/3e55b727-a516-4d53-bb10-4eb028fbb56c/ | Atlan | Data Engineer (CX) (Remote)
+- [ ] https://careers.deliveryhero.com/job/senior-analytics-engineer-in-dubai-uae-jid-8431 | Talabat | Senior Analytics Engineer (Dubai)
+- [ ] https://tabby.pinpointhq.com/postings/83697e81-141b-4a37-8720-37fb9a4c9eb7 | Tabby | Data Analyst - Remote
+- [ ] https://tabby.pinpointhq.com/postings/8d93b4af-c852-4277-bceb-25159c25a447 | Tabby | Data Analyst, People Tech - Remote
+- [ ] https://www.revolut.com/careers/position/data-analyst-engineer-4051d7de-3686-495d-98e2-db4fbd1a7e20/ | Revolut | Data Analyst (Engineer) (London/Remote)
+- [ ] https://www.revolut.com/careers/position/data-analyst-product-6c1a38e8-1fac-4d6f-9be7-22d385e0b92d/ | Revolut | Data Analyst (Product) (London/Remote)
