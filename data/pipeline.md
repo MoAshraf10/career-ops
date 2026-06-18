@@ -250,3 +250,13 @@
 - [ ] https://jobs.lever.co/wealthsimple/154d5ca3-0695-4fc6-b53a-db726bec972d | Wealthsimple | Sr. Database Administrator, Data Platform (Canada)
 - [ ] https://job-boards.greenhouse.io/omguk/jobs/5074365007 | OMG UK | Data Engineer - Data Operations and Reporting (London)
 - [ ] https://job-boards.greenhouse.io/neweratech/jobs/8426507002 | New Era Technology | Snowflake & DBT Engineer (Global)
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7743422 | Monzo | Senior Data Analyst, Financial Health (London/Remote UK)
+- [ ] https://jobs.ashbyhq.com/sosafe/21e70865-0cef-4013-a95f-92871b3427e6 | SoSafe | AWS Data Platform Engineer (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/statista/d61c6c4d-d97e-44a2-9b30-f758055c1198 | Statista | Data Engineer - Data Platform (Hamburg/Berlin)
+- [ ] https://careers.hostaway.com/o/senior-data-engineer-100-remote-emea | Hostaway | Senior Data Engineer (100% Remote EMEA)
+- [ ] https://apply.workable.com/climatearc/j/A846E74713 | Climate Arc | Data Engineer (UK/Europe)
+- [ ] https://apply.workable.com/credera-uk/j/080F66FBC3/ | Credera UK | Senior Data Engineer (London/Leeds/Manchester)
+- [ ] https://apply.workable.com/mlabs/j/B6E614065B/ | MLabs | Senior Data Engineer (Remote Europe)
+- [ ] https://apply.workable.com/sparta-commodities/j/F0E6389FE5 | Sparta Commodities | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/arteriaai/jobs/5236068008 | Arteria AI | Senior Staff Software Engineer, Data (Toronto/London)
+- [ ] https://jobs.ashbyhq.com/fonoa/21284dc5-4b66-4a78-8a17-2ea40873f92e | Fonoa | Senior/Staff Software Engineer, Data (Remote EU/UK)
