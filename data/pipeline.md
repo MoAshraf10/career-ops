@@ -260,3 +260,12 @@
 - [ ] https://apply.workable.com/sparta-commodities/j/F0E6389FE5 | Sparta Commodities | Senior Data Engineer
 - [ ] https://job-boards.greenhouse.io/arteriaai/jobs/5236068008 | Arteria AI | Senior Staff Software Engineer, Data (Toronto/London)
 - [ ] https://jobs.ashbyhq.com/fonoa/21284dc5-4b66-4a78-8a17-2ea40873f92e | Fonoa | Senior/Staff Software Engineer, Data (Remote EU/UK)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ffde876c-a04c-4bc7-a7f5-da1bfd0312f1 | ElevenLabs | Data Engineer (London/Remote)
+- [ ] https://jobs.lever.co/fresha/6efede10-75f2-49f6-b839-42b88e08b87e | Fresha | Senior Analytics Engineer (London)
+- [ ] https://jobs.lever.co/spotify/eab68d54-e780-4a05-9690-88588fb61d96 | Spotify | Senior Backend/Data Engineer - Insights Platform
+- [ ] https://job-boards.eu.greenhouse.io/prolific/jobs/4815535101 | Prolific | Data Analyst (UK)
+- [ ] https://job-boards.greenhouse.io/autotradercanada/jobs/7766813003 | AutoTrader Canada | Senior Data Analyst (Canada)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7256517 | Adyen | Optimization Data Analyst (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7480282 | Adyen | Senior Data Analyst (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7681249 | Adyen | Optimization Data Analyst (Amsterdam)
+- [ ] https://jobs.ashbyhq.com/openai/fc5bbc77-a30c-4e7a-9acc-8a2e748545b4 | OpenAI | Data Engineer, Analytics (Remote)
