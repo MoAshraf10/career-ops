@@ -337,3 +337,13 @@
 - [ ] https://jobs.lever.co/jobgether/bb852973-6c5b-40b2-977a-e354271137a0 | Jobgether | Software Engineer - Data Engineering (Remote from Canada)
 - [ ] https://jobs.lever.co/jobgether/a6ae7027-19a5-4a93-b96d-2b7cf6cc6686 | Jobgether | Software Engineer, Data Platform (Canada)
 - [ ] https://job-boards.greenhouse.io/perform-careers/jobs/4285394009 | Total Performance Consulting | Data Engineer (UAE/Remote)
+- [ ] https://jobs.ashbyhq.com/sosafe/bbe116f0-003a-4203-86c1-a342145994a5 | SoSafe | Senior Data Engineer (m/f/d) Remote (EU)
+- [ ] https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f | Cohere | Software Engineer, Data Infrastructure (Toronto/Remote)
+- [ ] https://jobs.ashbyhq.com/deel/4b862c9b-c284-48a3-a47b-0327f80e44ad | Deel | Data Analyst (Remote)
+- [ ] https://jobs.ashbyhq.com/deel/3f64cf94-2360-4f07-82e8-ac738b2f918f | Deel | Product Data Analyst (Remote)
+- [ ] https://jobs.lever.co/trendyol/3493ca8d-70bd-41ee-9824-b60b6c1b5540 | Trendyol | Business Development Data Analyst (Dubai)
+- [ ] https://jobs.lever.co/trendyol/7a174494-41a9-4b51-b06f-3a227923983a | Trendyol | Delivery Operations Data Analyst (Dubai)
+- [ ] https://job-boards.greenhouse.io/cybrid/jobs/4264919009 | Cybrid | Senior Data Engineer (Canada)
+- [ ] https://job-boards.greenhouse.io/tailorcare2023/jobs/4685753006 | TailorCare | Data Platform Architect (Montreal, Canada)
+- [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4811247101 | Remote People | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/xometryeurope/jobs/5033845007 | Xometry Europe | Data Engineer (Europe)
