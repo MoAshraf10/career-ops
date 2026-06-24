@@ -347,3 +347,17 @@
 - [ ] https://job-boards.greenhouse.io/tailorcare2023/jobs/4685753006 | TailorCare | Data Platform Architect (Montreal, Canada)
 - [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4811247101 | Remote People | Senior Data Engineer
 - [ ] https://job-boards.greenhouse.io/xometryeurope/jobs/5033845007 | Xometry Europe | Data Engineer (Europe)
+- [ ] https://jobs.lever.co/jobgether/90f4b91e-8f02-4261-8a33-a593060d68ad | Jobgether | Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/6a3c391c-688f-4f72-a4fb-a8f0dafa3015 | Jobgether | Data Engineer (Remote - Global)
+- [ ] https://jobs.lever.co/jobgether/7af9fd9c-b20d-421f-b86c-44944856e963 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/18ba5c7a-7750-4bcc-bbc5-dc638ec34eb0 | Jobgether | Sr. Data Engineer - Remote
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5734825004 | Algolia | Senior Data Engineer, Events (London/Remote)
+- [ ] https://jobs.ashbyhq.com/inato/26983f36-ea51-4c6c-9779-6384171427bf | Inato | Senior Analytics Engineer, Product (Paris/Remote EU)
+- [ ] https://jobs.ashbyhq.com/Moxie/cbfbd32b-cbb8-46cb-9417-ae9bee42f747 | Moxie | Senior Analytics Engineer (Remote)
+- [ ] https://apply.workable.com/bcw-emea/j/7C4C6E3D3B | BCW Europe & Africa | Senior Data Engineer (EMEA)
+- [ ] https://apply.workable.com/sophinea/j/A795D40CCC/ | Sophinea | Senior Data Analytics Engineer (Remote EU)
+- [ ] https://jobs.lever.co/Yassir/d18c5d4d-7ae4-4558-9c20-7b348a6390c3 | Yassir | Senior Data Engineer (Abu Dhabi/Remote)
+- [ ] https://jobs.ashbyhq.com/ziina/5560f650-9f3e-42cf-a5f8-7db46a52fdbf | Ziina | Senior Data Platform Engineer (Dubai/UAE)
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7582354 | Monzo | Lead Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/8007032 | Cloudflare | Senior Data Engineer (London/Remote)
+- [ ] https://jobs.lever.co/jobandtalent/fe817188-f051-4bcf-9adf-3171ed261bd3 | Job&Talent | Senior Analytics Engineer - EMEA Remote
