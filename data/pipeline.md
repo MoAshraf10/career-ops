@@ -377,3 +377,25 @@
 - [ ] https://jobs.lever.co/fresha/90d9bf8b-0f6b-49a3-867c-6f200075cdfb | Fresha | Data Engineer (London)
 - [ ] https://apply.workable.com/european-dynamics/j/2882E26D5E | European Dynamics | Data Engineer (Athens/Remote)
 - [ ] https://jobs.ashbyhq.com/forus/5a8640ce-8a3e-40bf-afd1-f0b63a0a2ef3 | Forus | Data & Analytics Engineer (Remote EU)
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/5654907 | Monzo | Analytics Engineering Manager
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7440112 | Adyen | Senior Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/6119660 | Adyen | Fraud Insights Data Analyst
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/6119628 | Adyen | AML & Screening Insights Data Analyst
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7601762003 | OKX | Senior Staff Data Engineer
+- [ ] https://jobs.lever.co/airalo/abb59ffc-0d11-4e83-ab92-ae3a6885a881 | Airalo | Staff Data Analyst, Product
+- [ ] https://jobs.lever.co/trendyol/dee07b0c-0d05-4872-8f70-8beeb10a91e1 | Trendyol | Trendyol Ads Data Analyst, Influencer CRM Analytics
+- [ ] https://jobs.lever.co/trendyol/458afe19-2c71-400c-a96b-66720e51b978 | Trendyol | Trendyol Data Analyst
+- [ ] https://jobs.lever.co/trendyol/6df5882d-6bdb-40fa-a2ea-2a0eaa4fc84a | Trendyol | Trendyol Ads Data Analyst, Seller Ads Analytics
+- [ ] https://jobs.lever.co/trendyol/66263eb0-41ba-4311-ba48-8b46aaa64eb1 | Trendyol | Pricing Data Analyst
+- [ ] https://jobs.lever.co/trendyol/1303ce5f-6312-4ad5-8814-02f88bcdf14a | Trendyol | Trendyol Express - Data Analyst
+- [ ] https://job-boards.greenhouse.io/careem/jobs/7528253002 | Careem | Data Analyst II
+- [ ] https://job-boards.greenhouse.io/careem/jobs/8059596002 | Careem | Data Analyst
+- [ ] https://job-boards.greenhouse.io/careem/jobs/6762362002 | Careem | Senior Data Analyst I
+- [ ] https://jobs.ashbyhq.com/deel/a4166891-6f38-44af-b902-d342e903aac8 | Deel | Data Engineer
+- [ ] https://jobs.ashbyhq.com/deel/c0505ed6-5fca-430e-9d7b-0f0d2c85eb76 | Deel | Senior Data Engineer
+- [ ] https://jobs.ashbyhq.com/Deel/b1dc9aad-80e4-43c3-b99e-11532f3232d9 | Deel | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/Deel/6f5f66be-2f78-4a6d-9db6-99a2bdd90553 | Deel | Analytics Engineer, Product
+- [ ] https://jobs.ashbyhq.com/Deel/e0624cd9-a2c0-45b4-89a1-06edac5e4696 | Deel | Senior Data Analyst, Customer Success
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4297633009 | StackAdapt | Senior Data Analyst, Business Intelligence
+- [ ] https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54 | Spotify | Data Engineer – Platform
+- [ ] https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e | Spotify | Product Manager - Data Platform
