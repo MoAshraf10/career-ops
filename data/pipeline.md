@@ -399,3 +399,18 @@
 - [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4297633009 | StackAdapt | Senior Data Analyst, Business Intelligence
 - [ ] https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54 | Spotify | Data Engineer – Platform
 - [ ] https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e | Spotify | Product Manager - Data Platform
+- [ ] https://jobs.lever.co/zencore/d10b5deb-c408-4039-8e4b-212687449ab4 | Zencore | Senior Data Engineer
+- [ ] https://apply.workable.com/leadfeeder/j/519F24FB2C | Leadfeeder | Senior Data Engineer, Platform Data
+- [ ] https://jobs.lever.co/contentsquare/87056edd-d133-4c7f-8968-ab7ce6eea12b | Contentsquare | Senior Data Engineer (Enterprise Analytics, Italy)
+- [ ] https://jobs.lever.co/contentsquare/552a0b66-8426-41a5-b162-eed79d86cadc | Contentsquare | Senior Data Engineer
+- [ ] https://jobs.lever.co/contentsquare/7a35fa28-142c-4149-8a8b-bbdfd0d1d351 | Contentsquare | Senior Data Engineer (Data Infrastructure)
+- [ ] https://jobs.lever.co/contentsquare/e1f12020-b5aa-405e-b2c1-1676e06a2cae | Contentsquare | Data Engineer
+- [ ] https://jobs.lever.co/contentsquare/1b0cc75f-ffae-4176-84f3-f2ac1f1176d5 | Contentsquare | Senior Data Engineer (Data Privacy & Trust)
+- [ ] https://jobs.lever.co/scottlogic/b62c1780-cd44-4871-8d41-45590f020935 | Scott Logic | Senior Data Engineer
+- [ ] https://jobs.lever.co/tamr/99bfe3f2-5996-437a-a38a-c18c8f49cf9b | Tamr | DataOps Engineer - EMEA
+- [ ] https://jobs.lever.co/finn/95740341-c24c-424c-b63e-8e7d69237b87 | FINN | Data Engineer
+- [ ] https://apply.workable.com/blacktreegaming/j/28A12E3733/ | Black Tree Gaming | Analytics Engineer
+- [ ] https://apply.workable.com/zoopla/j/009099C046 | Zoopla | Senior Analytics Engineer
+- [ ] https://apply.workable.com/zoopla/j/83934CFDBE/ | Zoopla | Senior Data Engineer (Azure, SQL, Python)
+- [ ] https://jobs.lever.co/smart-working-solutions/1a4937ed-eab8-4100-9228-b6a47ce9b8e2 | Smart Working Solutions | ML Data Engineer (Remote EU)
+- [ ] https://jobs.lever.co/veeva/dc0b5a84-05ac-4ff4-941b-01cef16048f2 | Veeva Systems | Analytics Engineer - OpenData EMEA (Remote)
