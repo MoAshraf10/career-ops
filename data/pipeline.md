@@ -414,3 +414,9 @@
 - [ ] https://apply.workable.com/zoopla/j/83934CFDBE/ | Zoopla | Senior Data Engineer (Azure, SQL, Python)
 - [ ] https://jobs.lever.co/smart-working-solutions/1a4937ed-eab8-4100-9228-b6a47ce9b8e2 | Smart Working Solutions | ML Data Engineer (Remote EU)
 - [ ] https://jobs.lever.co/veeva/dc0b5a84-05ac-4ff4-941b-01cef16048f2 | Veeva Systems | Analytics Engineer - OpenData EMEA (Remote)
+- [ ] https://jobs.ashbyhq.com/kraken.com/91bd357d-b135-4eef-a773-e23c0ea4219f | Kraken | Data Analyst, Product
+- [ ] https://jobs.ashbyhq.com/kraken.com/16f7af53-d101-41df-9240-2e5f5a8abe3f | Kraken | Data Engineer - Staked
+- [ ] https://apply.workable.com/lucidya/j/34EABF48CD/ | Lucidya | Data Engineer
+- [ ] https://jobs.lever.co/pennylane/99250b92-2f23-4bd7-a121-ac46612ed58c | Pennylane | Senior Data Analyst - Product
+- [ ] https://jobs.lever.co/mistral/071a5491-ea01-413f-ad78-f85b5e4c2215 | Mistral AI | Research Engineer, Data Infrastructure
+- [ ] https://jobs.lever.co/trevipay/8396b61a-cf00-4ce2-b7be-6ec6b1a4b1f8 | TreviPay | Data Analyst / Analytics Engineer
