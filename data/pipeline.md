@@ -420,3 +420,15 @@
 - [ ] https://jobs.lever.co/pennylane/99250b92-2f23-4bd7-a121-ac46612ed58c | Pennylane | Senior Data Analyst - Product
 - [ ] https://jobs.lever.co/mistral/071a5491-ea01-413f-ad78-f85b5e4c2215 | Mistral AI | Research Engineer, Data Infrastructure
 - [ ] https://jobs.lever.co/trevipay/8396b61a-cf00-4ce2-b7be-6ec6b1a4b1f8 | TreviPay | Data Analyst / Analytics Engineer
+- [ ] https://jobs.lever.co/wgsn/3a624ace-063b-4b70-ac12-3262137224bf | WGSN | Senior Data Engineer (London)
+- [ ] https://jobs.lever.co/wgsn/7ae6603e-e273-40f0-a64c-08ff0a8c938d | WGSN | Data Engineer (London)
+- [ ] https://jobs.lever.co/qonto/ed7026d2-3c3e-4f7e-8b63-1aa7c400dd60 | Qonto | Senior Data Analyst
+- [ ] https://jobs.lever.co/qonto/47583fdc-6f65-411b-8a37-7a7054d3da28 | Qonto | Senior Product Data Analyst
+- [ ] https://jobs.lever.co/qonto/e42efe80-d132-4de8-9c70-7fd596535a04 | Qonto | Lead Data Analyst (remote-friendly)
+- [ ] https://jobs.lever.co/jobgether/2ca1d2b3-7e4c-49c2-9547-a9e84fc96a07 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/map/jobs/8543421002 | VML MAP | Data Engineer (Barcelona, Spain)
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4767848101 | Valtech | Lead Data Engineer (Canada)
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4780669101 | Valtech | Senior Google Cloud Data Engineer (Canada)
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4899760101 | Valtech | Senior Data Engineer (Kosovo/Remote EU)
+- [ ] https://job-boards.greenhouse.io/cognite/jobs/4899374101 | Cognite | Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/it%20labs/c3e2959f-9065-4ee6-b7dc-1103c792abb5 | IT Labs | Lead Data Engineer
