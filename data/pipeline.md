@@ -432,3 +432,26 @@
 - [ ] https://job-boards.greenhouse.io/valtech/jobs/4899760101 | Valtech | Senior Data Engineer (Kosovo/Remote EU)
 - [ ] https://job-boards.greenhouse.io/cognite/jobs/4899374101 | Cognite | Machine Learning Engineer
 - [ ] https://jobs.ashbyhq.com/it%20labs/c3e2959f-9065-4ee6-b7dc-1103c792abb5 | IT Labs | Lead Data Engineer
+- [ ] https://job-boards.greenhouse.io/cognite/jobs/4913295101 | Cognite | Data Engineering Leader
+- [ ] https://job-boards.greenhouse.io/takealotgroup/jobs/7594132 | Takealot Group | Analytics Engineer (Data Platform)
+- [ ] https://jobs.ashbyhq.com/oscilar/ab26bd46-3912-4b1c-af58-9eaed19036dc | Oscilar | Data Engineer
+- [ ] https://jobs.ashbyhq.com/permitflow/7948310d-15a4-4034-ae09-30d69990cf32 | PermitFlow | Analytics Engineer
+- [ ] https://jobs.lever.co/jobgether/1a9b2c18-f3fc-4bfb-81e1-a970c88364b1 | Jobgether | Data Engineer Role - REMOTE
+- [ ] https://job-boards.greenhouse.io/babylist/jobs/6100946004 | Babylist | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/cleartech/jobs/4140188009 | Clear Tech | Data Analyst Sr
+- [ ] https://job-boards.greenhouse.io/scorpionenterprisesllc/jobs/5231440008 | Scorpion Enterprises | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/ezcaterinc/jobs/5175483007 | ezCater | Senior Product Manager, Data Platform
+- [ ] https://jobs.lever.co/moonpay/116b705f-a922-4209-9238-4edf93a2116c | MoonPay | Senior Data Platform Engineer
+- [ ] https://jobs.lever.co/neighbor/da1304b7-89ad-4ac0-99e8-9c0cf8284f1c | Neighbor | Data Engineer
+- [ ] https://jobs.lever.co/deliverect/2033eb55-f149-41f6-bf61-594aee9e4f2f | Deliverect | Analytics Engineer - Expressions of Interest
+- [ ] https://jobs.lever.co/deliverect/7cdcf76d-49f8-436d-9187-ad6325183cca | Deliverect | Analytics Engineer
+- [ ] https://jobs.lever.co/meesho/fc6d0443-48a8-4535-9d2b-5f9b32a136e3 | Meesho | Engineering Manager - Data Platform
+- [ ] https://jobs.lever.co/loopreturns/cae9f104-b2ea-4219-9dbb-07934309d5d8 | Loop Returns | Analytics Engineer
+- [ ] https://jobs.lever.co/Instrumentl/851dad0f-8368-483a-846c-637da58dd7e8 | Instrumentl | Senior Data Engineer
+- [ ] https://jobs.lever.co/BDG/b404a58a-c488-406a-87ff-1189b75573e2 | BDG | Data Engineer
+- [ ] https://jobs.lever.co/greenlight/e98d9733-8b8c-4ce4-997d-6cf14e35b2f3 | Greenlight Financial | Data Engineer
+- [ ] https://jobs.lever.co/grantstreet/50b37d2c-be0d-4718-9ded-dafe63b03378 | Grant Street Group | Data Engineer
+- [ ] https://jobs.ashbyhq.com/ARQ/058484c3-c465-4989-b5bf-b3d51e8cfe36 | ARQ | Data Analyst - New York
+- [ ] https://jobs.ashbyhq.com/pearlhealth/4832509b-c607-4801-af71-5d361ed365fd | Pearl Health | Senior Data Analyst, Analytics Engineering
+- [ ] https://jobs.ashbyhq.com/confluent/70cc517e-1b5f-45cc-b3fc-2d202c0c00f7 | Confluent | Data Engineer
+- [ ] https://jobs.ashbyhq.com/happyrobot.ai/ec481bf2-e7fb-4efa-9d64-65c1634004c5 | Happyrobot | Analytics Data Engineer
