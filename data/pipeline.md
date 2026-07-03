@@ -455,3 +455,18 @@
 - [ ] https://jobs.ashbyhq.com/pearlhealth/4832509b-c607-4801-af71-5d361ed365fd | Pearl Health | Senior Data Analyst, Analytics Engineering
 - [ ] https://jobs.ashbyhq.com/confluent/70cc517e-1b5f-45cc-b3fc-2d202c0c00f7 | Confluent | Data Engineer
 - [ ] https://jobs.ashbyhq.com/happyrobot.ai/ec481bf2-e7fb-4efa-9d64-65c1634004c5 | Happyrobot | Analytics Data Engineer
+- [ ] https://job-boards.greenhouse.io/pelago/jobs/4820781007 | Pelago | Data Engineer
+- [ ] https://job-boards.greenhouse.io/mariadbplc/jobs/4636094101 | MariaDB plc | Data Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/yld/jobs/4695024101 | YLD | Senior Data Engineer
+- [ ] https://jobs.lever.co/aqemia.com/a3ef27a3-71a5-4c41-aa09-fd2954b994a6 | Aqemia | Senior Data Engineer
+- [ ] https://jobs.lever.co/massive-rocket/3604d3c6-c108-49ef-b9bc-77fdc2545157 | Massive Rocket | Senior Data Engineer (Remote EU)
+- [ ] https://jobs.lever.co/massive-rocket/2ef2989a-59b2-436f-aa4a-4c5b9a130c09 | Massive Rocket | Senior Data Engineer (Integrations & Platforms)
+- [ ] https://jobs.lever.co/massive-rocket/22ac89c6-bb79-44db-8722-c331f6b76105 | Massive Rocket | Senior Data Engineer (Kafka)
+- [ ] https://jobs.lever.co/massive-rocket/2464af7d-c856-4ce2-9a04-cb69d4af2acd | Massive Rocket | Data Engineer (CDP)
+- [ ] https://jobs.lever.co/massive-rocket/0eb30592-199a-404a-b651-1a8b3b311ebb | Massive Rocket | Senior Data Engineer (Snowflake/CDP)
+- [ ] https://jobs.lever.co/massive-rocket/3ebb0c64-2ac2-4aa1-89b3-fb922f868e0d | Massive Rocket | Data Engineer (Snowflake)
+- [ ] https://jobs.lever.co/massive-rocket/7d7509fd-a03f-4c42-abd2-97f36933fc25 | Massive Rocket | Senior Data Engineer (MLOps)
+- [ ] https://jobs.lever.co/Yassir/0250ed28-67ac-470f-b5d7-21d18af32004/ | Yassir | Mid/Senior Data Engineer (Abu Dhabi)
+- [ ] https://jobs.lever.co/soum/05385510-f0e3-4f9f-8fa4-4b834037576c | SOUM | Data Engineer (Saudi Arabia)
+- [ ] https://jobs.ashbyhq.com/plaid/ce3b3add-47d9-402d-a31d-16ffd1d0adb4 | Plaid | Senior Data Engineer
+- [ ] https://jobs.lever.co/luxurypresence/d386bc54-d42a-4a77-add3-84183047b95a | Luxury Presence | Staff Software Engineer, Data Platform
