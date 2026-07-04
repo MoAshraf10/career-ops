@@ -470,3 +470,5 @@
 - [ ] https://jobs.lever.co/soum/05385510-f0e3-4f9f-8fa4-4b834037576c | SOUM | Data Engineer (Saudi Arabia)
 - [ ] https://jobs.ashbyhq.com/plaid/ce3b3add-47d9-402d-a31d-16ffd1d0adb4 | Plaid | Senior Data Engineer
 - [ ] https://jobs.lever.co/luxurypresence/d386bc54-d42a-4a77-add3-84183047b95a | Luxury Presence | Staff Software Engineer, Data Platform
+- [ ] https://job-boards.greenhouse.io/xdesign/jobs/4911980101 | CreateFuture | Lead Data Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/indiciumai/jobs/4903396101 | Indicium AI | Principal Data Engineer
