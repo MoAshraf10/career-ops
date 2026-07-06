@@ -472,3 +472,8 @@
 - [ ] https://jobs.lever.co/luxurypresence/d386bc54-d42a-4a77-add3-84183047b95a | Luxury Presence | Staff Software Engineer, Data Platform
 - [ ] https://job-boards.greenhouse.io/xdesign/jobs/4911980101 | CreateFuture | Lead Data Engineer (UK)
 - [ ] https://job-boards.greenhouse.io/indiciumai/jobs/4903396101 | Indicium AI | Principal Data Engineer
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6065822004 | Xebia CEE | Platform Engineer
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6008867004 | Xebia CEE | Senior Platform Engineer
+- [ ] https://jobs.ashbyhq.com/wrapbook/30c738bd-bcaa-464a-9ff0-c6f63fa176b0 | Wrapbook | Senior Data Platform Engineer II
+- [ ] https://www.linkedin.com/jobs/view/senior-analytics-engineer-data-platform-at-deel-4168636647 | Deel | Senior Analytics Engineer, Data Platform
+- [ ] https://ie.linkedin.com/jobs/view/senior-data-engineer-at-fruition-group-ireland-4424066775 | Fruition Group | Senior Data Engineer
