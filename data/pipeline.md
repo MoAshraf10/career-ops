@@ -477,3 +477,7 @@
 - [ ] https://jobs.ashbyhq.com/wrapbook/30c738bd-bcaa-464a-9ff0-c6f63fa176b0 | Wrapbook | Senior Data Platform Engineer II
 - [ ] https://www.linkedin.com/jobs/view/senior-analytics-engineer-data-platform-at-deel-4168636647 | Deel | Senior Analytics Engineer, Data Platform
 - [ ] https://ie.linkedin.com/jobs/view/senior-data-engineer-at-fruition-group-ireland-4424066775 | Fruition Group | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4918098101 | Valtech | Data Engineer
+- [ ] https://job-boards.greenhouse.io/grammarly/jobs/7194790 | Grammarly | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/fastspring/jobs/5813034004 | FastSpring | Senior Data Product Manager
+- [ ] https://jobs.ashbyhq.com/worldly/0341cbdd-121e-488b-9218-08c8418fe346 | Worldly | Senior Data Engineer - Data Platform and Analytics
