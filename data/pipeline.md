@@ -481,3 +481,10 @@
 - [ ] https://job-boards.greenhouse.io/grammarly/jobs/7194790 | Grammarly | Analytics Engineer
 - [ ] https://job-boards.greenhouse.io/fastspring/jobs/5813034004 | FastSpring | Senior Data Product Manager
 - [ ] https://jobs.ashbyhq.com/worldly/0341cbdd-121e-488b-9218-08c8418fe346 | Worldly | Senior Data Engineer - Data Platform and Analytics
+- [ ] https://job-boards.greenhouse.io/typeform/jobs/7850909 | Typeform | Senior Data Platform Engineer
+- [ ] https://jobs.ashbyhq.com/paymentology/fc863240-a89d-44a1-be3f-536b42ac2bae | Paymentology | Data Platform Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/edo/jobs/4990634007 | EDO | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/knak/jobs/4696133005 | Knak | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/wayvia/jobs/8492373002 | Wayvia | Data Engineer III
+- [ ] https://www.linkedin.com/jobs/view/4084780195 | Emirates | Senior Data Engineer (Dubai)
+- [ ] https://apply.workable.com/ubds/j/6B442B9B8B/ | UBDS Group | Senior Data Engineer
