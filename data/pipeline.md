@@ -488,3 +488,12 @@
 - [ ] https://job-boards.greenhouse.io/wayvia/jobs/8492373002 | Wayvia | Data Engineer III
 - [ ] https://www.linkedin.com/jobs/view/4084780195 | Emirates | Senior Data Engineer (Dubai)
 - [ ] https://apply.workable.com/ubds/j/6B442B9B8B/ | UBDS Group | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/saasgroup/jobs/4895076101 | saas.group | Lead Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4890415101 | Valtech | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4918100101 | Valtech | Lead Data Engineer
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6111372004 | Xebia CEE | Senior Data Engineer (AWS)
+- [ ] https://jobs.ashbyhq.com/tem/f85e3ce3-d229-45e0-bd13-90aa9e5a63fb | tem | Senior Data Analyst
+- [ ] https://jobs.ashbyhq.com/lendable/dc932def-50d1-48e4-91b9-f468e9232fa1 | Lendable | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8515929002 | Addepar | Data Engineer
+- [ ] https://jobs.ashbyhq.com/stuut-ai/04251b6f-289a-4b8b-8980-166d9b91d148 | Stuut | Data Engineer
+- [ ] https://jobs.ashbyhq.com/interrahealth/1dfd16fc-d48c-4d43-9a17-e5c9284cd0c4 | Interra Health | Senior Data Engineer
