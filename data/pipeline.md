@@ -497,3 +497,13 @@
 - [ ] https://job-boards.greenhouse.io/addepar1/jobs/8515929002 | Addepar | Data Engineer
 - [ ] https://jobs.ashbyhq.com/stuut-ai/04251b6f-289a-4b8b-8980-166d9b91d148 | Stuut | Data Engineer
 - [ ] https://jobs.ashbyhq.com/interrahealth/1dfd16fc-d48c-4d43-9a17-e5c9284cd0c4 | Interra Health | Senior Data Engineer
+- [ ] https://jobs.ashbyhq.com/block-labs/45c8a611-8edf-45dc-ad5e-cea7d94033f6 | Block Labs | Data Platform Engineer
+- [ ] https://jobs.lever.co/jobgether/4d0fc882-c2f4-4520-abd8-75401a18e631 | Jobgether | Lead Data Platform Engineer (German Speaker)
+- [ ] https://jobs.lever.co/jobgether/6fd5e3ce-a47d-474a-9b63-d4310477c4fc | Jobgether | Sr. Data Engineer - Data Analytics
+- [ ] https://job-boards.greenhouse.io/orennia/jobs/5283946008 | Orennia | Data Engineer
+- [ ] https://job-boards.greenhouse.io/akersystems/jobs/4747946101 | Aker Systems | Lead Data Engineer
+- [ ] https://job-boards.greenhouse.io/artefactus/jobs/8334942002 | Artefact | Senior Data Engineer
+- [ ] https://jobs.lever.co/kitmanlabs/6c9e95ee-9fb1-4cf5-a84a-83b2ced63951 | Kitman Labs | Data Engineer
+- [ ] https://jobs.lever.co/jobgether/8bd6d43f-94bf-4482-b10a-299e5d290298 | Jobgether | Data & Machine Learning Engineer
+- [ ] https://jobs.lever.co/3pillarglobal/2b861c5c-bfbd-4ca9-bce4-27a750e6a525 | 3Pillar Global | Lead Data Engineer with AI experience
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5733411004 | Caylent | Senior Data Engineer
