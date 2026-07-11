@@ -507,3 +507,24 @@
 - [ ] https://jobs.lever.co/jobgether/8bd6d43f-94bf-4482-b10a-299e5d290298 | Jobgether | Data & Machine Learning Engineer
 - [ ] https://jobs.lever.co/3pillarglobal/2b861c5c-bfbd-4ca9-bce4-27a750e6a525 | 3Pillar Global | Lead Data Engineer with AI experience
 - [ ] https://job-boards.greenhouse.io/caylent/jobs/5733411004 | Caylent | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/zepzgroup/jobs/8302906002 | Zepz | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/zepzgroup/jobs/8206122002 | Zepz | Sr Data Analytics Engineer - Identity
+- [ ] https://job-boards.greenhouse.io/zepzgroup/jobs/8219786002 | Zepz | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/zepzgroup/jobs/8068233002 | Zepz | Senior Data Platform Engineer
+- [ ] https://jobs.lever.co/cartrawler/332f55ff-b395-4740-98ff-317c2f08e273 | CarTrawler | Principal Data Engineer (Dublin)
+- [ ] https://jobs.lever.co/kitmanlabs/af091f63-daa1-4802-bd23-df2149fe930b | Kitman Labs | Data Engineer (Ireland)
+- [ ] https://www.linkedin.com/jobs/view/3727516779 | Landmark Group | Senior Data Engineer (Dubai)
+- [ ] https://jobs.lever.co/jobgether/6ec9f559-943e-48ba-8aae-b59e21f9cb0c | Jobgether | Senior Data Engineer - REMOTE
+- [ ] https://jobs.lever.co/jobgether/331ad043-3545-4f6b-8dde-d7918c7e76f2 | Jobgether | Senior Data Platform Engineer - REMOTE
+- [ ] https://jobs.lever.co/jobgether/776bfb54-08eb-4e4b-a1f5-7f97421edafe | Jobgether | Senior Data Engineer (Saudi Arabia)
+- [ ] https://jobs.lever.co/jobgether/bb1b33f1-1147-4d56-94ac-11094dd0b91a | Jobgether | Manager, Data Engineering
+- [ ] https://jobs.lever.co/jobgether/50effd1d-7986-4ee9-b97e-9bb4f9c5c39a | Jobgether | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/jobgether/a97b012b-4838-4966-8419-d44c3b908601 | Jobgether | Senior Analytics Engineer, Product
+- [ ] https://jobs.ashbyhq.com/lovable/69c3e92a-1bff-498b-9cda-a78e267030ad | Lovable | Analytics Engineer (EU/Remote)
+- [ ] https://jobs.ashbyhq.com/lovable/a804b92f-cd40-421a-8054-1cefb18f8712 | Lovable | Analytics Engineer, Marketing
+- [ ] https://jobs.ashbyhq.com/lovable/081be99e-95bf-4992-9cf2-d16371635ac1 | Lovable | Analytics Engineer, Finance
+- [ ] https://apply.workable.com/zeroheight/j/4C571A93DA | zeroheight | Analytics Engineer (London/UK-EU)
+- [ ] https://apply.workable.com/tiger-analytics/j/80C8ED5E26 | Tiger Analytics | Senior Data Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/vay/jobs/4767962101 | Vay | Senior Data Engineer (Berlin)
+- [ ] https://apply.workable.com/innovaccer-analytics/j/DA0152E264 | Innovaccer Analytics | Data Engineer (Saudi Arabia)
+- [ ] https://apply.workable.com/orgvue/j/AC13A313C4 | Orgvue | Data & Insight Engineer (London)
