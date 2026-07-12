@@ -528,3 +528,7 @@
 - [ ] https://job-boards.greenhouse.io/vay/jobs/4767962101 | Vay | Senior Data Engineer (Berlin)
 - [ ] https://apply.workable.com/innovaccer-analytics/j/DA0152E264 | Innovaccer Analytics | Data Engineer (Saudi Arabia)
 - [ ] https://apply.workable.com/orgvue/j/AC13A313C4 | Orgvue | Data & Insight Engineer (London)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8029986 | Adyen | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/5049930 | Adyen | Engineering Manager, Data Platform
+- [ ] https://job-boards.greenhouse.io/roboyo/jobs/4795070101 | Roboyo | Data Engineer - Celonis
+- [ ] https://apply.workable.com/flinks/j/4DE8A720D4 | Flinks | Senior Data Engineer
