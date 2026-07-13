@@ -532,3 +532,6 @@
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/5049930 | Adyen | Engineering Manager, Data Platform
 - [ ] https://job-boards.greenhouse.io/roboyo/jobs/4795070101 | Roboyo | Data Engineer - Celonis
 - [ ] https://apply.workable.com/flinks/j/4DE8A720D4 | Flinks | Senior Data Engineer
+- [ ] https://jobs.lever.co/qonto/a6014712-8e9e-4f6d-868e-0bc6bfa298cc | Qonto | Data Engineer
+- [ ] https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39 | Spotify | Analytics Engineer II
+- [ ] https://www.revolut.com/en-US/careers/position/0d2e75c6-1384-481d-b3e4-dbb087730a95/ | Revolut | Data Analyst (Engineer)
