@@ -535,3 +535,13 @@
 - [ ] https://jobs.lever.co/qonto/a6014712-8e9e-4f6d-868e-0bc6bfa298cc | Qonto | Data Engineer
 - [ ] https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39 | Spotify | Analytics Engineer II
 - [ ] https://www.revolut.com/en-US/careers/position/0d2e75c6-1384-481d-b3e4-dbb087730a95/ | Revolut | Data Analyst (Engineer)
+- [ ] https://jobs.ashbyhq.com/cortea/971b9f39-3b65-4687-8bc8-243b9924d468 | Cortea AI | Software Engineer, Data & AI Platform
+- [ ] https://jobs.lever.co/octoenergy/ff40c9c4-6d4e-469d-8d0b-1f80388930f0 | Octopus Energy | Data Engineer
+- [ ] https://jobs.lever.co/aircall/d8a251f9-fcb7-4765-a38f-a9ee106e653f | Aircall | Senior Data Engineer - Real time analytics
+- [ ] https://jobs.lever.co/Coda/38461ef2-1dc9-4490-b7bc-20b54a5c9804 | Coda | Senior Data Analyst
+- [ ] https://jobs.lever.co/jobgether/3f8883c1-83b8-4cdd-8f46-cfd751d92b11 | Jobgether | Founding Data Engineer
+- [ ] https://jobs.lever.co/jobgether/4da6ad32-7f9e-45cc-acce-7d20e3a51310 | Jobgether | Data Engineer (Alteryx / AWS)
+- [ ] https://job-boards.greenhouse.io/oliver/jobs/7699912 | OLIVER Agency | Data Analyst
+- [ ] https://jobs.ashbyhq.com/statista/5309604f-9430-4477-aee5-dd17e2f983fb | Statista | Data Engineer - Tracking Infrastructure
+- [ ] https://jobs.lever.co/protolabs/b9b433de-3134-490d-bc7c-b74a9da34976 | Protolabs | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/pebl/8870a0c5-6b0e-4020-9c53-d4bbcc650c0e | Pebl | Analytics Engineer
