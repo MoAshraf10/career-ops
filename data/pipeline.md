@@ -545,3 +545,24 @@
 - [ ] https://jobs.ashbyhq.com/statista/5309604f-9430-4477-aee5-dd17e2f983fb | Statista | Data Engineer - Tracking Infrastructure
 - [ ] https://jobs.lever.co/protolabs/b9b433de-3134-490d-bc7c-b74a9da34976 | Protolabs | Senior Analytics Engineer
 - [ ] https://jobs.ashbyhq.com/pebl/8870a0c5-6b0e-4020-9c53-d4bbcc650c0e | Pebl | Analytics Engineer
+- [ ] https://jobs.lever.co/jobgether/d22fffc0-8456-43af-872d-4b1bd9492559 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/26017845-206b-4fad-a477-e6d1e5ea48e7 | Jobgether | Data Engineer - Global Team (Remote)
+- [ ] https://job-boards.greenhouse.io/dashlane/jobs/7988501 | Dashlane | Analytics Engineer (Lisbon)
+- [ ] https://job-boards.greenhouse.io/dashlane/jobs/7941971 | Dashlane | Senior Analytics Engineer (Paris)
+- [ ] https://job-boards.greenhouse.io/dashlane/jobs/7366856 | Dashlane | Senior Data Engineer (Paris)
+- [ ] https://job-boards.greenhouse.io/cognite/jobs/4819395101 | Cognite | Senior Data Engineer
+- [ ] https://jobs.lever.co/scottlogic/f8f7d9c1-af87-45cb-ab9b-c5ba358e244b | Scott Logic | Senior Data Engineer
+- [ ] https://jobs.lever.co/scottlogic/07b4f240-b17a-4197-b88c-2f5c30a749c1 | Scott Logic | Lead Data Engineer
+- [ ] https://job-boards.greenhouse.io/dept/jobs/8035467 | DEPT® | Senior Data Engineer (Graph focused), Fixed Term - Toronto
+- [ ] https://apply.workable.com/plana/j/EEED887B6E/ | Plan A | Senior Data Engineer (Berlin, EU)
+- [ ] https://apply.workable.com/simple-machines-3/j/5EA2660FD8/ | Simple Machines | Senior Data Engineer (London/Poland)
+- [ ] https://apply.workable.com/informed-solutions/j/CC412BF7A5/ | Informed Solutions | Senior Data Engineer (UK)
+- [ ] https://apply.workable.com/g-mass/j/4F8F0614FF/ | G MASS | Senior Data Engineer
+- [ ] https://apply.workable.com/enroute/j/F575ACCF9D | Enroute | Senior GenAI Data Engineer (Databricks)
+- [ ] https://apply.workable.com/agilytic/j/2F8E55ED0A/ | Agilytic | Data Engineer (Belgium/EU)
+- [ ] https://jobs.ashbyhq.com/Keyrock/eda89291-8d17-413f-a51e-83907b16a96e | Keyrock | Data Engineer - Digital Asset Market Making
+- [ ] https://jobs.ashbyhq.com/Keyrock/2507b8d3-ae95-419c-9425-25042ba00444 | Keyrock | Risk BI/Data Analyst - Digital Assets (EU Remote)
+- [ ] https://jobs.ashbyhq.com/kraken.com/e2a0dcec-1187-4483-8bf7-e9bc4fef6a12 | Kraken | Senior Data Analyst - Analytics Engineering (Remote)
+- [ ] https://jobs.ashbyhq.com/kraken.com/136f42a3-6342-4dcf-9e00-ea362b107129 | Kraken | Data Analyst, Product (Remote)
+- [ ] https://jobs.ashbyhq.com/kraken.com/7e2496e1-e308-4777-a2d0-1c3667785a38 | Kraken | Senior Finance Data Analyst (Remote)
+- [ ] https://jobs.ashbyhq.com/kraken.com/eb75f7a1-dda4-4d64-8822-babe371116e7 | Kraken | Data Analyst, Regulatory Analytics and Reporting (Remote)
