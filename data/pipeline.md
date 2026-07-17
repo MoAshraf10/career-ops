@@ -566,3 +566,18 @@
 - [ ] https://jobs.ashbyhq.com/kraken.com/136f42a3-6342-4dcf-9e00-ea362b107129 | Kraken | Data Analyst, Product (Remote)
 - [ ] https://jobs.ashbyhq.com/kraken.com/7e2496e1-e308-4777-a2d0-1c3667785a38 | Kraken | Senior Finance Data Analyst (Remote)
 - [ ] https://jobs.ashbyhq.com/kraken.com/eb75f7a1-dda4-4d64-8822-babe371116e7 | Kraken | Data Analyst, Regulatory Analytics and Reporting (Remote)
+- [ ] https://jobs.lever.co/jobgether/c5e65cac-12ae-40de-84ba-213254725f25 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/ndeavour/40ac7fa4-d361-4624-8a5f-93f4bdb02918 | NDEAVOUR Consulting | Senior Data Engineer - Databricks/AWS (UAE)
+- [ ] https://jobs.ashbyhq.com/satispay/4f6b75ff-8209-4639-a408-daab23fc3b41 | Satispay | Senior Data Engineer (EU Remote)
+- [ ] https://jobs.lever.co/kubra/32807a08-c672-49e0-af3f-3a15c37f5d91 | KUBRA | Data Engineer (Canada)
+- [ ] https://jobs.lever.co/jobgether/5d6e2d71-7cc3-48ca-933d-7632cdb62af7 | Jobgether | Senior Data Engineer (Canada)
+- [ ] https://jobs.lever.co/jobgether/64e3dc9b-52b0-4e7f-a676-b171458556fc | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://apply.workable.com/eramtalent-1/j/461492FDCF/ | Eram Talent | Data Analyst (Saudi Arabia)
+- [ ] https://apply.workable.com/masterworksco/j/62BE765E15 | Master-Works | Data Architect (Saudi Arabia)
+- [ ] https://job-boards.greenhouse.io/bluefishai/jobs/5217308008 | Bluefish AI | Senior Data Engineer (Berlin)
+- [ ] https://job-boards.greenhouse.io/aottechnologies/jobs/5072642008 | AOT Technologies | Data Engineer (Canada)
+- [ ] https://jobs.ashbyhq.com/midnite/3c67a4d4-182f-4a18-a338-ef1365f2c105 | Midnite | Senior Data Engineer (UK Remote)
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5339855008 | Robots and Pencils | Data Engineer (US/Canada Remote)
+- [ ] https://job-boards.greenhouse.io/anteriad/jobs/5980230004 | Anteriad | Data Engineer
+- [ ] https://jobs.lever.co/dnb/4e8cd412-88d8-47e8-bec0-3c12e675da84 | Dun & Bradstreet | Data Engineer II
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8008538 | Twilio | Staff Analytics Engineer, GTM (Dublin)
