@@ -581,3 +581,9 @@
 - [ ] https://job-boards.greenhouse.io/anteriad/jobs/5980230004 | Anteriad | Data Engineer
 - [ ] https://jobs.lever.co/dnb/4e8cd412-88d8-47e8-bec0-3c12e675da84 | Dun & Bradstreet | Data Engineer II
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8008538 | Twilio | Staff Analytics Engineer, GTM (Dublin)
+- [ ] https://jobs.lever.co/jobgether/c3844015-55ab-4c94-9489-13a67e6a44d4 | Jobgether | Senior Data Analytics Engineer - Data Insights (Remote, Snowflake/dbt)
+- [ ] https://jobs.lever.co/jobgether/69f71d2a-aac0-4dd8-bd13-4f782a4898b6 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/Coda/95ab1dae-df4a-47ef-9f4c-46ad27479ccd | Coda | Senior Data Engineer (Amsterdam/Dubai)
+- [ ] https://ie.linkedin.com/jobs/view/senior-data-engineer-perm-ireland-remote-at-nearform-4204575921 | Nearform | Senior Data Engineer (Remote, Ireland)
+- [ ] https://job-boards.greenhouse.io/precisionaq/jobs/6030402004 | Precision AQ | Senior Data Analyst (UK/Netherlands)
+- [ ] https://www.linkedin.com/jobs/view/3834995176/ | Adecco | Data Engineer (Abu Dhabi)
