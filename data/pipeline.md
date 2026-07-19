@@ -587,3 +587,10 @@
 - [ ] https://ie.linkedin.com/jobs/view/senior-data-engineer-perm-ireland-remote-at-nearform-4204575921 | Nearform | Senior Data Engineer (Remote, Ireland)
 - [ ] https://job-boards.greenhouse.io/precisionaq/jobs/6030402004 | Precision AQ | Senior Data Analyst (UK/Netherlands)
 - [ ] https://www.linkedin.com/jobs/view/3834995176/ | Adecco | Data Engineer (Abu Dhabi)
+- [ ] https://jobs.lever.co/veeva/786d2cb5-f4d4-4439-b66c-3b940973bbfb | Veeva Systems | Data Product Manager - OpenData MENA (UAE/KSA)
+- [ ] https://jobs.ashbyhq.com/talentsafari/31a9c33c-7a42-4fa1-9403-09af49bcdffe | Talent Safari | Data Engineer
+- [ ] https://job-boards.greenhouse.io/narvar/jobs/8041580 | Narvar | Analytics Engineer, Data (Toronto, Canada)
+- [ ] https://job-boards.greenhouse.io/eucalyptus/jobs/4713640005 | Eucalyptus | Data Analyst (Canada)
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8025794 | Samsara | Senior Data Engineer (Remote, Canada)
+- [ ] https://job-boards.greenhouse.io/practicebetter/jobs/5172180008 | Practice Better | Data & Analytics Engineer (Remote, Canada)
+- [ ] https://job-boards.greenhouse.io/lithic/jobs/5977140004 | Lithic | Senior Software Engineer, Data Platform (Remote, Canada)
