@@ -594,3 +594,14 @@
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8025794 | Samsara | Senior Data Engineer (Remote, Canada)
 - [ ] https://job-boards.greenhouse.io/practicebetter/jobs/5172180008 | Practice Better | Data & Analytics Engineer (Remote, Canada)
 - [ ] https://job-boards.greenhouse.io/lithic/jobs/5977140004 | Lithic | Senior Software Engineer, Data Platform (Remote, Canada)
+- [ ] https://jobs.ashbyhq.com/onhires/591d4421-59f0-4b25-9d06-b1234fb0de04 | OnHires | Founding Data Engineer (Analytics Platform) (Remote EU)
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7512810003 | OKX | Senior Staff Data Engineer (Dubai)
+- [ ] https://job-boards.greenhouse.io/careem/jobs/8075741002 | Careem | Senior Data Warehouse Engineer I (Dubai)
+- [ ] https://jobs.lever.co/moonpay/f69f7436-3ffc-458d-987e-03b53e36c325 | MoonPay | Senior Data Platform Engineer
+- [ ] https://jobs.lever.co/moonpay/6f779b9e-d63d-4613-afd4-8b1e584f2cfb | MoonPay | Staff Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/6578690 | Monzo | Analytics Engineering Manager, Borrowing (London)
+- [ ] https://apply.workable.com/mrsool-3/j/D77E12BE6C | Mrsool | Data Engineer II (Saudi Arabia)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7181026 | Adyen | Optimization Data Analyst (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/nascompany/jobs/7668871003 | Nas Company | Data Engineer (UAE/MENA)
+- [ ] https://jobs.ashbyhq.com/trust-wallet/5e721760-46c6-47d6-ae8a-92f91fa1c4a1 | Trust Wallet | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4304779009 | Ōura | Senior Data Analyst, Hardware & Supply Chain (Finland/Remote)
