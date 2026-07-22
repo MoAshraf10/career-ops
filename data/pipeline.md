@@ -616,3 +616,9 @@
 - [ ] https://job-boards.greenhouse.io/okx/jobs/7795796003 | OKX | Data Operations Engineer, X-Layer (Dubai)
 - [ ] https://jobs.lever.co/wahed.com/3a77f79c-4610-4389-ba48-bc314efa1fb4 | Wahed | Data Engineer (UAE)
 - [ ] https://jobs.ashbyhq.com/onhires/2df1ffc1-4750-4782-a746-5e6760fa13f2 | OnHires | Senior Data Engineer (Remote EU)
+- [ ] https://jobs.ashbyhq.com/n8n/bf526af6-784c-49e8-8233-d69595423b4d | n8n | Senior Data Engineer (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/vanta/7600575b-fb06-485e-bc13-626e661a34aa | Vanta | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobandtalent/b838ddd1-19cc-47eb-ac3f-50d36a7037b4 | Job&Talent | Analytics Engineer (EMEA Remote)
+- [ ] https://jobs.ashbyhq.com/it%20labs/4bfcdbeb-87a2-40a9-983f-d1dd67f1535f | IT Labs | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7379653 | Cloudflare | Data and Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/prolific/jobs/4913052101 | Prolific | Senior Data Engineer (6 Month Contract)
