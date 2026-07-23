@@ -622,3 +622,15 @@
 - [ ] https://jobs.ashbyhq.com/it%20labs/4bfcdbeb-87a2-40a9-983f-d1dd67f1535f | IT Labs | Senior Data Engineer
 - [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7379653 | Cloudflare | Data and Analytics Engineer (London)
 - [ ] https://job-boards.greenhouse.io/prolific/jobs/4913052101 | Prolific | Senior Data Engineer (6 Month Contract)
+- [ ] https://job-boards.greenhouse.io/eucalyptus/jobs/4703108005 | Eucalyptus | Analytics Engineer (London, UK)
+- [ ] https://job-boards.greenhouse.io/eucalyptus/jobs/4712110005 | Eucalyptus | Senior Analytics Engineer (London, UK)
+- [ ] https://jobs.ashbyhq.com/cortea/d24cc47e-7f77-4f5d-931a-60cc87f66a68 | Cortea AI | Senior Data Engineer - Search Platform (Berlin)
+- [ ] https://apply.workable.com/tecknoworks/j/1E2C81C75E | Tecknoworks Europe | Senior Data Engineer (PySpark & Fabric)
+- [ ] https://job-boards.greenhouse.io/axle/jobs/5180544007 | Axle | Google Cloud Platform Data Engineer (London, UK)
+- [ ] https://jobs.lever.co/alimentiv-2/29984f84-0547-4250-a6b6-9cfab5003f0f | Alimentiv | Senior Data Engineer (Canada)
+- [ ] https://job-boards.greenhouse.io/housinganywhere/jobs/6552879003 | HousingAnywhere | Senior Data Engineer (Amsterdam)
+- [ ] https://jobs.lever.co/jobgether/30a900f4-c375-4c18-8ca6-f77f7c1172ba | Jobgether | Senior Data Engineer (EU Remote)
+- [ ] https://jobs.ashbyhq.com/facilityos/b7a9d375-bcb9-488c-906a-0f4d8d172fce | FacilityOS | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5991231004 | Galaxy Digital | Data Engineer
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7532262 | Samsara | Senior Marketing AI Data Engineer (Remote - Canada)
+- [ ] https://jobs.lever.co/resilientco/eb887c94-d5e8-406b-89f6-a084bf327238 | Resilient Co | AWS Data Engineer
