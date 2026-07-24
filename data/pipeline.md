@@ -634,3 +634,19 @@
 - [ ] https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5991231004 | Galaxy Digital | Data Engineer
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/7532262 | Samsara | Senior Marketing AI Data Engineer (Remote - Canada)
 - [ ] https://jobs.lever.co/resilientco/eb887c94-d5e8-406b-89f6-a084bf327238 | Resilient Co | AWS Data Engineer
+- [ ] https://job-boards.greenhouse.io/equilibriumenergy/jobs/4608316005 | Equilibrium Energy | Staff Data Engineer
+- [ ] https://job-boards.greenhouse.io/indigenouspactpbcinc/jobs/4716913005 | Indigenous Pact PBC | Data Platform & Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/rula/5b9abbe3-51ad-4d38-8e4f-2b8303b062e3 | Rula | Sr. Analytics Engineer (Remote US)
+- [ ] https://jobs.lever.co/jobgether/463e4f22-0d46-4a53-85f5-660f4f7587a8 | Jobgether | Data Engineer (IE / Ops Research)
+- [ ] https://jobs.lever.co/jobgether/9cc456c5-0725-4ab2-b229-534231b08e04 | Jobgether | Senior Data Engineer
+- [ ] https://jobs.lever.co/bluelightconsulting/cfec404b-ad82-4d39-b689-7ab9bfbf61a7 | Bluelight Consulting | Senior Data Engineer - ETL (Python+Snowflake)
+- [ ] https://jobs.lever.co/jobgether/66a41269-3470-499f-b48e-bf375803ed3e | Jobgether | AI Data Engineer / Snowflake Cortex Engineer
+- [ ] https://job-boards.greenhouse.io/quanata/jobs/5577629004 | Quanata | Senior Data Analyst (Remote US)
+- [ ] https://job-boards.greenhouse.io/array/jobs/5154821004 | Array | Senior Data Analyst (Remote US/CA)
+- [ ] https://job-boards.greenhouse.io/constantcontact/jobs/8067359 | Constant Contact | Senior Data Analyst
+- [ ] https://jobs.ashbyhq.com/forward%20financing/b77567c1-3a73-4c5a-8464-b7d63013158b | Forward Financing | Senior Data Analyst (Remote US)
+- [ ] https://jobs.ashbyhq.com/thatgamecompany/72e1e06e-e50f-42b2-bc76-10f3d526b826 | thatgamecompany | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8076800 | Twilio | Staff, Data Product Manager (Remote)
+- [ ] https://job-boards.greenhouse.io/gemini/jobs/8076827 | Gemini | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/fieldwire/jobs/8623237002 | Fieldwire | Data Engineer (Remote US)
+- [ ] https://job-boards.greenhouse.io/questbridge/jobs/8642273002 | QuestBridge | Data Analyst
