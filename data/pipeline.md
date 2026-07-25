@@ -650,3 +650,12 @@
 - [ ] https://job-boards.greenhouse.io/gemini/jobs/8076827 | Gemini | Senior Data Engineer
 - [ ] https://job-boards.greenhouse.io/fieldwire/jobs/8623237002 | Fieldwire | Data Engineer (Remote US)
 - [ ] https://job-boards.greenhouse.io/questbridge/jobs/8642273002 | QuestBridge | Data Analyst
+- [ ] https://jobs.ashbyhq.com/reactivemarkets/0154beea-fb04-4e09-81b3-897981f92f52 | Reactive Markets | AI & Data Engineer
+- [ ] https://jobs.lever.co/wgsn/b93422ff-8307-4852-a16a-ab88baef49e7 | WGSN | Senior Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6122160004 | Hightouch | Forward Deployed Analytics Engineer
+- [ ] https://jobs.lever.co/jobgether/0d5f2776-83f5-4a7c-a0e4-21e2d4df892a | Jobgether | Senior Data Engineer (AI-Native, UK)
+- [ ] https://jobs.ashbyhq.com/1password/e07bc774-d90b-443d-89f1-bec8fff33360 | 1Password | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/ciandt/d0fca56e-909e-4507-bc5a-c7095d478350 | CI&T | Analytics Engineer / DBT Modelling Engineer
+- [ ] https://jobs.lever.co/jobgether/639fa862-307e-4f4b-b2f4-09740994e7c6 | Jobgether | Data Platform & Cloud Engineer (Azure, Databricks)
+- [ ] https://jobs.ashbyhq.com/1password/ae49f20e-274a-4d5b-972a-6f728a531f56 | 1Password | Senior Data Analyst, Marketing
+- [ ] https://jobs.lever.co/remofirst/5091e15f-80dd-4c6b-9618-b4c4460b8310 | RemoFirst | Senior Data Engineer
