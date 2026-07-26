@@ -659,3 +659,5 @@
 - [ ] https://jobs.lever.co/jobgether/639fa862-307e-4f4b-b2f4-09740994e7c6 | Jobgether | Data Platform & Cloud Engineer (Azure, Databricks)
 - [ ] https://jobs.ashbyhq.com/1password/ae49f20e-274a-4d5b-972a-6f728a531f56 | 1Password | Senior Data Analyst, Marketing
 - [ ] https://jobs.lever.co/remofirst/5091e15f-80dd-4c6b-9618-b4c4460b8310 | RemoFirst | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7580693003 | Cobblestone Energy | Data Engineer
+- [ ] https://jobs.lever.co/qonto/1591d10c-c025-42ef-ab54-f9e1a3a93fa2 | Qonto | Compliance Expert Data Analyst
