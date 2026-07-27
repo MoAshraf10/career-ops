@@ -661,3 +661,5 @@
 - [ ] https://jobs.lever.co/remofirst/5091e15f-80dd-4c6b-9618-b4c4460b8310 | RemoFirst | Senior Data Engineer
 - [ ] https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/7580693003 | Cobblestone Energy | Data Engineer
 - [ ] https://jobs.lever.co/qonto/1591d10c-c025-42ef-ab54-f9e1a3a93fa2 | Qonto | Compliance Expert Data Analyst
+- [ ] https://job-boards.greenhouse.io/goodsservices/jobs/7787854003 | Goods & Services | Senior Data Engineer
+- [ ] https://www.linkedin.com/jobs/view/senior-data-platform-engineer-enterprise-data-at-gigascale-capital-4438366354 | Gigascale Capital | Senior Data Platform Engineer
