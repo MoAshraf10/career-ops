@@ -663,3 +663,7 @@
 - [ ] https://jobs.lever.co/qonto/1591d10c-c025-42ef-ab54-f9e1a3a93fa2 | Qonto | Compliance Expert Data Analyst
 - [ ] https://job-boards.greenhouse.io/goodsservices/jobs/7787854003 | Goods & Services | Senior Data Engineer
 - [ ] https://www.linkedin.com/jobs/view/senior-data-platform-engineer-enterprise-data-at-gigascale-capital-4438366354 | Gigascale Capital | Senior Data Platform Engineer
+- [ ] https://boards.greenhouse.io/typeform/jobs/4638587 | Typeform | Senior Data Platform Engineer
+- [ ] https://jobs.lever.co/jobgether/6d23848d-f409-457d-96c9-96329f7e55ce | Jobgether | Senior DataOps Engineer
+- [ ] https://jobs.lever.co/jobgether/9ba2e22f-4362-41fd-98a7-e4f8f3c26d22 | Jobgether | FBS Associate Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/babylist/jobs/6104979004 | Babylist | Senior Data Engineer
