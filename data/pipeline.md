@@ -667,3 +667,11 @@
 - [ ] https://jobs.lever.co/jobgether/6d23848d-f409-457d-96c9-96329f7e55ce | Jobgether | Senior DataOps Engineer
 - [ ] https://jobs.lever.co/jobgether/9ba2e22f-4362-41fd-98a7-e4f8f3c26d22 | Jobgether | FBS Associate Analytics Engineer
 - [ ] https://job-boards.greenhouse.io/babylist/jobs/6104979004 | Babylist | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/a01eb5fc-8ae6-4f91-a526-2fd9c0f5474a | Jobgether | Senior Data Engineer | Emerging Products
+- [ ] https://jobs.lever.co/jobgether/367e1b06-c34c-41ea-a361-55b05865d372 | Jobgether | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/bce105b4-4058-4d8d-8c23-5d15674693c6 | Jobgether | Principal Data Engineer
+- [ ] https://jobs.lever.co/jobgether/8565f925-6125-4173-b0eb-de08b9b6ca0f | Jobgether | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/44dfac2d-9a23-4a92-b2d3-7d0d76c93bc1 | Jobgether | Associate Architect - Data Engineer
+- [ ] https://jobs.lever.co/ciandt/3ccc389e-ea57-4fef-8e31-0ea49ee78c7f | CI&T | Analytics Engineer / DBT Modelling Engineer
+- [ ] https://jobs.ashbyhq.com/deel/29d4c375-df2d-4f45-bf45-3c706dccdd65 | Deel | Analytics Engineer, Product
+- [ ] https://jobs.ashbyhq.com/kraken.com/7c697b76-8d13-4825-808d-0d1dcd98ffd0 | Kraken | Data Analyst, Product
