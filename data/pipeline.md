@@ -675,3 +675,9 @@
 - [ ] https://jobs.lever.co/ciandt/3ccc389e-ea57-4fef-8e31-0ea49ee78c7f | CI&T | Analytics Engineer / DBT Modelling Engineer
 - [ ] https://jobs.ashbyhq.com/deel/29d4c375-df2d-4f45-bf45-3c706dccdd65 | Deel | Analytics Engineer, Product
 - [ ] https://jobs.ashbyhq.com/kraken.com/7c697b76-8d13-4825-808d-0d1dcd98ffd0 | Kraken | Data Analyst, Product
+- [ ] https://jobs.lever.co/aircall/c5ee9174-cc4a-41de-bdc7-67fdce7cf1a2 | Aircall | Senior Data Engineer - Real time analytics (EMEA)
+- [ ] https://jobs.ashbyhq.com/savvymoney/dfbe2a1b-3487-449a-af88-970e9b1a7b99 | SavvyMoney | Senior Data Engineer (EU, EMEA Remote)
+- [ ] https://jobs.lever.co/spotify/ba9d817a-a4aa-4452-ab56-ddd7cbc10943 | Spotify | Staff Data Engineer — Subscriptions User Understanding
+- [ ] https://jobs.lever.co/jobgether/2fd06bf9-28e7-4c99-986a-b10bfdd9c19e | Jobgether | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/tripadvisor/jobs/8083221 | Tripadvisor | Senior Data Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/appfire/jobs/4715344005 | Appfire | Senior Data Analytics Engineer - Data Insights
