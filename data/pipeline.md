@@ -681,3 +681,20 @@
 - [ ] https://jobs.lever.co/jobgether/2fd06bf9-28e7-4c99-986a-b10bfdd9c19e | Jobgether | Senior Data Engineer
 - [ ] https://job-boards.greenhouse.io/tripadvisor/jobs/8083221 | Tripadvisor | Senior Data Engineer (UK)
 - [ ] https://job-boards.greenhouse.io/appfire/jobs/4715344005 | Appfire | Senior Data Analytics Engineer - Data Insights
+- [ ] https://apply.workable.com/constructor-1/j/780844F9CD/ | Constructor | Data Engineer: Data Platform Team (Remote)
+- [ ] https://apply.workable.com/euromonitor/j/103DC644D7 | Euromonitor | Data Platform Engineering Team Leader (UK)
+- [ ] https://apply.workable.com/european-dynamics/j/587FD96F07/ | European Dynamics | Semantic Data Engineer (EU)
+- [ ] https://apply.workable.com/flatgigs/j/32604FA996 | Flatgigs | Python Data Engineer
+- [ ] https://apply.workable.com/remote-recruitment/j/E8FFCCC1B5 | Remote Recruitment | Data Analyst (UK/Remote)
+- [ ] https://job-boards.greenhouse.io/fosphamarketing/jobs/5996058 | Fospha | Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/faire/jobs/8538503002 | Faire | Data Engineer - Analytics Platform
+- [ ] https://job-boards.greenhouse.eu/huspy/jobs/4501747101 | Huspy | Data Analyst (Dubai, UAE)
+- [ ] https://jobs.lever.co/jobgether/027c5064-9ac5-4f6e-87b7-690ea8683a79 | Jobgether | Data Analyst (UAE)
+- [ ] https://job-boards.greenhouse.io/liveperson/jobs/8067576 | LivePerson | Senior Software Engineer, Data & Platform Services (Germany)
+- [ ] https://job-boards.greenhouse.io/typeform/jobs/6519057 | Typeform | Senior Data Analyst (Spain/EU)
+- [ ] https://job-boards.greenhouse.io/typeform/jobs/6657609 | Typeform | Senior Data Analyst (EU Remote)
+- [ ] https://job-boards.greenhouse.io/thefork/jobs/6812408 | TheFork | Senior Product Data Analyst (Paris, France)
+- [ ] https://jobs.lever.co/jobgether/0152e667-94be-487e-8d0b-8790ff90f64f | Jobgether | MLOps Engineer (Germany/Remote)
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4764480101 | Valtech | Principal Data Architect (Europe/Canada)
+- [ ] https://jobs.lever.co/binance/c85bb74a-025e-4a23-abfa-b3a452807f7d | Binance | Analytics Engineer
+- [ ] https://jobs.lever.co/binance/e92d8b5f-0f0a-4569-884f-4f45c8ad024c | Binance | Senior Data Analyst, Trading
