@@ -734,3 +734,10 @@
 - [ ] https://jobs.lever.co/jobgether/26017845-206b-4fad-a477-e6d1e5ea48e7 | Jobgether | Data Engineer - Global Team (remote)
 - [ ] https://jobs.lever.co/wahed.com/3a77f79c-4610-4389-ba48-bc314efa1fb4 | Wahed | Data Engineer (Dubai, UAE)
 - [ ] https://jobs.lever.co/jobgether/9cc456c5-0725-4ab2-b229-534231b08e04 | Jobgether | Senior Data Engineer (remote)
+- [ ] https://jobs.ashbyhq.com/vanta/1989a49f-227e-4928-b068-8ff24af88541 | Vanta | Senior Analytics Engineer (remote)
+- [ ] https://tabby.pinpointhq.com/postings/3043afd7-1881-4714-a997-63df236bb060 | Tabby | Senior Data Analyst - CX (Dubai, UAE)
+- [ ] https://apply.workable.com/blackstone-eit-2/j/D068BD97C1/ | BlackStone eIT | Data & Analytics Engineer (UAE)
+- [ ] https://jobs.lever.co/jobgether/10f35375-5eae-48a5-b57a-01a7e5b8b974 | Jobgether | Senior Data Analytics Engineer (remote)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8659990002 | Life360 | Senior Analytics Engineer (Canada/remote)
+- [ ] https://job-boards.greenhouse.io/anteriad/jobs/6011810004 | Anteriad | Data Engineer
+- [ ] https://job-boards.greenhouse.io/d2consulting/jobs/4972466008 | D2 Consulting | Senior Data Engineer
