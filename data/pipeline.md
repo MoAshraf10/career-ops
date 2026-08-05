@@ -741,3 +741,10 @@
 - [ ] https://job-boards.greenhouse.io/life360/jobs/8659990002 | Life360 | Senior Analytics Engineer (Canada/remote)
 - [ ] https://job-boards.greenhouse.io/anteriad/jobs/6011810004 | Anteriad | Data Engineer
 - [ ] https://job-boards.greenhouse.io/d2consulting/jobs/4972466008 | D2 Consulting | Senior Data Engineer
+- [ ] https://apply.workable.com/ubds/j/8B798976B2/ | UBDS Group | Senior Data Engineer (UK)
+- [ ] https://jobs.ashbyhq.com/kraken.com/cf14a771-0586-41de-b379-fe301c3c8120 | Kraken | Data Platform Engineering Manager (Remote)
+- [ ] https://apply.workable.com/cloudlinux-1/j/1E205AA3C1 | Cloudlinux | Middle-Senior Data Engineer (Worldwide Remote)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8053723 | Intercom | Senior Analytics Engineer - Fin (Dublin/London)
+- [ ] https://www.linkedin.com/jobs/view/3908873895/ | Emirates NBD | Senior Data Engineer (Dubai, UAE)
+- [ ] https://www.linkedin.com/jobs/view/4393287018/ | Unknown | Senior Data Engineer
+- [ ] https://www.linkedin.com/jobs/view/senior-data-engineer-relocate-to-uae-at-discovered-mena-4299211367 | Discovered MENA | Senior Data Engineer - Relocate to UAE
