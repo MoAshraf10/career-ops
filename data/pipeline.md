@@ -748,3 +748,14 @@
 - [ ] https://www.linkedin.com/jobs/view/3908873895/ | Emirates NBD | Senior Data Engineer (Dubai, UAE)
 - [ ] https://www.linkedin.com/jobs/view/4393287018/ | Unknown | Senior Data Engineer
 - [ ] https://www.linkedin.com/jobs/view/senior-data-engineer-relocate-to-uae-at-discovered-mena-4299211367 | Discovered MENA | Senior Data Engineer - Relocate to UAE
+- [ ] https://www.linkedin.com/jobs/view/3727516779/ | Landmark Group | Senior Data Engineer (Dubai, UAE)
+- [ ] https://jobs.ashbyhq.com/codat/33d61818-455c-4430-af32-24ab58d46756 | Codat | Senior Data Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/soundcloud71/jobs/8624637002 | SoundCloud | Senior Data Analyst (Berlin/London)
+- [ ] https://job-boards.greenhouse.io/dept/jobs/8072072 | DEPT® | Senior Data Analyst (Toronto, Canada)
+- [ ] https://job-boards.greenhouse.io/autotradercanada/jobs/7680717003 | AutoTrader.ca | Senior Analytics Engineer (Toronto, Canada)
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7357541 | Gusto | Senior Data Engineer (Toronto remote, Canada)
+- [ ] https://job-boards.greenhouse.io/phaidra/jobs/4706483005 | Phaidra | Senior Software Engineer, Data Platform (remote/UK)
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4273943009 | StackAdapt | Data Analyst, Business Intelligence (London)
+- [ ] https://job-boards.greenhouse.io/jobleads/jobs/8091954002 | JobLeads | Finance Data Analyst (remote EU)
+- [ ] https://job-boards.greenhouse.io/sojern/jobs/4646176007 | Sojern | Senior Data Analyst (Dublin, Ireland)
+- [ ] https://job-boards.eu.greenhouse.io/policyexpert/jobs/4568161101 | Policy Expert | Data Analyst (London)
