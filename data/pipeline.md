@@ -769,3 +769,23 @@
 - [ ] https://apply.workable.com/zego/j/E6033BA9A6 | Zego | Senior Data Engineer (UK Remote)
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/8044650 | Twilio | Senior Analytics Engineer (Remote)
 - [ ] https://jobs.ashbyhq.com/checkout.com/28697dc0-b12d-44d1-be85-a78f18023f02 | Checkout.com | Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4499246005 | dbt Labs | Analytics Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8659252002 | Life360 | Senior Data Engineer II, AI Native (Canada/Remote)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8428869002 | Life360 | Senior Analytics Engineer II (Canada/Remote)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8523600002 | Life360 | Senior Analytics Engineer II, AI Native (Canada/Remote)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6354686003 | Remote.com | Senior Data Analyst, Revenue Analytics (Global Remote)
+- [ ] https://job-boards.greenhouse.io/nscaleoperationsukltd/jobs/4872127101 | Nscale | Data Analytics Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/coconutsoftware/jobs/5979147004 | Coconut Software | Senior Analytics Engineer (Canada)
+- [ ] https://job-boards.greenhouse.io/pilothq/jobs/8546874002 | Pilot.com | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/appfire/jobs/4715345005 | Appfire | Senior Data Engineer, Data Insights
+- [ ] https://job-boards.greenhouse.io/appfire/jobs/4697648005 | Appfire | Senior Data Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/forafinancial/jobs/4302249009 | Fora Financial | Staff Data Engineer
+- [ ] https://job-boards.greenhouse.io/leaflink/jobs/8478974002 | LeafLink | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/leaflink/jobs/8657226002 | LeafLink | Staff Data Engineer
+- [ ] https://job-boards.greenhouse.io/ezcaterinc/jobs/5200934007 | ezCater | Senior Data Product Manager, Delivery Transformation
+- [ ] https://job-boards.greenhouse.io/drivewealth/jobs/6520929003 | DriveWealth | Senior Data Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6129946004 | Alpaca | Senior Analytics Engineer (North America Remote)
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/4785507008 | Honeycomb.io | Data Engineer
+- [ ] https://job-boards.greenhouse.io/public/jobs/6648298003 | Public | Senior Data Analyst / Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/roofr/jobs/4699868005 | Roofr | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/aledade/d5042db4-37cf-40d4-846b-c16a5c36d403 | Aledade | Full-Stack Analytics Engineer II
