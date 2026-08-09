@@ -789,3 +789,14 @@
 - [ ] https://job-boards.greenhouse.io/public/jobs/6648298003 | Public | Senior Data Analyst / Analytics Engineer
 - [ ] https://job-boards.greenhouse.io/roofr/jobs/4699868005 | Roofr | Senior Analytics Engineer
 - [ ] https://jobs.lever.co/aledade/d5042db4-37cf-40d4-846b-c16a5c36d403 | Aledade | Full-Stack Analytics Engineer II
+- [ ] https://jobs.lever.co/jobgether/5af58b74-d890-49e5-93f7-3e79cc2396ac | Jobgether | Senior Data Engineer (AI-Native) — Data Layer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/d06cb81a-e27d-424e-97b2-8fe0fb483343 | ElevenLabs | Data Engineer - RevOps & Finance
+- [ ] https://jobs.ashbyhq.com/satispay/37ba5dc7-ac89-411b-a657-8b8a6942ab88 | Satispay | Data Engineer
+- [ ] https://jobs.ashbyhq.com/Infinite%20Lambda/a028ae5f-07ae-486e-9080-e1af05ca6e7a | Infinite Lambda | T-shaped Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/remotewoman/jobs/8431679002 | Remote Woman | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/nansen/jobs/5783726004 | Nansen.ai | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/wrike/jobs/4593222005 | Wrike | Data Engineer
+- [ ] https://job-boards.greenhouse.io/bringg/jobs/8568349002 | Bringg | Analytics Engineer
+- [ ] https://apply.workable.com/satori-analytics-1/j/3C93974590 | Satori Analytics | Data Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8039702 | Reddit | Staff Data Engineer, Corporate Engineering
+- [ ] https://job-boards.greenhouse.io/translucent/jobs/4246634009 | Translucent | Senior Data Engineer
