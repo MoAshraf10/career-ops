@@ -800,3 +800,10 @@
 - [ ] https://apply.workable.com/satori-analytics-1/j/3C93974590 | Satori Analytics | Data Engineer
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/8039702 | Reddit | Staff Data Engineer, Corporate Engineering
 - [ ] https://job-boards.greenhouse.io/translucent/jobs/4246634009 | Translucent | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/e6c02db8-2d1b-4f13-a1af-20d8fa8fb87d | Jobgether | Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4314200009 | Ōura | Senior Data Engineer, Membership (Finland/Remote)
+- [ ] https://job-boards.greenhouse.io/okx/jobs/6588303003 | OKX | Data Engineer - Anti Financial Crime (Dubai)
+- [ ] https://jobs.ashbyhq.com/kraken.com/6e6a2f36-25d1-404c-a35d-e1eeb3c6e4ef | Kraken | Data Analyst - Finance (Remote)
+- [ ] https://jobs.lever.co/jobgether/467a2954-9d66-4623-865a-9d34b20b01e4 | Jobgether | Data Analyst (Remote)
+- [ ] https://jobs.lever.co/jobgether/ba05bd5c-dce8-465b-a410-b85b3eeb3712 | Jobgether | Databricks Data Engineer - Senior (Remote)
+- [ ] https://job-boards.greenhouse.io/correlationone/jobs/6102142004 | Correlation One | Senior Data Engineer (Remote Europe)
