@@ -807,3 +807,53 @@
 - [ ] https://jobs.lever.co/jobgether/467a2954-9d66-4623-865a-9d34b20b01e4 | Jobgether | Data Analyst (Remote)
 - [ ] https://jobs.lever.co/jobgether/ba05bd5c-dce8-465b-a410-b85b3eeb3712 | Jobgether | Databricks Data Engineer - Senior (Remote)
 - [ ] https://job-boards.greenhouse.io/correlationone/jobs/6102142004 | Correlation One | Senior Data Engineer (Remote Europe)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7566223 | Cloudflare | Senior Data Engineer (DIA)
+- [ ] https://job-boards.greenhouse.io/soundcloud71/jobs/7973434002 | SoundCloud | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/soundcloud71/jobs/8104409002 | SoundCloud | Data Engineer
+- [ ] https://job-boards.greenhouse.io/soundcloud71/jobs/8189543002 | SoundCloud | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8373431002 | Discord | Senior Data Engineer, Analytics
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8485884002 | Discord | Staff Data Engineer, Analytics
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8614971002 | Discord | Data Engineer
+- [ ] https://job-boards.greenhouse.io/faire/jobs/8535853002 | Faire | Senior Analytics Engineer - GTM
+- [ ] https://job-boards.greenhouse.io/gympass/jobs/8033761002 | Wellhub | Senior Data Engineer - Data Platform
+- [ ] https://job-boards.greenhouse.io/gympass/jobs/8116065002 | Wellhub | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/gympass/jobs/8582291002 | Wellhub | Senior AI Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/gympass/jobs/8615272002 | Wellhub | Senior Marketing Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8092933002 | Life360 | Staff Data Engineer
+- [ ] https://job-boards.greenhouse.io/life360/jobs/7550617002 | Life360 | Data Engineer II
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8028954002 | Life360 | Senior Data Engineer II
+- [ ] https://job-boards.greenhouse.io/topsteptrader/jobs/7726681003 | Topstep | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/hs/jobs/7776483 | Headspace | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/figure/jobs/8575932002 | Figure Lending | Senior Data Analyst, Lending
+- [ ] https://job-boards.greenhouse.io/2u/jobs/8549029002 | 2U | Senior Data Product Manager
+- [ ] https://job-boards.greenhouse.io/checkr/jobs/7650448 | Checkr | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7028089 | DoorDash | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8627805002 | VML | Data Engineer
+- [ ] https://job-boards.greenhouse.io/brightnetwork/jobs/5644582004 | Bright Network | Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/brightnetwork/jobs/5498877004 | Bright Network | Senior Data Engineer (Edinburgh)
+- [ ] https://job-boards.greenhouse.io/canonical/jobs/3014391 | Canonical | Software Engineer - Data Infrastructure (EMEA Remote)
+- [ ] https://job-boards.greenhouse.io/paveakatroveinformationtechnologies/jobs/4717124005 | Pave | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/fleetio/jobs/5070772007 | Fleetio | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/ibotta/427b1f58-2c9e-47f5-9c43-ea5de7229670 | Ibotta | Senior Analytics Engineer, Product Analytics
+- [ ] https://jobs.ashbyhq.com/openai/c59e2e83-59a6-45bc-82cd-665c6a8a5761 | OpenAI | Data Engineer, Scaling Analytics
+- [ ] https://jobs.ashbyhq.com/Perplexity/9d3171b4-18fd-4808-8da3-39d4408e2209 | Perplexity | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/pleo/42605479-c98a-430e-a6f3-840dbfbdc06d | Pleo | Analytics Engineer (EU Remote)
+- [ ] https://jobs.ashbyhq.com/hinge-health/ca8b6c73-f88e-4e4c-b782-ece3ca3ad4e7 | Hinge Health | Senior Staff Data Engineer - Data & ML Platform
+- [ ] https://jobs.ashbyhq.com/Deel/6ebcc8da-bc05-4666-8897-0c712bd681d0 | Deel | Data Engineer (Global Remote)
+- [ ] https://jobs.ashbyhq.com/whatnot/9fd6fef1-619f-48dd-97b0-c91063432df3 | Whatnot | Data Engineer
+- [ ] https://jobs.ashbyhq.com/datafold/21cad7b8-546a-40a1-9a37-cde266201821 | Datafold | Forward Deployed Data Engineer
+- [ ] https://jobs.ashbyhq.com/confluent/81b94a4e-53d3-40d5-9c04-af57bd01961c | Confluent | Staff PM - Real Time Data Analytics Platform
+- [ ] https://jobs.ashbyhq.com/g2i/ec4f12d3-81bf-4679-a304-2cfc7bba608b | G2i | Data Engineer
+- [ ] https://jobs.ashbyhq.com/g2i/2c099b1c-c783-4385-aa71-9bee7bb995ab | G2i | Senior Data Engineer
+- [ ] https://jobs.lever.co/spotify/2d765fb7-e5e3-4ad6-864d-5f5c3cc9a1ac | Spotify | Data Engineer - Podcasting
+- [ ] https://jobs.lever.co/kraken123/04a1ecda-4ae2-47a9-b8ad-0b6a8466bbe6 | Kraken | Data Analyst (Analytics Engineering)
+- [ ] https://jobs.lever.co/kraken123/a26a61ab-8fb2-4631-9424-133e2b6ec795 | Kraken | Data Engineer II
+- [ ] https://jobs.lever.co/kraken123/35fa06c4-16f4-4e31-8677-bde2e4f6bc70 | Kraken | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/tala/a7877846-bd81-4da8-a304-3720312b1da8 | Tala | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/tala/66ec4e77-b8d9-4444-ae82-355a6f3ce567 | Tala | Analytics Engineer II
+- [ ] https://jobs.lever.co/jobgether/2decabee-b012-44bd-9911-d874373bfbcf | Jobgether | Remote Senior Analytics Engineer (Europe)
+- [ ] https://jobs.lever.co/super-com/f303a862-5e3e-42b4-95e9-9c7c2a07d0c7 | Super.com | Senior Analytics Engineer (Remote)
+- [ ] https://jobs.lever.co/veeva/ce7dc033-1477-4b94-af79-4c75377ac534 | Veeva Systems | Sales Analytics Engineer (EMEA Remote)
+- [ ] https://apply.workable.com/quilt-software/j/75B6CBC583 | Quilt Software | Senior Data Engineer (UK)
+- [ ] https://apply.workable.com/gsstech-group/j/8FDE224F81/ | GSSTech Group | Senior Data Engineer (UAE)
+- [ ] https://apply.workable.com/qodeworld/j/CB98496C8E | Qode | Senior Data Engineer
