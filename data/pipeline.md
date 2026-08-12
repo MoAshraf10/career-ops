@@ -857,3 +857,15 @@
 - [ ] https://apply.workable.com/quilt-software/j/75B6CBC583 | Quilt Software | Senior Data Engineer (UK)
 - [ ] https://apply.workable.com/gsstech-group/j/8FDE224F81/ | GSSTech Group | Senior Data Engineer (UAE)
 - [ ] https://apply.workable.com/qodeworld/j/CB98496C8E | Qode | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/blab/jobs/8692303002 | B Lab | Data Analyst
+- [ ] https://job-boards.greenhouse.io/remotewoman/jobs/8659416002 | Upsun | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/correlationone/jobs/6102140004 | Correlation One | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/eqtpartners/jobs/4870918101 | EQT Group | Data Engineer
+- [ ] https://job-boards.greenhouse.io/wpp/jobs/8531607002 | WPP | Data Engineer
+- [ ] https://job-boards.greenhouse.io/appfire/jobs/4697730005 | Appfire | Senior Data Analytics Engineer - Data Insights
+- [ ] https://job-boards.greenhouse.io/octus/jobs/5122439007 | Octus | Data Analytics Analyst
+- [ ] https://jobs.lever.co/spotify/fb8bae32-f3b4-4d30-8b3f-9916e41344de | Spotify | Data Engineer - Commerce Platform
+- [ ] https://jobs.lever.co/spotify/baa87498-b0a3-4ac5-b197-a224e93c8a07 | Spotify | Backend/Data Engineer - Data Platform
+- [ ] https://job-boards.greenhouse.io/artefact/jobs/8428189002 | Artefact | Sr Data Analyst
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4674811101 | Tamara | Data Engineer
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4825978101 | Tamara | Senior Data Analyst
