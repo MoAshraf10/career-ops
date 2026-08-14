@@ -869,3 +869,9 @@
 - [ ] https://job-boards.greenhouse.io/artefact/jobs/8428189002 | Artefact | Sr Data Analyst
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4674811101 | Tamara | Data Engineer
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4825978101 | Tamara | Senior Data Analyst
+- [ ] https://jobs.lever.co/veeva/a04eda9e-a675-4af8-a4ff-ffc177f99876 | Veeva Systems | Analytics Engineer - OpenData EMEA (Remote)
+- [ ] https://jobs.ashbyhq.com/paddle/938c6fbe-3167-4264-bca5-3b4ad104adee | Paddle | Senior Analytics Engineer (UK/EU Remote)
+- [ ] https://jobs.ashbyhq.com/paddle/a456a7d8-8c6c-403e-81fc-b4d13f16d4c0 | Paddle | Senior Data Analytics Engineer (UK/EU Remote)
+- [ ] https://jobs.ashbyhq.com/paddle/e0aaf687-4dd6-44b5-ad05-891df9a51e4b | Paddle | Senior Analytics Engineer - Marketing (UK/EU Remote)
+- [ ] https://jobs.ashbyhq.com/super.com/b311aee3-d2ff-4562-908e-a4661247a987 | Super.com | Senior Analytics Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7238913 | Intercom | Senior Manager, Analytics Engineering (Dublin)
