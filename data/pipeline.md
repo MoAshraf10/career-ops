@@ -884,3 +884,11 @@
 - [ ] https://job-boards.greenhouse.io/8thlightrebuild/jobs/7866429003 | 8th Light | Lead Data Engineer (Remote UK/Canada)
 - [ ] https://job-boards.greenhouse.io/8thlightrebuild/jobs/7866487003 | 8th Light | Principal Data Engineer (Remote UK/Canada)
 - [ ] https://job-boards.greenhouse.io/eventbriteinc/jobs/4543007007 | Eventbrite | Data Analyst, Accounting Analytics (Ireland Remote)
+- [ ] https://jobs.ashbyhq.com/sardine/6c3dd41c-0ca6-47c5-86fb-bd5114f2a5ac | Sardine | Data Engineer - GTM & Analytics
+- [ ] https://jobs.lever.co/moo/74a0d86b-f821-4d50-b5b8-195661ec550c | MOO | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/airalo/46bdbdd9-bf61-4235-95ec-14a157346c48 | Airalo | Senior Data Analyst, Product and Business
+- [ ] https://job-boards.greenhouse.io/aircallioinc/jobs/4315063009 | Aircall | Data Engineer/Senior Data Engineer (London)
+- [ ] https://jobs.lever.co/lemnis/d2b67055-341f-44b1-bcc6-faeb80f5905d | Lemnis | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/optro/36117f50-ce81-481b-b9ce-9306c1472a7b | Optro | Senior Data Analytics Engineer (Remote)
+- [ ] https://apply.workable.com/ofload/j/7D1A434EDE | Ofload | Senior Data Engineer
+- [ ] https://jobs.ashbyhq.com/Higharc/003dc8db-bad9-415a-9ea7-f38bab0a1945 | Higharc | Analytics Engineer
