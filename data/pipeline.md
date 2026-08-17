@@ -892,3 +892,10 @@
 - [ ] https://jobs.ashbyhq.com/optro/36117f50-ce81-481b-b9ce-9306c1472a7b | Optro | Senior Data Analytics Engineer (Remote)
 - [ ] https://apply.workable.com/ofload/j/7D1A434EDE | Ofload | Senior Data Engineer
 - [ ] https://jobs.ashbyhq.com/Higharc/003dc8db-bad9-415a-9ea7-f38bab0a1945 | Higharc | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6132651004 | Xebia CEE | Azure Data Platform Engineer (Poland/Eastern Europe)
+- [ ] https://apply.workable.com/houseful/j/067E84613F/ | Alto | Data Platform Engineer - AWS Databricks (UK)
+- [ ] https://jobs.ashbyhq.com/taxfix.com/96724921-2c67-4285-ab84-9ddff05429c9 | Taxfix | Senior Data Platform Engineer (Berlin)
+- [ ] https://job-boards.greenhouse.io/hugeinc/jobs/8107384 | HugeInc | Freelance Senior Data Engineer (Remote, contract Aug-Nov 2026)
+- [ ] https://apply.workable.com/the-very-group/j/893BB5E2B2/ | The Very Group | Senior Data Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4354880009 | Ōura | Senior MLOps Engineer (verify geo)
+- [ ] https://jobs.lever.co/binance/4b002366-4411-429d-85e2-a06121d0c54e | Binance | Senior Data Engineer (Real-time)
