@@ -899,3 +899,8 @@
 - [ ] https://apply.workable.com/the-very-group/j/893BB5E2B2/ | The Very Group | Senior Data Engineer (UK)
 - [ ] https://job-boards.greenhouse.io/oura/jobs/4354880009 | Ōura | Senior MLOps Engineer (verify geo)
 - [ ] https://jobs.lever.co/binance/4b002366-4411-429d-85e2-a06121d0c54e | Binance | Senior Data Engineer (Real-time)
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6124253004 | PlayStation Global | Security Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5823360004 | PlayStation Global | Data Engineer - 12-month FTC (London)
+- [ ] https://jobs.ashbyhq.com/paddle/972ec054-8bad-4b84-bb97-9c4198391db0 | Paddle | Head of Analytics Engineering
+- [ ] https://apply.workable.com/prox-works/j/2C3CE7EFE1 | Proximity Works | Senior Data Engineer - AdTech (6-Month Contract)
+- [ ] https://jobs.ashbyhq.com/kraken.com/12183803-a608-47fe-8b4f-a72be298d406 | Kraken | Data Analyst, Product (Remote)
