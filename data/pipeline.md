@@ -904,3 +904,10 @@
 - [ ] https://jobs.ashbyhq.com/paddle/972ec054-8bad-4b84-bb97-9c4198391db0 | Paddle | Head of Analytics Engineering
 - [ ] https://apply.workable.com/prox-works/j/2C3CE7EFE1 | Proximity Works | Senior Data Engineer - AdTech (6-Month Contract)
 - [ ] https://jobs.ashbyhq.com/kraken.com/12183803-a608-47fe-8b4f-a72be298d406 | Kraken | Data Analyst, Product (Remote)
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7765811003 | OKX | Staff Data Engineer, Finance Data Platform (Dubai)
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7765814003 | OKX | Senior Data Engineer, Compliance Data Platform (Dubai)
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7001941 | Monzo | Senior Data Analyst, Financial Health (London)
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5212899007 | Encora | Lead Data Engineer (Remote EU/Canada)
+- [ ] https://jobs.lever.co/jobgether/5f129d55-abeb-4c46-89e9-c3c7ae8ff351 | Jobgether | Cloud Data Engineer - Snowflake/Databricks (Remote)
+- [ ] https://jobs.lever.co/revolut/cfc01c3f-8c5c-459f-96f8-d34657ee0c7c | Revolut | Data Analyst (London/EU)
+- [ ] https://jobs.lever.co/trendyol/70fbaad1-feeb-4576-8e59-cec450ce90ba | Trendyol | Data Analyst - Fintech Services (Dubai)
