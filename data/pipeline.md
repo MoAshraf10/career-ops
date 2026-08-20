@@ -911,3 +911,16 @@
 - [ ] https://jobs.lever.co/jobgether/5f129d55-abeb-4c46-89e9-c3c7ae8ff351 | Jobgether | Cloud Data Engineer - Snowflake/Databricks (Remote)
 - [ ] https://jobs.lever.co/revolut/cfc01c3f-8c5c-459f-96f8-d34657ee0c7c | Revolut | Data Analyst (London/EU)
 - [ ] https://jobs.lever.co/trendyol/70fbaad1-feeb-4576-8e59-cec450ce90ba | Trendyol | Data Analyst - Fintech Services (Dubai)
+- [ ] https://jobs.ashbyhq.com/zefir/ba9afc5d-ed03-4680-85ae-7ec3841f7719 | Zefir | Staff Analytics Engineer, Data Platform (Paris/Remote EU)
+- [ ] https://jobs.ashbyhq.com/wrapbook/a9bbaf3d-4793-4b9d-8ba2-ba4ced2d2527 | Wrapbook | Senior Analytics Engineer II (Canada Remote)
+- [ ] https://jobs.lever.co/jobgether/513911ea-03b6-4fd5-a550-22240d84a713 | Jobgether | Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/b2b8c8c8-4fc9-4b2b-b78e-e1659311838d | Jobgether | Lead Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/bb161435-9331-4ed7-a313-d2f21b7b8c64 | Jobgether | Data Analyst (Remote)
+- [ ] https://jobs.lever.co/jobgether/709bceab-e389-4eee-b752-38185c546b2e | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/df8d9a54-73d6-424a-908c-2a1c11d3a4ac | Jobgether | Senior Data Engineer - ETL Data Integration (Remote)
+- [ ] https://job-boards.greenhouse.io/krollbondratingagency/jobs/8060454002 | KBRA | Senior Data Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/checkout.com/4ba42482-91ac-41c3-99eb-f4d085d1c152 | Checkout.com | Senior Analytics Engineer
+- [ ] https://jobs.lever.co/moonpay/e5901d4d-6588-4877-8c2e-9fabd56d2775 | MoonPay | Staff Data Engineer
+- [ ] https://jobs.lever.co/sonatype/3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0 | Sonatype | Staff Data Engineer (Remote)
+- [ ] https://jobs.lever.co/sonatype/50a1ba4b-3473-4393-96d8-9cda693f4a03 | Sonatype | Senior Data Engineer - BI Databricks & AWS (Remote)
+- [ ] https://apply.workable.com/tiger-analytics/j/E3AD9B23B6 | Tiger Analytics | Senior Data Engineer
