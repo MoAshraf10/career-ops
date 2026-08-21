@@ -924,3 +924,11 @@
 - [ ] https://jobs.lever.co/sonatype/3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0 | Sonatype | Staff Data Engineer (Remote)
 - [ ] https://jobs.lever.co/sonatype/50a1ba4b-3473-4393-96d8-9cda693f4a03 | Sonatype | Senior Data Engineer - BI Databricks & AWS (Remote)
 - [ ] https://apply.workable.com/tiger-analytics/j/E3AD9B23B6 | Tiger Analytics | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/tebra/jobs/4710332005 | Tebra | Data Engineer
+- [ ] https://job-boards.greenhouse.io/manychat/jobs/8186877002 | Manychat | Data Platform Engineer (Amsterdam)
+- [ ] https://jobs.ashbyhq.com/runpod/a63e8c2f-a319-4655-8179-b024a45db782 | Runpod | Senior Data Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/taxfix.com/3e0231d3-ec0f-4bbe-82de-f506749aea03 | Taxfix | Senior Data Engineer - Data Platform (EU)
+- [ ] https://jobs.ashbyhq.com/qumulo/bd690668-00bf-49b7-8228-45c5cd81008a | Qumulo | Senior Data Engineer (Cork, Ireland)
+- [ ] https://jobs.lever.co/jobgether/6d984dc2-b27d-44c9-93bc-820a61e2da8e | Jobgether | Data Engineer 2 (Remote)
+- [ ] https://jobs.lever.co/jobgether/70ec7a0c-7ca3-4e9c-aff9-fe992bd0af9f | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://apply.workable.com/recurly/j/D6041C1430 | Recurly | Analytics Engineer (Remote)
