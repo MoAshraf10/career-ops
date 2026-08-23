@@ -944,3 +944,12 @@
 - [ ] https://jobs.lever.co/jobgether/2b9e41c8-c3e2-4d3b-bbf6-3dddfdc41d12 | Jobgether | Senior Data Engineer - Web Scraping (Saudi Arabia Remote)
 - [ ] https://jobs.lever.co/jobgether/a5349af2-761b-42bd-ada0-afd08a63f64e | Jobgether | Data Engineer (Canada Remote)
 - [ ] https://jobs.lever.co/luxurypresence/219e0592-a9f1-4e34-b7da-16da8949b6dd | Luxury Presence | Senior Data Analyst, GTM Analytics (Canada Remote)
+- [ ] https://jobs.lever.co/jobgether/582954e1-8bc6-4ddb-8e79-27b3556a15ac | Jobgether | Senior Data & Analytics Engineer (Europe Remote)
+- [ ] https://jobs.lever.co/jobgether/2f5d5f01-e2b0-4ceb-8422-f220f9ee9459 | Jobgether | Data Engineer (France Remote)
+- [ ] https://job-boards.greenhouse.io/via99/jobs/4372643009 | VIA | Data Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/method/jobs/7802959003 | Method (GlobalLogic) | Senior Data Engineer (London)
+- [ ] https://jobs.ashbyhq.com/fundingcircle/ba799393-c80e-4af9-8200-5c4c1ef3f967 | Funding Circle | Senior Analytics Engineer / Tech Lead (UK)
+- [ ] https://jobs.ashbyhq.com/TaptapSend/37271a72-09c1-48ed-aef1-821944638f92 | Taptap Send | Staff Analytics Engineer
+- [ ] https://jobs.lever.co/jobgether/d605c7c6-22d8-4f47-8938-96015c367c6f | Jobgether | Data Engineer
+- [ ] https://jobs.lever.co/jobgether/2729318f-05d3-4430-aac5-ca644f550244 | Jobgether | AI & Data Engineer
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/6149824004 | Caylent | Senior Data Engineer - Databricks (Canada/Remote)
