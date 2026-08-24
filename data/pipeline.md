@@ -953,3 +953,6 @@
 - [ ] https://jobs.lever.co/jobgether/d605c7c6-22d8-4f47-8938-96015c367c6f | Jobgether | Data Engineer
 - [ ] https://jobs.lever.co/jobgether/2729318f-05d3-4430-aac5-ca644f550244 | Jobgether | AI & Data Engineer
 - [ ] https://job-boards.greenhouse.io/caylent/jobs/6149824004 | Caylent | Senior Data Engineer - Databricks (Canada/Remote)
+- [ ] https://job-boards.greenhouse.io/leagueinc/jobs/5625193004 | League Inc. | Senior Data Engineer (Toronto, Canada)
+- [ ] https://apply.workable.com/accellor/j/544A1831A1/ | Accellor | Data Engineer (London, UK)
+- [ ] https://job-boards.greenhouse.io/goremutualinsurance/jobs/4650324006 | Gore Mutual Insurance | Associate Data Engineer - MLOps (Canada)
