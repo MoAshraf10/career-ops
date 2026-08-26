@@ -964,3 +964,10 @@
 - [ ] https://jobs.ashbyhq.com/npv/246b29fb-cd04-4cc6-8587-2161e712d9bb | npv labs | ML Engineer (EU/UK/US Remote)
 - [ ] https://jobs.ashbyhq.com/tilthq/67bc84a4-277b-4f29-a397-7293542a1e96 | Tilt Finance | Lead Machine Learning Engineer (MLOps) (UK)
 - [ ] https://jobs.lever.co/oddin/995ca90b-0df8-4d5e-a6c0-20b21080b43d | Oddin | Data Engineer (Prague/EU)
+- [ ] https://jobs.lever.co/Yassir/580bb8db-a843-4484-bbff-7ed3e3e10a32 | Yassir | Data Engineer (Mid/Senior)
+- [ ] https://jobs.ashbyhq.com/ruby-labs/5fb76187-efa5-486d-8ceb-5309ac0fefd4 | Ruby Labs | Data Analytics Engineer (Remote)
+- [ ] https://apply.workable.com/roadpass-digital-1/j/19A4D9F2A9 | Roadpass Digital | Senior Data Analytics Engineer (Remote)
+- [ ] https://apply.workable.com/fleetio/j/E875CFB5B9/ | Fleetio | Senior Analytics Engineer (Remote)
+- [ ] https://jobs.lever.co/resilinc/98e013c3-84ff-4596-8712-6401c0fb3d55 | Resilinc | Senior Data Engineer
+- [ ] https://jobs.ashbyhq.com/owner/cc6453a3-6cfe-4a4a-9bab-9dd170cb8c6c | Owner.com | Data Platform Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/ohr/5f2b1267-f692-4be6-b796-bd7e8cf53ee3 | Ohr | Data Engineer (Remote)
