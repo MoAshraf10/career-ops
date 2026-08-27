@@ -971,3 +971,8 @@
 - [ ] https://jobs.lever.co/resilinc/98e013c3-84ff-4596-8712-6401c0fb3d55 | Resilinc | Senior Data Engineer
 - [ ] https://jobs.ashbyhq.com/owner/cc6453a3-6cfe-4a4a-9bab-9dd170cb8c6c | Owner.com | Data Platform Engineer (Remote)
 - [ ] https://jobs.ashbyhq.com/ohr/5f2b1267-f692-4be6-b796-bd7e8cf53ee3 | Ohr | Data Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/statista/759ae11e-eb39-470a-a774-3b9c84d2d7a1 | Statista | Data & Analytics Engineer (Hamburg/Berlin)
+- [ ] https://jobs.lever.co/qonto/ebed5dab-630c-48ea-be8f-9e018797c193 | Qonto | Analytics Engineer (Paris/EU Remote)
+- [ ] https://job-boards.greenhouse.io/monzo/jobs/7118972 | Monzo | Platform Engineer, Machine Learning (London)
+- [ ] https://jobs.lever.co/versapay/3a81ccdc-04c6-4cb0-a264-6866f17ebbfa | Versapay | Senior Data Engineer (Canada)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/8109620 | Cloudflare | Data Analyst (London/Remote)
