@@ -997,3 +997,8 @@
 - [ ] https://jobs.lever.co/jobgether/4d426592-00a5-469e-9a13-fb8dd0dece9a | Jobgether | Senior Data Engineer - Full Stack (Remote)
 - [ ] https://job-boards.greenhouse.io/hellofresh/jobs/8023131 | HelloFresh | Data Role (Berlin — title to verify)
 - [ ] https://job-boards.greenhouse.io/overstory/jobs/4600037101 | Overstory | Data Role (EU — title to verify)
+- [ ] https://jobs.ashbyhq.com/pragmatike/f30e8f4c-96bb-46f1-9ee0-53bad61f0e4b | Pragmatike | ML Ops Engineer (EMEA Remote)
+- [ ] https://job-boards.greenhouse.io/datacamp/jobs/7861757 | DataCamp | Senior Data Engineer (EU/remote)
+- [ ] https://jobs.ashbyhq.com/lakeora/c39fbee2-68c8-4759-a75f-62f2560e44b1 | LAKEORA | Machine Learning Engineer (Riyadh, Saudi Arabia)
+- [ ] https://job-boards.greenhouse.io/tripadvisor/jobs/8055134 | Tripadvisor | Data Engineer II (UK)
+- [ ] https://jobs.ashbyhq.com/SKELAR/1419fdce-3c8e-4d62-8a65-e37a53ff030a | SKELAR | Senior Data Engineer (EU)
