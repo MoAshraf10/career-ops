@@ -1002,3 +1002,16 @@
 - [ ] https://jobs.ashbyhq.com/lakeora/c39fbee2-68c8-4759-a75f-62f2560e44b1 | LAKEORA | Machine Learning Engineer (Riyadh, Saudi Arabia)
 - [ ] https://job-boards.greenhouse.io/tripadvisor/jobs/8055134 | Tripadvisor | Data Engineer II (UK)
 - [ ] https://jobs.ashbyhq.com/SKELAR/1419fdce-3c8e-4d62-8a65-e37a53ff030a | SKELAR | Senior Data Engineer (EU)
+- [ ] https://jobs.lever.co/padsplit/a037c79a-6664-4fbb-842c-800c34cb1b68 | PadSplit | Data Engineer (Fully Remote)
+- [ ] https://jobs.lever.co/thinkahead/a9d8745f-8ba6-4a98-9d90-b7ed3466e032 | AHEAD | Data Engineer
+- [ ] https://job-boards.greenhouse.io/checkr/jobs/7859362 | Checkr | Senior Analytics Engineer, Finance
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7886054003 | Celonis | Staff Product Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8105603 | Adyen | Supply Chain Data Engineer & Integration Manager (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/starburst/jobs/4770330008 | Starburst | Staff Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/8d85a918-70f0-49c2-a631-1a8c08015f2a | Jobgether | Data Engineer 2 (Remote)
+- [ ] https://jobs.lever.co/jobgether/14ce53e0-4fa1-441d-b75d-9248255755fc | Jobgether | Senior Data & Analytics Engineer (EU Remote)
+- [ ] https://jobs.lever.co/jobgether/e3859333-5c27-4913-ab7d-e9ac502056e8 | Jobgether | Senior Data Engineer (Data Architecture) (Remote)
+- [ ] https://jobs.lever.co/jobgether/965d03bd-8e69-483f-9292-f0fb30ec6412 | Jobgether | Senior Software Engineer (Data Engineer) (Remote)
+- [ ] https://jobs.lever.co/h1/4dd86c61-7c25-4ce1-806c-efd12a601cdd | H1 | Staff Data Engineer - Data Lake (Remote)
+- [ ] https://jobs.lever.co/careernowbrands/48e61dd7-e47e-402d-8bed-9cb370e57c1e | Career Now Brands | Data Platform Engineer (Remote)
+- [ ] https://jobs.lever.co/revenueanalytics/c11f61a0-cfad-4dde-a85e-e1308788f1ee | Revenue Analytics | Data Engineer (Remote)
