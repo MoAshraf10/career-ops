@@ -1015,3 +1015,14 @@
 - [ ] https://jobs.lever.co/h1/4dd86c61-7c25-4ce1-806c-efd12a601cdd | H1 | Staff Data Engineer - Data Lake (Remote)
 - [ ] https://jobs.lever.co/careernowbrands/48e61dd7-e47e-402d-8bed-9cb370e57c1e | Career Now Brands | Data Platform Engineer (Remote)
 - [ ] https://jobs.lever.co/revenueanalytics/c11f61a0-cfad-4dde-a85e-e1308788f1ee | Revenue Analytics | Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4959409101 | Valtech | Data Engineer Snowflake/Agentic AI
+- [ ] https://job-boards.greenhouse.io/alphafmcroles/jobs/8626344002 | Alpha Financial Markets Consulting | Data Engineer (Databricks/Snowflake)
+- [ ] https://jobs.ashbyhq.com/duvo/21b531bc-ac77-48d8-a047-30033afb1a54 | Duvo | Data Engineer (EU/UK Remote)
+- [ ] https://jobs.lever.co/jobgether/a42d344e-154a-4356-8778-307d4cbc3e31 | Jobgether | Senior Manager of Data Engineering (Remote EU)
+- [ ] https://jobs.lever.co/jobgether/26e5df2d-db51-48c6-8ef9-b23b34c836fd | Jobgether | Strategic Data & Analytics Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5374159008 | Backblaze | Sr. Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/gofundme/jobs/8106832 | GoFundMe | Staff Data Engineer (Accounting)
+- [ ] https://job-boards.greenhouse.io/startree/jobs/6142775004 | StarTree | Senior Software Engineer, Data Platform
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7574762 | Intercom | Senior Data Engineering Manager (Dublin)
+- [ ] https://jobs.lever.co/spotify/5d02ff20-ef44-49cc-84c9-feb1159e3460 | Spotify | Backend Engineer - Data Platform (Stockholm/London)
+- [ ] https://jobs.lever.co/spotify/33463453-85df-4893-a571-fe615fd4ea7a | Spotify | Data Engineer - Financial Data Platform (London/Stockholm)
