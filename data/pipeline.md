@@ -1032,3 +1032,7 @@
 - [ ] https://job-boards.greenhouse.io/exactera/jobs/7719837003 | Exactera | Staff Data Engineer Databricks (Remote)
 - [ ] https://job-boards.greenhouse.io/cortex/jobs/5380208008 | Cortex | Senior Data Engineer (Remote)
 - [ ] https://job-boards.greenhouse.io/dataiku/jobs/5973407004 | Dataiku | Data Engineer II (Berlin/Amsterdam/London)
+- [ ] https://jobs.ashbyhq.com/lime/0981cfcd-3219-46e2-adeb-9db3cd4657c5 | Lime | Senior Analytics Engineer (Portugal/Remote)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7068990 | Adyen | Senior Data Platform Engineer (Amsterdam)
+- [ ] https://jobs.lever.co/jobgether/ce1cd3f9-be39-41b9-9a7b-4ba01eed2961 | Jobgether | Analytics Engineer (Remote)
+- [ ] https://jobs.lever.co/spotify/fdfab10f-9cf1-44fd-8c42-7eaf2dc130a1 | Spotify | Data Engineer, Fanatic (Stockholm/London/Remote)
