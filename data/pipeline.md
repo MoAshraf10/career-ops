@@ -1043,3 +1043,11 @@
 - [ ] https://jobs.lever.co/jobgether/60a7e71a-1316-41bd-8ba4-0ed05fb53f2a | Jobgether | Big Data Engineer (Remote)
 - [ ] https://jobs.lever.co/qonto/7c6908ae-fa05-49a2-8680-ca1aeb885460 | Qonto | Staff Product Manager, Data Products (EU)
 - [ ] https://job-boards.eu.greenhouse.io/huspy/jobs/4501747101 | Huspy | Data Role - verify title (Dubai)
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7693652003 | Nearform | Senior Data Engineer (Italy, Hybrid)
+- [ ] https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/5995113004 | Precision Medicine Group | Senior Data Engineer (EU Remote)
+- [ ] https://jobs.lever.co/jobgether/1b0aa1de-2fb6-47e7-b5f7-c7e56e124f43 | Jobgether | Senior Data Engineer (Cloud) - Remote
+- [ ] https://jobs.lever.co/jobgether/f0ed69df-a415-4126-b387-4885b254fdfa | Jobgether | Senior Data Engineer (Snowflake) - Remote
+- [ ] https://jobs.lever.co/zartis/11986357-4cfc-42e5-a5b3-0a7713386cc2 | Zartis | Senior Data Engineer (EU Remote)
+- [ ] https://job-boards.greenhouse.io/super/jobs/4812248101 | Super Technologies | Senior Analytics Engineer (Spain/NL/UK)
+- [ ] https://jobs.ashbyhq.com/liqid-lig/fe215208-4095-4792-a454-cd8e7821fe7f | LIQID Investments | Senior Data Engineer (Germany)
+- [ ] https://jobs.lever.co/jobgether/fd9da2a4-4ff5-4e22-8b29-ce5446c89868 | Jobgether | Lead Analytics Engineer (Canada Remote)
