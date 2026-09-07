@@ -1051,3 +1051,6 @@
 - [ ] https://job-boards.greenhouse.io/super/jobs/4812248101 | Super Technologies | Senior Analytics Engineer (Spain/NL/UK)
 - [ ] https://jobs.ashbyhq.com/liqid-lig/fe215208-4095-4792-a454-cd8e7821fe7f | LIQID Investments | Senior Data Engineer (Germany)
 - [ ] https://jobs.lever.co/jobgether/fd9da2a4-4ff5-4e22-8b29-ce5446c89868 | Jobgether | Lead Analytics Engineer (Canada Remote)
+- [ ] https://apply.workable.com/leadfeeder/j/80E9FE5C99/ | Leadfeeder | Data Analyst (fully-remote, Europe)
+- [ ] https://jobs.lever.co/jobgether/41d911c2-c9a2-4e3e-a531-326f061181e1 | Jobgether | Data Engineer (Spain, remote)
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/4d12e97f-e637-49f1-a39c-7f32d6d364bb | ElevenLabs | Data Operations (UK/Remote)
