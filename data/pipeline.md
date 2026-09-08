@@ -1054,3 +1054,8 @@
 - [ ] https://apply.workable.com/leadfeeder/j/80E9FE5C99/ | Leadfeeder | Data Analyst (fully-remote, Europe)
 - [ ] https://jobs.lever.co/jobgether/41d911c2-c9a2-4e3e-a531-326f061181e1 | Jobgether | Data Engineer (Spain, remote)
 - [ ] https://jobs.ashbyhq.com/ElevenLabs/4d12e97f-e637-49f1-a39c-7f32d6d364bb | ElevenLabs | Data Operations (UK/Remote)
+- [ ] https://jobs.lever.co/jobgether/2b991148-599f-4997-899f-95e1224e1916 | Jobgether | Senior Analytics Engineer (Canada Remote)
+- [ ] https://jobs.ashbyhq.com/lightspeedhq/bebf18c5-3437-4ab3-86db-d065b0611445 | Lightspeed Commerce | Analytics Engineer (Canada/Remote)
+- [ ] https://job-boards.greenhouse.io/xometryeurope/jobs/5033852007 | Xometry Europe | Data Engineer (Europe)
+- [ ] https://job-boards.greenhouse.io/practicebetter/jobs/5166745008 | Practice Better | Data Engineer (Canada)
+- [ ] https://apply.workable.com/blackstone-eit-2/j/E9B8C2A7B6 | BlackStone eIT | Senior Data Analyst / Data Engineer
