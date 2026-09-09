@@ -1059,3 +1059,9 @@
 - [ ] https://job-boards.greenhouse.io/xometryeurope/jobs/5033852007 | Xometry Europe | Data Engineer (Europe)
 - [ ] https://job-boards.greenhouse.io/practicebetter/jobs/5166745008 | Practice Better | Data Engineer (Canada)
 - [ ] https://apply.workable.com/blackstone-eit-2/j/E9B8C2A7B6 | BlackStone eIT | Senior Data Analyst / Data Engineer
+- [ ] https://jobs.lever.co/spotify/2409d291-1a14-4fad-aed6-8f1911f8ecea | Spotify | Data Engineer II
+- [ ] https://jobs.lever.co/jobgether/311ea188-e4dd-4054-8ba5-37e8ac6f9754 | Jobgether | Senior Analytics Engineer (Remote)
+- [ ] https://apply.workable.com/joindelta/j/F683CF0ECF | Delta by eToro | Senior Data Engineer (EU Remote)
+- [ ] https://jobs.lever.co/trustyou/3a8b741b-679d-43da-830a-b15a7609ab84 | TrustYou | Senior Data Engineer (Germany/Spain/Romania Remote)
+- [ ] https://jobs.lever.co/massive-rocket/04a6d3f9-23ad-45a5-8bd5-7f822e9f7974 | Massive Rocket | Senior Data Engineer (Snowflake) - 6 months FTC
+- [ ] https://jobs.ashbyhq.com/lendable/1b771c08-449e-412f-90c7-040e950c0ddf | Lendable | Data Platform Engineer (UK)
