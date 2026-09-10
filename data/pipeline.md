@@ -1065,3 +1065,5 @@
 - [ ] https://jobs.lever.co/trustyou/3a8b741b-679d-43da-830a-b15a7609ab84 | TrustYou | Senior Data Engineer (Germany/Spain/Romania Remote)
 - [ ] https://jobs.lever.co/massive-rocket/04a6d3f9-23ad-45a5-8bd5-7f822e9f7974 | Massive Rocket | Senior Data Engineer (Snowflake) - 6 months FTC
 - [ ] https://jobs.ashbyhq.com/lendable/1b771c08-449e-412f-90c7-040e950c0ddf | Lendable | Data Platform Engineer (UK)
+- [ ] https://jobs.ashbyhq.com/Clera/ef135c89-e739-4987-921a-a70315dd141b | Clera | AWS Data Engineer (Remote, all countries)
+- [ ] https://careers.sdggroup.com/jobs/2545743-data-engineer-snowflake-dbt | SDG Group | Data Engineer (Snowflake & dbt) (EU consulting)
