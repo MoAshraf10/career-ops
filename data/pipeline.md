@@ -1065,3 +1065,12 @@
 - [ ] https://jobs.lever.co/trustyou/3a8b741b-679d-43da-830a-b15a7609ab84 | TrustYou | Senior Data Engineer (Germany/Spain/Romania Remote)
 - [ ] https://jobs.lever.co/massive-rocket/04a6d3f9-23ad-45a5-8bd5-7f822e9f7974 | Massive Rocket | Senior Data Engineer (Snowflake) - 6 months FTC
 - [ ] https://jobs.ashbyhq.com/lendable/1b771c08-449e-412f-90c7-040e950c0ddf | Lendable | Data Platform Engineer (UK)
+- [ ] https://jobs.ashbyhq.com/sosafe/811a62c9-e41d-4065-8898-ed70aed79beb | SoSafe | Senior Data Engineer (m/f/d) Remote
+- [ ] https://job-boards.eu.greenhouse.io/valtech/jobs/4654017101 | Valtech | Data Engineer - GCP (EU)
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4857319101 | Valtech | Senior Data Engineer (Canada)
+- [ ] https://jobs.ashbyhq.com/terminal/16965e2e-318d-4d29-92b2-d900dc51aef9 | Terminal | Staff Data Platform Engineer (Toronto)
+- [ ] https://jobs.ashbyhq.com/terminal/b94f9c5d-95b1-4dfb-b8c1-3fc604dffea0 | Terminal | Senior Data Platform Engineer (Toronto)
+- [ ] https://jobs.ashbyhq.com/trm-labs/de07bc8b-6b57-4b20-9d28-d6417112708d | TRM Labs | Senior Data Platform Engineer (Canada)
+- [ ] https://jobs.ashbyhq.com/trm-labs/13abf238-3475-4227-91cd-ac470973080f | TRM Labs | Data Engineer, AI Platform (Remote)
+- [ ] https://jobs.ashbyhq.com/clera/57f507fc-6ebb-430c-974e-414e5ca14c28 | Clera | AWS Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/awin/jobs/7709658003 | Awin | Data Engineer - AI/ML (Berlin)
