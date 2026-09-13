@@ -1105,3 +1105,7 @@
 - [ ] https://jobs.lever.co/jobgether/be7376ec-cca9-47b7-bdd6-648c0e7d7d3b | Jobgether | Senior Data Engineer - Data Platform (Remote)
 - [ ] https://jobs.lever.co/jobgether/ab8867bb-5281-42da-bb9d-c1b3ed95f1aa | Jobgether | Senior Data Engineer (Remote)
 - [ ] https://jobs.lever.co/jobgether/68b8dde9-2c9b-455c-a265-8d9b296ec24f | Jobgether | Senior Data Engineer - Mobile Apps (Remote)
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4110962009 | CodeRoad | MLOps Engineer
+- [ ] https://job-boards.greenhouse.io/hudl/jobs/8112582 | Hudl | Senior MLOps Engineer - Edge
+- [ ] https://jobs.lever.co/jobgether/1570c4e5-b8cc-461a-9aa4-22d4e0a39d67 | Jobgether | Data Engineer - Senior
+- [ ] https://jobs.ashbyhq.com/DatologyAI/7a64144a-c612-4af8-bdf8-cdfff03240cc | DatologyAI | Software Engineer, Data Infrastructure
