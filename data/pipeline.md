@@ -1105,3 +1105,5 @@
 - [ ] https://jobs.lever.co/jobgether/be7376ec-cca9-47b7-bdd6-648c0e7d7d3b | Jobgether | Senior Data Engineer - Data Platform (Remote)
 - [ ] https://jobs.lever.co/jobgether/ab8867bb-5281-42da-bb9d-c1b3ed95f1aa | Jobgether | Senior Data Engineer (Remote)
 - [ ] https://jobs.lever.co/jobgether/68b8dde9-2c9b-455c-a265-8d9b296ec24f | Jobgether | Senior Data Engineer - Mobile Apps (Remote)
+- [ ] https://jobs.lever.co/luxurypresence/dfd25ab3-1033-432b-8adf-edf867619f7a | Luxury Presence | Senior Analytics Engineer (Canada Remote)
+- [ ] https://jobs.lever.co/sonatype/7ec5eac6-2adb-4554-8634-5dbb21034e1b | Sonatype | Data Engineer (UK/Remote)
