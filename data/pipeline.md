@@ -1131,3 +1131,7 @@
 - [ ] https://jobs.g42.ai/Presight/job/Abu-Dhabi-Senior-Data-Engineer-Abu/733108822/ | Presight | Senior Data Engineer (Abu Dhabi)
 - [ ] https://jobs.lever.co/jobgether/23d959fd-5d83-4e02-8833-dbecc40f6682 | Jobgether | Senior Data Engineer (Remote)
 - [ ] https://jobs.lever.co/jobgether/1bbbb536-ef9c-48df-8a2c-3ebd78b8b609 | Jobgether | Staff Analytics Engineer (US/Canada Remote)
+- [ ] https://job-boards.greenhouse.io/capitalontap/jobs/8720261002 | Capital on Tap | Data Engineer (London)
+- [ ] https://job-boards.greenhouse.io/tripadvisor/jobs/8079199 | Tripadvisor | Senior Data Engineer (London)
+- [ ] https://job-boards.greenhouse.io/autogenai/jobs/5059976008 | AutogenAI | Senior Analytics Engineer (UK)
+- [ ] https://apply.workable.com/quilt-software/j/03064812F7 | Quilt Software | Senior Data Engineer (UK)
