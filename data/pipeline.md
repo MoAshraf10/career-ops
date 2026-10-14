@@ -1141,3 +1141,34 @@
 - [ ] https://jobs.lever.co/jobgether/5f5ff0ca-1f34-4fbf-89de-112735994782 | Jobgether | Senior Manager, Data Engineering (Canada Remote)
 - [ ] https://jobs.lever.co/jobgether/cbb3dfa5-bf94-4ef3-8fc8-a84bbe36a570 | Jobgether | Senior Analytics Engineer (Canada Remote)
 - [ ] https://jobs.lever.co/jobgether/beaba1a4-b7eb-4978-8b46-9a5e9f18c5a6 | Jobgether | Manager, Analytics Engineering (Canada Remote)
+
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/6348658003 | Nearform | Senior Data Engineer (Perm, Ireland, Remote)
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7483260003 | Nearform | Senior Data Engineer (Poland, Contract)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6784601 | Contentful | Senior Data Platform Engineer (Berlin)
+- [ ] https://job-boards.greenhouse.io/thumbtack/jobs/7409164 | Thumbtack | Data Engineer (Ontario, Canada)
+- [ ] https://job-boards.greenhouse.io/thumbtack/jobs/6882089 | Thumbtack | Senior Data Engineer, Marketing Technology (Ontario)
+- [ ] https://job-boards.greenhouse.io/thumbtack/jobs/6964503 | Thumbtack | Data Engineer
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/8202508 | Deliveroo | Senior Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/deliveroo/jobs/6795002 | Deliveroo | Analytics Engineering Manager (London)
+- [ ] https://jobs.lever.co/jobgether/0f35f05e-c98e-4d1e-bf7d-b01c12605509 | Jobgether | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/06ea6d4d-a555-4d83-98af-d89f4030606e | Jobgether | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/991174f7-b8b4-4eaf-b020-b64da5fd5f50 | Jobgether | Senior Data Engineer (Canada/remote)
+- [ ] https://jobs.lever.co/jobgether/15878153-e97b-4322-9b35-0b17c7e7b35b | Jobgether | Senior Data Engineer (AI-Native) — Data Layer
+- [ ] https://jobs.lever.co/jobgether/a6b846da-ff0e-4643-b614-2b17a0ab0911 | Jobgether | Senior Data Engineer (Team Lead)
+- [ ] https://jobs.lever.co/veeva/d582fef1-8542-4e06-97e2-b0cffedfed62 | Veeva | Data Engineer (UK London)
+- [ ] https://jobs.lever.co/veeva/7d7ec52e-1022-45c2-9d3e-a2a003f53ed5 | Veeva | Data Engineer - OpenData Commercial (UK)
+- [ ] https://jobs.lever.co/veeva/ea78f278-f1a7-4096-aee9-44083db0911d | Veeva | Senior Data Platform Engineer (UK London)
+- [ ] https://jobs.lever.co/jobgether/2b8c21d1-dc8a-430b-a295-b4e67ad9a64a | Jobgether | Data Engineer (EU remote)
+- [ ] https://jobs.lever.co/jobgether/8a5f68d2-504b-4f46-8341-fd47d2df7554 | Jobgether | Senior Data Engineer (EU remote)
+- [ ] https://jobs.lever.co/jobgether/32bc0bc5-aa3c-458c-bb97-8cf743afedbc | Jobgether | Data Engineer (EU remote)
+- [ ] https://jobs.lever.co/jobgether/aede4c2e-d3b9-402b-bafd-0f2278fe9d7f | Jobgether | Founding Data Engineer (Analytics Platform)
+- [ ] https://jobs.lever.co/jobgether/f7af5fa3-35da-433f-b9e9-fccc06aa52f3 | Jobgether | Data Engineer
+- [ ] https://jobs.lever.co/jobgether/22c467c1-6547-4c6d-82d5-e263c9a03408 | Jobgether | Senior Data Engineer (Spain, remote)
+- [ ] https://jobs.lever.co/jobgether/4225ce96-d630-4fe7-b731-dfdaa72c9bbb | Jobgether | Senior Data Engineer (Spain, remote)
+- [ ] https://jobs.lever.co/spotify/204f6cd7-98a3-4360-87e3-8876adf087da | Spotify | Senior Data Engineer - Data Platform (London)
+- [ ] https://jobs.lever.co/spotify/6698ffb1-ad8f-4173-bf81-884357eaba0d | Spotify | Data Engineer, Ads Product & Tech
+- [ ] https://jobs.zalando.com/en/jobs/2724318 | Zalando | Data Engineer — Customer Insights (Berlin)
+- [ ] https://www.personio.com/careers/f74ca63c-ba0a-4009-a502-f4cb7100a397 | Personio | Data Platform Engineer (Berlin/Dublin/Munich)
+- [ ] https://career.limeflight.com/o/senior-data-analytics-engineer-europe-100-remote | Limeflight | Senior Data & Analytics Engineer (Europe, remote)
+- [ ] https://careers.innovogroup.com/job/Dubai-Data-Engineering-and-Platform-Lead/733380022/ | Innovo Group | Data Engineering and Platform Lead (Dubai)
+- [ ] https://career.gac.com/o/lead-data-engineer | GAC Group | Lead Data Engineer (Dubai)
