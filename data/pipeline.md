@@ -1172,3 +1172,6 @@
 - [ ] https://career.limeflight.com/o/senior-data-analytics-engineer-europe-100-remote | Limeflight | Senior Data & Analytics Engineer (Europe, remote)
 - [ ] https://careers.innovogroup.com/job/Dubai-Data-Engineering-and-Platform-Lead/733380022/ | Innovo Group | Data Engineering and Platform Lead (Dubai)
 - [ ] https://career.gac.com/o/lead-data-engineer | GAC Group | Lead Data Engineer (Dubai)
+- [ ] https://job-boards.eu.greenhouse.io/ai71/jobs/4830184101 | AI71 | Senior Data Engineer (Abu Dhabi, UAE)
+- [ ] https://job-boards.eu.greenhouse.io/ai71/jobs/4828779101 | AI71 | Data Engineer (Abu Dhabi, UAE)
+- [ ] https://boards.greenhouse.io/datavant2/jobs/4638120008 | Datavant | Senior Data Engineer (Galway, Ireland)
