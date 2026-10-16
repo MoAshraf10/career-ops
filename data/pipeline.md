@@ -1175,3 +1175,8 @@
 - [ ] https://job-boards.eu.greenhouse.io/ai71/jobs/4830184101 | AI71 | Senior Data Engineer (Abu Dhabi, UAE)
 - [ ] https://job-boards.eu.greenhouse.io/ai71/jobs/4828779101 | AI71 | Data Engineer (Abu Dhabi, UAE)
 - [ ] https://boards.greenhouse.io/datavant2/jobs/4638120008 | Datavant | Senior Data Engineer (Galway, Ireland)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8114306 | Adyen | Data Engineer I - Payment Lifecycle Data (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/6919020 | Adyen | Senior Data Engineer (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6891020 | Contentful | Senior Analytics Engineer - Product (Dublin)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/6882159 | Contentful | Reporting Data Analyst (Dublin)
+- [ ] https://job-boards.greenhouse.io/monzoreferrals/jobs/7544078 | Monzo | Analytics Engineering Manager (UK Remote)
