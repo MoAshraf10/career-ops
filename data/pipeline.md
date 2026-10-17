@@ -1180,3 +1180,13 @@
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/6891020 | Contentful | Senior Analytics Engineer - Product (Dublin)
 - [ ] https://job-boards.greenhouse.io/contentful/jobs/6882159 | Contentful | Reporting Data Analyst (Dublin)
 - [ ] https://job-boards.greenhouse.io/monzoreferrals/jobs/7544078 | Monzo | Analytics Engineering Manager (UK Remote)
+- [ ] https://job-boards.eu.greenhouse.io/ai71/jobs/4608497101 | AI71 | Data Engineer (Abu Dhabi, UAE)
+- [ ] https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/6378264003 | Cobblestone Energy | DATA ENGINEER - Dubai, UAE
+- [ ] https://job-boards.greenhouse.io/cobblestoneenergy4/jobs/6353808003 | Cobblestone Energy | DATA ENGINEER - Dubai, UAE
+- [ ] https://jobs.lever.co/jobgether/0d43f98f-d57c-4411-896f-ec1206dffef4 | Jobgether | Senior Data Platform Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/468605c6-7218-4c1b-b7a0-a6f69e5ef44d | Jobgether | Senior Data Platform Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/b220503d-6a9e-478b-8824-2eb754f3cc23 | Jobgether | Senior Data and AI Platform Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/f82ecf93-2ae6-407d-b5ad-65ee477cda8b | Jobgether | Sr Staff - Data Platform Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/d9487238-940d-4a1c-9fa6-23a32e5437b4 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/8bddf8d5-e741-448b-9259-c1b5150b2836 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/6b4ed7a9-36af-4c3c-b144-d28273effe5e | Jobgether | Data Engineer - Data Platform (Remote)
