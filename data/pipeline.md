@@ -1190,3 +1190,16 @@
 - [ ] https://jobs.lever.co/jobgether/d9487238-940d-4a1c-9fa6-23a32e5437b4 | Jobgether | Senior Data Engineer (Remote)
 - [ ] https://jobs.lever.co/jobgether/8bddf8d5-e741-448b-9259-c1b5150b2836 | Jobgether | Senior Data Engineer (Remote)
 - [ ] https://jobs.lever.co/jobgether/6b4ed7a9-36af-4c3c-b144-d28273effe5e | Jobgether | Data Engineer - Data Platform (Remote)
+- [ ] https://jobs.ashbyhq.com/mexdigital/cdd0d777-6d7a-461b-a93a-095c2301dcb0 | Multibank Group | Senior Data Engineer (Dubai, UAE)
+- [ ] https://job-boards.greenhouse.io/warp/jobs/5828901004 | Warp | Analytics Engineer (Remote US/Canada)
+- [ ] https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1 | Linear | Analytics Engineer (Remote North America)
+- [ ] https://job-boards.greenhouse.io/orbisk/jobs/5004855101 | Orbisk | Senior Data Engineer (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/gametimeunited/jobs/4776826008 | Gametime United | Senior Data Engineer
+- [ ] https://apply.workable.com/the-very-group/j/DD33215C81/ | The Very Group | Senior Data Engineer (Liverpool, UK)
+- [ ] https://apply.workable.com/v4c/j/FE3E5D2923 | V4C.ai | Data Engineer/Senior Data Engineer
+- [ ] https://apply.workable.com/orfium/j/5FD6CAD329/ | Orfium | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/gruns/jobs/5395286008 | Grüns | Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6223952004 | PlayStation Global | Senior Data Engineer (Dublin, Ireland)
+- [ ] https://jobs.lever.co/ttecdigital/f52f7fdf-c3b2-4ac5-b52a-d66677a2e5a4 | TTEC Digital | Director, Data Engineering (Toronto, Canada)
+- [ ] https://apply.workable.com/and-digital/j/17CAB0E4CA/ | AND Digital | Lead Data Engineer (Birmingham, UK)
+- [ ] https://apply.workable.com/european-dynamics/j/69A3641E82 | European Dynamics | Data Engineer - Spark Developer (EU Remote)
