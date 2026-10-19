@@ -1203,3 +1203,6 @@
 - [ ] https://jobs.lever.co/ttecdigital/f52f7fdf-c3b2-4ac5-b52a-d66677a2e5a4 | TTEC Digital | Director, Data Engineering (Toronto, Canada)
 - [ ] https://apply.workable.com/and-digital/j/17CAB0E4CA/ | AND Digital | Lead Data Engineer (Birmingham, UK)
 - [ ] https://apply.workable.com/european-dynamics/j/69A3641E82 | European Dynamics | Data Engineer - Spark Developer (EU Remote)
+- [ ] https://jobs.ashbyhq.com/gamechanger/d77c6c9e-4016-44d2-a6bd-91e3f9c8ac51 | GameChanger | Staff Data Engineer
+- [ ] https://apply.workable.com/jobgether/j/ACE5B1464D | Jobgether | Data Engineer (Remote - Germany)
+- [ ] https://jobs.ashbyhq.com/sentilink/17997e89-d67b-4365-b673-f7521ac4dcb0 | SentiLink | Senior Data Platform Engineer
