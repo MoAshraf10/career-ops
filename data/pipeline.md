@@ -1206,3 +1206,11 @@
 - [ ] https://jobs.ashbyhq.com/gamechanger/d77c6c9e-4016-44d2-a6bd-91e3f9c8ac51 | GameChanger | Staff Data Engineer
 - [ ] https://apply.workable.com/jobgether/j/ACE5B1464D | Jobgether | Data Engineer (Remote - Germany)
 - [ ] https://jobs.ashbyhq.com/sentilink/17997e89-d67b-4365-b673-f7521ac4dcb0 | SentiLink | Senior Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/verve/jobs/8474867002 | Verve | Data Engineering Manager (Dublin, Ireland)
+- [ ] https://jobs.ashbyhq.com/npv/b6b36046-c0d1-47fc-8f8a-726591c9ec00 | npv labs | Data Engineer (Remote EU/UK)
+- [ ] https://jobs.lever.co/jobgether/53deca61-7f8f-4c96-9156-e66946521f37 | Jobgether | Staff Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6226510004 | Xebia CEE | Senior Data Engineer with Databricks (Poland/ME Europe)
+- [ ] https://job-boards.greenhouse.io/keplergroup/jobs/8128741 | Kepler Group | Senior Cloud Data Architect (Remote Canada)
+- [ ] https://jobs.lever.co/jobgether/400fdd4f-2743-475f-97c5-2c3be486b1ae | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/applydigital/ea47a4c0-0584-443b-9e3e-906606039dfe | Apply Digital | Senior Data Engineer Snowflake (Toronto/Vancouver, Canada)
+- [ ] https://jobs.lever.co/ttecdigital/600b7094-7733-4b4b-a5c7-7abb19392369 | TTEC Digital | Senior Data Engineer - Microsoft Data & AI
