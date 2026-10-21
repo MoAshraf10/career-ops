@@ -1214,3 +1214,8 @@
 - [ ] https://jobs.lever.co/jobgether/400fdd4f-2743-475f-97c5-2c3be486b1ae | Jobgether | Senior Data Engineer (Remote)
 - [ ] https://jobs.lever.co/applydigital/ea47a4c0-0584-443b-9e3e-906606039dfe | Apply Digital | Senior Data Engineer Snowflake (Toronto/Vancouver, Canada)
 - [ ] https://jobs.lever.co/ttecdigital/600b7094-7733-4b4b-a5c7-7abb19392369 | TTEC Digital | Senior Data Engineer - Microsoft Data & AI
+- [ ] https://job-boards.greenhouse.io/monzoreferrals/jobs/7254343 | Monzo | Analytics Engineer (London/UK remote)
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4949276101 | Tamara | Senior Data Analyst - Credit (Riyadh)
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4911430101 | Tamara | Senior Data Analyst - User Research (Riyadh)
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4970394101 | Tamara | Data Engineering Manager II (Riyadh)
+- [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4792928101 | Tamara | Associate Data Engineer - Builders Program (Riyadh)
