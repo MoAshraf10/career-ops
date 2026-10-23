@@ -1219,3 +1219,5 @@
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4911430101 | Tamara | Senior Data Analyst - User Research (Riyadh)
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4970394101 | Tamara | Data Engineering Manager II (Riyadh)
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4792928101 | Tamara | Associate Data Engineer - Builders Program (Riyadh)
+- [ ] https://jobs.ashbyhq.com/camunda/a622b4e6-793b-442d-9196-3e984c4238bf | Camunda | Senior Data Engineer (UK/Remote)
+- [ ] https://jobs.lever.co/jobgether/5e178a3f-32d8-46a8-8261-84474a68e29b | Jobgether | Transportation Systems Data Engineer (Remote)
