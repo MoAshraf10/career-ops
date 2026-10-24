@@ -1221,3 +1221,7 @@
 - [ ] https://job-boards.eu.greenhouse.io/tamara/jobs/4792928101 | Tamara | Associate Data Engineer - Builders Program (Riyadh)
 - [ ] https://jobs.ashbyhq.com/camunda/a622b4e6-793b-442d-9196-3e984c4238bf | Camunda | Senior Data Engineer (UK/Remote)
 - [ ] https://jobs.lever.co/jobgether/5e178a3f-32d8-46a8-8261-84474a68e29b | Jobgether | Transportation Systems Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8659252002-1 | Life360 | Staff Data Engineer, Data Platform Core (AI Native) (Remote US/Canada)
+- [ ] https://job-boards.greenhouse.io/smartlyio/jobs/6146519004 | Smartly.io | Senior Data Platform Engineer (Berlin/Helsinki)
+- [ ] https://jobs.lever.co/jobgether/9b269c30-86e2-4d6a-80dd-f80e8fd2f413 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/7990134002 | Life360 | Staff Data Architect (Remote US/Canada)
