@@ -1225,3 +1225,17 @@
 - [ ] https://job-boards.greenhouse.io/smartlyio/jobs/6146519004 | Smartly.io | Senior Data Platform Engineer (Berlin/Helsinki)
 - [ ] https://jobs.lever.co/jobgether/9b269c30-86e2-4d6a-80dd-f80e8fd2f413 | Jobgether | Senior Data Engineer (Remote)
 - [ ] https://job-boards.greenhouse.io/life360/jobs/7990134002 | Life360 | Staff Data Architect (Remote US/Canada)
+- [ ] https://jobs.ashbyhq.com/clera/15cde70f-2130-4a0b-94f4-ade89dcbcb91 | Clera | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/9b60c0b3-4e52-4a46-ba9f-96205265872f | Jobgether | Senior / Staff Data Engineer (Canada)
+- [ ] https://job-boards.greenhouse.io/fortifyiq/jobs/4661408005 | FortifyIQ | Data & AI Engineer
+- [ ] https://job-boards.greenhouse.io/nansen/jobs/6141832004 | Nansen | Senior Data Engineer (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/vultr/79d7e2d5-f159-417e-9498-2a3fc11cdbf0 | Vultr | Senior Data Engineer
+- [ ] https://jobs.lever.co/jobgether/18db1b96-2f8e-40a7-a3d2-7ccbec97962e | Jobgether | Analytics Engineer (Canada)
+- [ ] https://jobs.lever.co/jobgether/d7533972-e72e-4617-ad92-08f25654fe9a | Jobgether | Analytics Engineer (Canada)
+- [ ] https://jobs.lever.co/jobgether/3c19bb00-3dbd-41ef-a03c-b627c05377dc | Jobgether | Data Engineering Consultant (Canada)
+- [ ] https://job-boards.greenhouse.io/generalatlantic/jobs/5688348004 | General Atlantic | Data Engineer
+- [ ] https://jobs.lever.co/jobgether/4af6e064-5891-4d2a-b592-23bcfca18b87 | Jobgether | Analytics Engineering Advocate (UK)
+- [ ] https://job-boards.greenhouse.io/esw/jobs/8055286002 | ESW | Senior Analytics Engineer (Dublin)
+- [ ] https://jobs.lever.co/jobgether/83e17821-c5ae-40e7-aec4-80df3077ae46 | Jobgether | Staff Data Engineer
+- [ ] https://jobs.lever.co/jobgether/5d2c39ef-8a4d-4a80-9304-fb8baf148112 | Jobgether | Senior Staff Data Engineer
+- [ ] https://jobs.lever.co/jobgether/b6bd7328-c252-4a31-b9ea-18bd30ef31b2 | Jobgether | Sr/Staff Data Engineer
