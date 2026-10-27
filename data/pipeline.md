@@ -1239,3 +1239,7 @@
 - [ ] https://jobs.lever.co/jobgether/83e17821-c5ae-40e7-aec4-80df3077ae46 | Jobgether | Staff Data Engineer
 - [ ] https://jobs.lever.co/jobgether/5d2c39ef-8a4d-4a80-9304-fb8baf148112 | Jobgether | Senior Staff Data Engineer
 - [ ] https://jobs.lever.co/jobgether/b6bd7328-c252-4a31-b9ea-18bd30ef31b2 | Jobgether | Sr/Staff Data Engineer
+- [ ] https://job-boards.greenhouse.io/awin/jobs/6508235003 | Awin | Data Engineering Manager (f/m/d) (Berlin/London/Madrid)
+- [ ] https://job-boards.greenhouse.io/keebo/jobs/5080198008 | Keebo | Senior Data Engineer (Canada/US/Europe Remote)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f | ElevenLabs | Analytics Engineer (UK/Poland Remote)
+- [ ] https://jobs.lever.co/jobgether/c3abbfef-4e30-44f6-84f9-545ffcae06af | Jobgether | Analytics Engineering Advocate (Germany/Remote)
