@@ -1309,3 +1309,13 @@
 - [ ] https://job-boards.greenhouse.io/nearform/jobs/6353863003 | Nearform | Senior Data Engineer (Italy/Remote)
 - [ ] https://job-boards.greenhouse.io/stripe/jobs/7863844 | Stripe | Analytics Engineer (Dublin/London)
 - [ ] https://job-boards.greenhouse.io/intercom/jobs/7808051 | Intercom | Senior Analytics Engineer (Berlin/Remote)
+- [ ] https://job-boards.greenhouse.io/prolific/jobs/4911780101 | Prolific | Data Engineer (Remote UK)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8282760 | Reddit | Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/appnovation/jobs/8747544002 | Appnovation | Senior Data Engineer, AI & Agents
+- [ ] https://job-boards.greenhouse.io/flowtraders/jobs/7130502 | Flow Traders | Data Engineering Manager (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/flowtraders/jobs/7921182 | Flow Traders | Core Data Engineer (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/flowtraders/jobs/7966441 | Flow Traders | Data Platform Engineer (Amsterdam)
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7592353003 | Doctolib | Senior Data Engineer - Analytics (Paris)
+- [ ] https://job-boards.greenhouse.io/doctolib/jobs/7535980003 | Doctolib | Senior Analytics Engineer (Paris)
+- [ ] https://jobs.ashbyhq.com/Clera/15cde70f-2130-4a0b-94f4-ade89dcbcb91 | Clera | Senior Data Engineer (Remote)
+- [ ] https://jobs.lever.co/shyftlabs/8c5952d9-e223-47bb-bcf5-73e0952eb895 | ShyftLabs | Senior Data Engineer (Toronto, Canada)
