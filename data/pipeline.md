@@ -1327,3 +1327,8 @@
 - [ ] https://jobs.ashbyhq.com/wayve/5b53e31e-3903-4c9b-b359-ffbc8a186630 | Wayve | Data Engineer - App SW (Germany)
 - [ ] https://jobs.ashbyhq.com/clera/54a89bef-5d99-4c34-a293-033e00d8825c | Clera | Senior Data Engineer (Munich/Warsaw)
 - [ ] https://jobs.ashbyhq.com/refractal/44dd0928-13f6-4dba-80c9-352a69755bf7 | Refractal | Senior Data Engineer (London)
+- [ ] https://job-boards.greenhouse.io/bloomreach/jobs/7180575 | Bloomreach | Senior Data Engineer (UK/EU)
+- [ ] https://job-boards.greenhouse.io/sixfold/jobs/5225695008 | Sixfold | Staff Data Engineer (Remote EU)
+- [ ] https://jobs.ashbyhq.com/stackfuel/bdd3721c-6652-4709-b794-cdcb205450bf | StackFuel | Analytics Engineer (Germany/EU)
+- [ ] https://jobs.lever.co/spotify/3ac874bc-daf1-4462-a205-ddd2b56b0000 | Spotify | Data Engineer - Revenue Platform (London)
+- [ ] https://jobs.lever.co/lodgify/78c28aab-cc54-4e53-b45f-44be46fbbfc5 | Lodgify | Senior Data Engineer (Spain Remote)
