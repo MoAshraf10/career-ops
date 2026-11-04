@@ -1339,3 +1339,14 @@
 - [ ] https://jobs.ashbyhq.com/cybcube/ed57ef1a-aed8-420c-9a56-c3b724a356fe | CyberCube | Senior Data Engineer (Tallinn, EU)
 - [ ] https://apply.workable.com/hometrack/j/376F7CBCD9 | Hometrack | Senior Data Engineer (London)
 - [ ] https://apply.workable.com/ascendis-pharma/j/D92EAAE1D2 | Ascendis Pharma | Senior Data Analytics Engineer (Denmark/EU)
+- [ ] https://jobs.lever.co/smart-working-solutions/a7c30ccb-5785-4290-bdbd-45bd590d09f7 | Smart Working Solutions | Mid-Level Data Engineer (EU Remote)
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6101310004 | Xebia CEE | Principal Data Architect (Poland/EU)
+- [ ] https://job-boards.greenhouse.io/remotewoman/jobs/7993866002 | RemoteWoman | Senior Data Platform Engineer (Remote EU)
+- [ ] https://apply.workable.com/methods/j/BC441877F5 | Methods | Mid/Senior Data Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4456634009 | CodeRoad | Data Engineer
+- [ ] https://jobs.lever.co/jobgether/87ac1788-acd5-4dd1-8c8f-747d7a62c802 | Jobgether | Senior Platform Engineer (Ireland Remote)
+- [ ] https://jobs.lever.co/jobgether/f8a2e29d-1393-42bd-9d1b-f55807494efb | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://apply.workable.com/prox-works/j/E35656B32D | Proximity Works | Senior Data Engineer
+- [ ] https://apply.workable.com/skycell-ag/j/E1DCE8A091 | SkyCell | Senior Data Engineer (EU)
+- [ ] https://jobs.ashbyhq.com/jupus/b57a2594-6815-487c-9ed1-2c606a3bcc02 | JUPUS | Staff Data Engineer (EU/UK)
+- [ ] https://jobs.ashbyhq.com/joko/44f24632-f6b8-4220-9d9b-e78c4aca01d1 | Joko | Data Analyst (Paris)
