@@ -1350,3 +1350,8 @@
 - [ ] https://apply.workable.com/skycell-ag/j/E1DCE8A091 | SkyCell | Senior Data Engineer (EU)
 - [ ] https://jobs.ashbyhq.com/jupus/b57a2594-6815-487c-9ed1-2c606a3bcc02 | JUPUS | Staff Data Engineer (EU/UK)
 - [ ] https://jobs.ashbyhq.com/joko/44f24632-f6b8-4220-9d9b-e78c4aca01d1 | Joko | Data Analyst (Paris)
+- [ ] https://jobs.ashbyhq.com/immersivelabs/bfe3228b-cf95-4458-9aa6-f8c3246b6cb7 | Immersive Labs | Senior Analytics Engineer (UK Remote)
+- [ ] https://apply.workable.com/revodata-nl/j/99D49FED62 | RevoData | Principal Data Engineer (Amsterdam)
+- [ ] https://apply.workable.com/zoopla/j/8AF342E48C | Zoopla | Senior Data Engineer (UK)
+- [ ] https://apply.workable.com/prophix/j/95BC10525C | Prophix | Data & Analytics Engineer (Canada Remote)
+- [ ] https://apply.workable.com/sangoma-3/j/6AC6A2A04F | Sangoma | Analytics Engineer (Canada)
