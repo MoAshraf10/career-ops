@@ -1355,3 +1355,7 @@
 - [ ] https://apply.workable.com/zoopla/j/8AF342E48C | Zoopla | Senior Data Engineer (UK)
 - [ ] https://apply.workable.com/prophix/j/95BC10525C | Prophix | Data & Analytics Engineer (Canada Remote)
 - [ ] https://apply.workable.com/sangoma-3/j/6AC6A2A04F | Sangoma | Analytics Engineer (Canada)
+- [ ] https://jobs.ashbyhq.com/tem/c4099dbf-d693-48ad-9f73-e056026a8588 | tem | Staff Analytics Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/bloomreach/jobs/4806204 | Bloomreach | Senior Data Engineer, Datacraft Team (EU Remote)
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6135995004 | Xebia CEE | Senior Data Engineer (Stockholm/Remote EU)
+- [ ] https://job-boards.greenhouse.io/kano/jobs/4779579101 | Kano | Product Analytics Engineer AI-First (Canada)
