@@ -1374,3 +1374,8 @@
 - [ ] https://job-boards.greenhouse.io/zafinlabsamericasinc/jobs/5189662007 | Zafin | Data Engineer II (Toronto, Canada)
 - [ ] https://job-boards.greenhouse.io/capco/jobs/8171469 | Capco | Data Engineer (Toronto, Canada)
 - [ ] https://jobs.lever.co/shyftlabs/f1b358fc-3b63-4f84-82d5-62e72cb0a2b8 | ShyftLabs | Data Engineer (Toronto, Canada)
+- [ ] https://jobs.lever.co/toptal/ce33342a-6e28-4108-b8f4-4799e05fcfc3 | Toptal | Data Analytics Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/appdirect/jobs/8643029002 | AppDirect | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/goodwaygroup/jobs/5991794004 | Goodway Group | Global Data Engineer
+- [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6136094004 | Xebia CEE | Data Engineer with Airflow
+- [ ] https://apply.workable.com/and-digital/j/A7AD0F85E4 | AND Digital | Contract Data Engineer (UK)
