@@ -1379,3 +1379,18 @@
 - [ ] https://job-boards.greenhouse.io/goodwaygroup/jobs/5991794004 | Goodway Group | Global Data Engineer
 - [ ] https://job-boards.greenhouse.io/xebiacee/jobs/6136094004 | Xebia CEE | Data Engineer with Airflow
 - [ ] https://apply.workable.com/and-digital/j/A7AD0F85E4 | AND Digital | Contract Data Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/hala/jobs/5116813008 | HALA | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8373297002 | Postscript | Staff Data Engineer, Data Platform
+- [ ] https://job-boards.greenhouse.io/tines/jobs/5677241004 | Tines | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7559043003 | LaunchDarkly | Backend Engineer, Data Platform
+- [ ] https://jobs.lever.co/raya/3fcf24bc-d5d9-411e-a07b-bbbaceee70da | Raya | Analytics Engineer Lead
+- [ ] https://jobs.lever.co/jobgether/8fc26bf2-2f89-4929-93d0-7cf9766cdcb5 | Jobgether | Head of Data Engineering
+- [ ] https://jobs.lever.co/jobgether/b3eb96e7-8bd4-4a88-9d6b-dc50080f7d91 | Jobgether | Data Engineer
+- [ ] https://jobs.lever.co/aleph/d42cb568-d4f0-40d5-9f36-5dfab6492c74 | Aleph | Data Engineer
+- [ ] https://jobs.lever.co/jobgether/983f09d8-04fe-4cd9-b66d-94828e1cfbf9 | Jobgether | Senior Data Engineer (Team Lead)
+- [ ] https://jobs.lever.co/jobgether/08e8cc73-48c1-4d99-97d8-9e9d79b6e1cf | Jobgether | Data & Analytics Engineer
+- [ ] https://jobs.lever.co/kpler/3b517237-1708-405b-9b36-b86c25200d7e | Kpler | Staff Engineer - Data Platform
+- [ ] https://job-boards.greenhouse.io/onestudyteam/jobs/5832169004 | OneStudyTeam | Senior Data Analyst
+- [ ] https://job-boards.greenhouse.io/later/jobs/8358591002 | Later | Principal PM, Data Product
+- [ ] https://job-boards.greenhouse.io/gofundme/jobs/6957508 | GoFundMe | Senior Data Product Manager
+- [ ] https://job-boards.greenhouse.io/fountain/jobs/4610668006 | Fountain | Senior Data Engineer
