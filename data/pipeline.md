@@ -1394,3 +1394,9 @@
 - [ ] https://job-boards.greenhouse.io/later/jobs/8358591002 | Later | Principal PM, Data Product
 - [ ] https://job-boards.greenhouse.io/gofundme/jobs/6957508 | GoFundMe | Senior Data Product Manager
 - [ ] https://job-boards.greenhouse.io/fountain/jobs/4610668006 | Fountain | Senior Data Engineer
+- [ ] https://job-boards.greenhouse.io/artefact/jobs/8396755002 | Artefact | Data Engineer (Riyadh, Saudi Arabia)
+- [ ] https://job-boards.greenhouse.io/levelaccess/jobs/8859581002 | Level Access | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/owner/ee6dab9d-b8f7-40a8-809c-79f0b1ca4cb7 | Owner.com | Head of Data Platform Engineering
+- [ ] https://jobs.lever.co/jobgether/9e624408-8195-4e8b-abc7-f70918826904 | Jobgether | Senior Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/iterable/jobs/8094300 | Iterable | Data Engineer II (EU)
+- [ ] https://roamlercareers.recruitee.com/o/senior-data-engineer-aiml-platform-1 | Roamler | Senior Data Engineer, AI/ML Platform (Amsterdam)
