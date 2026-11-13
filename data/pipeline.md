@@ -1400,3 +1400,12 @@
 - [ ] https://jobs.lever.co/jobgether/9e624408-8195-4e8b-abc7-f70918826904 | Jobgether | Senior Data Engineer (Remote)
 - [ ] https://job-boards.greenhouse.io/iterable/jobs/8094300 | Iterable | Data Engineer II (EU)
 - [ ] https://roamlercareers.recruitee.com/o/senior-data-engineer-aiml-platform-1 | Roamler | Senior Data Engineer, AI/ML Platform (Amsterdam)
+- [ ] https://jobs.lever.co/vestiairecollective/6af3345e-4f53-4c8f-8f29-8ec16d17a123 | Vestiaire Collective | Senior Analytics Engineer (Paris/EU)
+- [ ] https://jobs.lever.co/spotify/c1b17cb8-3935-4d9a-a170-dbbe8085abfc | Spotify | Data Engineer - User Growth
+- [ ] https://jobs.lever.co/spotify/5ea14fb5-2adb-4dd4-8055-633831ed72ff | Spotify | Analytics Engineer, XData
+- [ ] https://jobs.lever.co/spotify/70c89d43-019b-43d9-a494-1954572b7c06 | Spotify | Data Engineer
+- [ ] https://apply.workable.com/robusta/j/D8EA0BA357 | robusta | Senior Data Engineer - KSA (Jeddah, Hybrid Contract)
+- [ ] https://apply.workable.com/ananinja/j/35DEB9B7AF | Ninja | Senior Data and Infrastructure Engineer (Riyadh, KSA)
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/8095959 | Adyen | Senior Data Platform Engineer (OLAP)
+- [ ] https://jobs.ashbyhq.com/lendable/93612ba5-fc02-4744-90a7-61fc7c3ac89c | Lendable | Data Engineer (London)
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6167239004 | Alpaca | Senior Data Engineer (Remote)
