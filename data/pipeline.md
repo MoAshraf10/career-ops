@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+- [ ] https://jobs.ashbyhq.com/iterable/ab161445-bb97-4664-b5d3-6b660d536619 | Iterable | Data Engineer II
+- [ ] https://jobs.lever.co/snowplow/bce4f802-3d2e-403f-b7bd-79d4b474ed32 | Snowplow | Data Engineer
+- [ ] https://job-boards.greenhouse.io/precisionaq/jobs/5817615004 | Precision AQ | Data Product Manager
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7693151003 | OKX | Data Engineering Director
 - [ ] https://job-boards.greenhouse.io/careem/jobs/8075725002 | Careem | Staff Data Engineer I
 - [ ] https://job-boards.greenhouse.io/careem/jobs/7951734002 | Careem | Staff Software Engineer - Data Platform
 - [ ] https://job-boards.greenhouse.io/careem/jobs/8006547002 | Careem | Senior Data Warehouse Engineer I
