@@ -1413,3 +1413,11 @@
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/8095959 | Adyen | Senior Data Platform Engineer (OLAP)
 - [ ] https://jobs.ashbyhq.com/lendable/93612ba5-fc02-4744-90a7-61fc7c3ac89c | Lendable | Data Engineer (London)
 - [ ] https://job-boards.greenhouse.io/alpaca/jobs/6167239004 | Alpaca | Senior Data Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4458055009 | CodeRoad | Data Engineer (Dubai)
+- [ ] https://jobs.ashbyhq.com/constructor/05f8cdf5-2203-4ec0-877e-2668be462716 | Constructor | Senior Data Analyst: Multiple Teams (UK Remote)
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7673457003 | OKX | Senior Market & Trading Data Engineer
+- [ ] https://job-boards.greenhouse.io/okx/jobs/7783020003 | OKX | Senior/Staff Data Engineer, Risk Control
+- [ ] https://jobs.lever.co/firstup/25679b95-047f-4473-845a-230e4ad7ad23 | Firstup | Senior Data Engineer (UK)
+- [ ] https://jobs.ashbyhq.com/deliveroo/ceb2886a-e543-4315-bc02-8d8e57f42a7c | Deliveroo | Analytics Engineering Manager (London)
+- [ ] https://jobs.lever.co/jobgether/43b39990-b128-4e99-94e1-17469294621c | Jobgether | Remote Data Engineer (Ireland/EU)
+- [ ] https://jobs.lever.co/jobgether/53d55358-646c-43dd-a1b9-a0cc3f67ec0f | Jobgether | Remote Data Engineer Position (Ireland/EU)
