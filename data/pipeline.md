@@ -1437,3 +1437,12 @@
 - [ ] https://job-boards.greenhouse.io/externaljobboards/jobs/5560538004 | Exadel | Senior Data Engineer (with Snowflake) (EU)
 - [ ] https://job-boards.greenhouse.io/sunriseunitedstatesinc/jobs/4921171008 | Sunrise | Senior Data Analyst (Remote Europe)
 - [ ] https://jobs.ashbyhq.com/kraken.com/1a0fa3ea-dc76-4fb9-94d0-8d1a1d96de4f | Kraken | Sr. Data Analyst, Compliance (Remote)
+- [ ] https://jobs.lever.co/airalo/bfe914e7-7cd2-4dc5-93db-493e8d9f5d7d | Airalo | Senior Data Analyst, Marketing Measurement
+- [ ] https://jobs.lever.co/jobgether/21f9ef37-4dcc-4e10-a731-e4fc621086f3 | Jobgether | Lead Data Platform Engineer (German Speaker)
+- [ ] https://jobs.lever.co/jobgether/29dcfc25-078b-4c44-a20f-1306d786ac40 | Jobgether | Staff Data Engineer
+- [ ] https://jobs.ashbyhq.com/fundingcircle/68dd9835-4213-4cda-88c8-0084d49d4bf9 | Funding Circle | Principal Data Engineer
+- [ ] https://jobs.ashbyhq.com/lendable/908fa75c-185b-4ea9-9f05-1f83e9582b1c | Lendable | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/lendable/0c505880-f195-4b75-b520-d51592525161 | Lendable | Senior Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/lendable/7486b00a-a606-4801-9da2-67b0454ce1e8 | Lendable | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/flywheeldigital/jobs/5012222008 | Flywheel Digital | Data Engineer (Dublin)
+- [ ] https://www.revolut.com/careers/position/0d3b16be-2424-4ca5-8877-d750f75bcd9f | Revolut | Data Platform Engineer
