@@ -1446,3 +1446,12 @@
 - [ ] https://jobs.ashbyhq.com/lendable/7486b00a-a606-4801-9da2-67b0454ce1e8 | Lendable | Senior Analytics Engineer
 - [ ] https://job-boards.greenhouse.io/flywheeldigital/jobs/5012222008 | Flywheel Digital | Data Engineer (Dublin)
 - [ ] https://www.revolut.com/careers/position/0d3b16be-2424-4ca5-8877-d750f75bcd9f | Revolut | Data Platform Engineer
+- [ ] https://job-boards.greenhouse.io/canonicaljobs/jobs/6973503 | Canonical | IoT Data Engineer (Jeddah, Saudi Arabia)
+- [ ] https://job-boards.greenhouse.io/typeform/jobs/7448804 | Typeform | Staff Data Platform Engineer (Remote EU)
+- [ ] https://job-boards.greenhouse.io/yld/jobs/4870880101 | YLD | Senior Data Engineer (UK Remote)
+- [ ] https://job-boards.greenhouse.io/yld/jobs/5008325101 | YLD | Principal Data Engineer (London)
+- [ ] https://job-boards.eu.greenhouse.io/beyondone/jobs/4600471101 | Beyond One | Data Engineer (Dubai)
+- [ ] https://job-boards.eu.greenhouse.io/beyondone/jobs/4808802101 | Beyond One | Senior Data Engineer I (Dubai)
+- [ ] https://apply.workable.com/raydar/j/76F2B54ABC/ | Raydar | Senior Data Engineer (UK/Netherlands Remote)
+- [ ] https://apply.workable.com/emaratech-2/j/E1A2C81B91/ | Emaratech | Senior Data Engineer (Dubai)
+- [ ] https://careers.global.com/jobs/R0009310 | Global | Senior Analytics Engineer (London)
