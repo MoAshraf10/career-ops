@@ -1455,3 +1455,7 @@
 - [ ] https://apply.workable.com/raydar/j/76F2B54ABC/ | Raydar | Senior Data Engineer (UK/Netherlands Remote)
 - [ ] https://apply.workable.com/emaratech-2/j/E1A2C81B91/ | Emaratech | Senior Data Engineer (Dubai)
 - [ ] https://careers.global.com/jobs/R0009310 | Global | Senior Analytics Engineer (London)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7807847 | Fin (Intercom) | Senior Analytics Engineer (Dublin, Ireland)
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7990921003 | DoiT | Data Engineer - Cloud & SaaS Integrations (UK/Ireland/EU Remote)
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7990925003 | DoiT | Data Engineer - Cloud & SaaS Integrations (Remote EMEA)
+- [ ] https://job-boards.greenhouse.io/fanaticsfbg/jobs/4327899009 | Fanatics Betting & Gaming | Data Engineer III FMX (London)
