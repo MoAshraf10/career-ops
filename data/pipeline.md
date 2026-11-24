@@ -1459,3 +1459,18 @@
 - [ ] https://job-boards.greenhouse.io/doitintl/jobs/7990921003 | DoiT | Data Engineer - Cloud & SaaS Integrations (UK/Ireland/EU Remote)
 - [ ] https://job-boards.greenhouse.io/doitintl/jobs/7990925003 | DoiT | Data Engineer - Cloud & SaaS Integrations (Remote EMEA)
 - [ ] https://job-boards.greenhouse.io/fanaticsfbg/jobs/4327899009 | Fanatics Betting & Gaming | Data Engineer III FMX (London)
+- [ ] https://jobs.ashbyhq.com/kit/cecc518c-2f11-433f-9f75-e9960330ccb9 | Kit | Senior Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/faire/jobs/8860409002 | Faire | Staff Data Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7990902003 | DoiT | Data Engineer - Cloud & SaaS Integrations (UK/Remote)
+- [ ] https://job-boards.greenhouse.io/yipitdata/jobs/8120683 | YipitData | Senior Data Analyst
+- [ ] https://jobs.ashbyhq.com/pennylane/a26bbade-e859-4fa9-8f6b-b6f19bb1747e | Pennylane | Senior Data Analyst - Acquisition (EU Remote)
+- [ ] https://jobs.ashbyhq.com/docplanner/3718bcdc-32d5-46c0-9da3-1100e0c8d597 | Docplanner | Senior Data Analyst (EU Remote)
+- [ ] https://apply.workable.com/brainlake-agency/j/5EC245940F | Brainlake | Data Engineer (UAE/GCC)
+- [ ] https://apply.workable.com/intersog-na/j/4DD36DBC5B | Intersog | Senior Data Platform Engineer (Canada Remote)
+- [ ] https://job-boards.greenhouse.io/datacamp/jobs/6983066 | DataCamp | Senior Marketing Data Analyst (Europe Remote)
+- [ ] https://job-boards.greenhouse.io/dwelly/jobs/4789950101 | Dwelly | Senior Data Analyst (UK Remote)
+- [ ] https://job-boards.greenhouse.io/genio/jobs/5558591004 | Genio | Senior Data Analyst (Leeds, UK)
+- [ ] https://job-boards.greenhouse.io/datacamp/jobs/6757899 | DataCamp | Product Data Analyst (Europe Remote)
+- [ ] https://job-boards.greenhouse.io/rollstack/jobs/4773051008 | Rollstack | Analytics Engineer (NA/Europe Remote)
+- [ ] https://apply.workable.com/midnite/j/82AF72AB08/ | Midnite | Senior Data Engineer (UK Remote)
+- [ ] https://jobs.lever.co/jobgether/7332aed1-42ae-4ecf-82c4-787da3124bf9 | Jobgether | Senior Data Engineer - Team Lead (Remote)
